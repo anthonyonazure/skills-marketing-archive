@@ -1,0 +1,14 @@
+{
+  "slug": "athina-ai-goose-skills--linkedin-outreach--9w959m",
+  "name": "LinkedIn outreach",
+  "description": "The LinkedIn counterpart to cold-email-outreach. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/athina-ai/goose-skills",
+  "source_file": "https://github.com/athina-ai/goose-skills/blob/HEAD/skills/outreach/capabilities/linkedin-outreach/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn outreach"
+  ],
+  "page": "https://skills.marketing/skills/athina-ai-goose-skills--linkedin-outreach--9w959m"
+}

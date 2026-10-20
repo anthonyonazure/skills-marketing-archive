@@ -1,0 +1,14 @@
+{
+  "slug": "finsilabs-awesome-ecommerce-skills--data-retention-policies--krms1k",
+  "name": "Data retention policies",
+  "description": "Data retention policies define how long each category of data is kept, when it is archived, and when it is purged. It gives the agent a clearer input/output frame for data retention policies: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/finsilabs/awesome-ecommerce-skills",
+  "source_file": "https://github.com/finsilabs/awesome-ecommerce-skills/blob/HEAD/skills/security-compliance/data-retention-policies/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "data retention policies"
+  ],
+  "page": "https://skills.marketing/skills/finsilabs-awesome-ecommerce-skills--data-retention-policies--krms1k"
+}

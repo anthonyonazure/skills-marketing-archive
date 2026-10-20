@@ -1,0 +1,14 @@
+{
+  "slug": "thatrebeccarae-claude-marketing--cold-email-outreach--1p9m5x6",
+  "name": "Cold email & outreach",
+  "description": "Cold email and outreach sequence design with personalization, deliverability optimization, follow-up cadence, and compliance (CAN-SPAM/GDPR). It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thatrebeccarae/claude-marketing",
+  "source_file": "https://github.com/thatrebeccarae/claude-marketing/blob/HEAD/skills/cold-email-outreach/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email & outreach"
+  ],
+  "page": "https://skills.marketing/skills/thatrebeccarae-claude-marketing--cold-email-outreach--1p9m5x6"
+}

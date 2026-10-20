@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-amazon--3x2ue6",
+  "name": "Amazon ads deep analysis",
+  "description": "Amazon Ads deep analysis covering Sponsored Products, Sponsored Brands (incl. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-amazon/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "amazon ads deep analysis"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-amazon--3x2ue6"
+}

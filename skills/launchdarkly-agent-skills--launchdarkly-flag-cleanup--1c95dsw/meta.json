@@ -1,0 +1,14 @@
+{
+  "slug": "launchdarkly-agent-skills--launchdarkly-flag-cleanup--1c95dsw",
+  "name": "Launchdarkly flag cleanup",
+  "description": "You're using a skill that will guide you through safely removing a feature flag from a codebase while preserving production behavior. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/launchdarkly/agent-skills",
+  "source_file": "https://github.com/launchdarkly/agent-skills/blob/HEAD/skills/feature-flags/launchdarkly-flag-cleanup/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launchdarkly flag cleanup"
+  ],
+  "page": "https://skills.marketing/skills/launchdarkly-agent-skills--launchdarkly-flag-cleanup--1c95dsw"
+}

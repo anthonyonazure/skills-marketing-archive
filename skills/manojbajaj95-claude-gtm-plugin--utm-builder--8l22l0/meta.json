@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--utm-builder--8l22l0",
+  "name": "UTM builder",
+  "description": "Generate UTM-tagged URLs for campaign tracking. It gives the agent a clearer input/output frame for UTM builder: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/utm-builder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UTM builder"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--utm-builder--8l22l0"
+}

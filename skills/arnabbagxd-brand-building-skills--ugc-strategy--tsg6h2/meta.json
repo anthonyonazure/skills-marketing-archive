@@ -1,0 +1,14 @@
+{
+  "slug": "arnabbagxd-brand-building-skills--ugc-strategy--tsg6h2",
+  "name": "UGC strategy",
+  "description": "Provides UGC strategist. It gives the agent a clearer input/output frame for UGC strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/arnabbagxd/brand-building-skills",
+  "source_file": "https://github.com/arnabbagxd/brand-building-skills/blob/HEAD/skills/ugc-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC strategy"
+  ],
+  "page": "https://skills.marketing/skills/arnabbagxd-brand-building-skills--ugc-strategy--tsg6h2"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "cofoundy-brand-skills--brand-positioning--1fe4ra6",
+  "name": "Brand positioning",
+  "description": "Define and sharpen a brand's market positioning \u2014 where it sits relative to competitors, what it owns, and how it differentiates. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/cofoundy/brand-skills",
+  "source_file": "https://github.com/cofoundy/brand-skills/blob/HEAD/skills/brand-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand positioning"
+  ],
+  "page": "https://skills.marketing/skills/cofoundy-brand-skills--brand-positioning--1fe4ra6"
+}

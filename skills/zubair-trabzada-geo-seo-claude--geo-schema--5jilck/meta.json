@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-schema--5jilck",
+  "name": "GEO schema & structured data",
+  "description": "Schema.org structured data audit and generation optimized for AI discoverability \u2014 detect, validate, and generate JSON-LD markup It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-schema/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO schema & structured data"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-schema--5jilck"
+}

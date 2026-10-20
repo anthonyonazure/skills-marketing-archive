@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-audit--1vtuc9t",
+  "name": "Full website SEO audit",
+  "description": "Full website SEO audit with parallel subagent delegation. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "full website SEO audit"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-audit--1vtuc9t"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--affiliate-program-planner--13f4st4",
+  "name": "Affiliate program planner",
+  "description": "Plans affiliate programs including commission structure, recruitment, incentives, tracking, and enablement. It gives the agent a clearer input/output frame for affiliate program planner: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/affiliate-program-planner/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "affiliate program planner"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--affiliate-program-planner--13f4st4"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--launch-readiness--1my0dn9",
+  "name": "Launch readiness auditor",
+  "description": "Audits whether a feature or product is truly ready for launch with a structured checklist and readiness status (Ready/At Risk/Not Ready). It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/launch-readiness/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launch readiness auditor"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--launch-readiness--1my0dn9"
+}

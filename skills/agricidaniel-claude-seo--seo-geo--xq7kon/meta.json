@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-geo--xq7kon",
+  "name": "AI search / GEO optimization (may 2026)",
+  "description": "Optimize content for AI Overviews (formerly SGE), ChatGPT web search, Perplexity, and other AI-powered search experiences. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-geo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI search / GEO optimization (may 2026)"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-geo--xq7kon"
+}

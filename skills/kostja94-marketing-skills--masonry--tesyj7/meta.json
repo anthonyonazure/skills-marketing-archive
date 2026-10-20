@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--masonry--tesyj7",
+  "name": "Masonry",
+  "description": "Guides masonry layout design for content with varying heights. It gives the agent a clearer input/output frame for masonry: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/masonry/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "masonry"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--masonry--tesyj7"
+}

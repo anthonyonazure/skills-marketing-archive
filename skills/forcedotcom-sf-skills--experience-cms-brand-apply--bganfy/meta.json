@@ -1,0 +1,14 @@
+{
+  "slug": "forcedotcom-sf-skills--experience-cms-brand-apply--bganfy",
+  "name": "Applying CMS brand",
+  "description": "Extracts, retrieves, and applies CMS brand guidelines (voice, tone, style, colors, typography) to generated content. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/forcedotcom/sf-skills",
+  "source_file": "https://github.com/forcedotcom/sf-skills/blob/HEAD/skills/experience-cms-brand-apply/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "applying CMS brand"
+  ],
+  "page": "https://skills.marketing/skills/forcedotcom-sf-skills--experience-cms-brand-apply--bganfy"
+}

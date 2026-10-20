@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--outcome-definition--1ir1jj5",
+  "name": "Outcome definition framework",
+  "description": "Shifts thinking from feature delivery to measurable user or business outcomes. It gives the agent a clearer input/output frame for outcome definition framework: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/outcome-definition/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "outcome definition framework"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--outcome-definition--1ir1jj5"
+}

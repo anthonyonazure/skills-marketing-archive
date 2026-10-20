@@ -1,0 +1,14 @@
+{
+  "slug": "onvoyage-ai-gtm-engineer-skills--improve-aeo-geo--cnhgcu",
+  "name": "Improve AEO GEO",
+  "description": "Provides expert guidance for at AI Engine Optimization (AEO) and Generative Engine Optimization (GEO). It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onvoyage-ai/gtm-engineer-skills",
+  "source_file": "https://github.com/onvoyage-ai/gtm-engineer-skills/blob/HEAD/improve-aeo-geo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "improve AEO GEO"
+  ],
+  "page": "https://skills.marketing/skills/onvoyage-ai-gtm-engineer-skills--improve-aeo-geo--cnhgcu"
+}

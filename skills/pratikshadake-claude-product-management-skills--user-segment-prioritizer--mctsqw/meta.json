@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--user-segment-prioritizer--mctsqw",
+  "name": "User segment prioritizer",
+  "description": "Identifies which user segment to focus on first using pain severity, willingness to pay, reachability, and strategic alignment. It gives the agent a clearer input/output frame for user segment prioritizer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/user-segment-prioritizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "user segment prioritizer"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--user-segment-prioritizer--mctsqw"
+}

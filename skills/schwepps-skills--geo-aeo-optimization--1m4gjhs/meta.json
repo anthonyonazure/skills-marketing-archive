@@ -1,0 +1,14 @@
+{
+  "slug": "schwepps-skills--geo-aeo-optimization--1m4gjhs",
+  "name": "GEO AEO optimization",
+  "description": "Professional methodology for visibility in AI-powered search engines and generative AI responses. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/schwepps/skills",
+  "source_file": "https://github.com/schwepps/skills/blob/HEAD/geo-aeo-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO AEO optimization"
+  ],
+  "page": "https://skills.marketing/skills/schwepps-skills--geo-aeo-optimization--1m4gjhs"
+}

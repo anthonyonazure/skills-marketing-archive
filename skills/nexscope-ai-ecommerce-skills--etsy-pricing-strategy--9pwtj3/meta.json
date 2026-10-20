@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--etsy-pricing-strategy--9pwtj3",
+  "name": "Etsy pricing strategy",
+  "description": "Etsy pricing \u2014 cost calculation, competitor pricing, perceived value, shipping cost integration, sales and coupons. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "etsy pricing strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--etsy-pricing-strategy--9pwtj3"
+}

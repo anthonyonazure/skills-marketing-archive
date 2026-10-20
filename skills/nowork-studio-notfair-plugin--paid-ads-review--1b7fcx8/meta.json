@@ -1,0 +1,14 @@
+{
+  "slug": "nowork-studio-notfair-plugin--paid-ads-review--1b7fcx8",
+  "name": "Canonical NotFair workflow",
+  "description": "Produce a read-only, evidence-based paid-media performance review across connected platforms or supplied exports. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nowork-studio/notfair-plugin",
+  "source_file": "https://github.com/nowork-studio/notfair-plugin/blob/HEAD/skills/paid-ads-review/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "canonical NotFair workflow"
+  ],
+  "page": "https://skills.marketing/skills/nowork-studio-notfair-plugin--paid-ads-review--1b7fcx8"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--image--gygwd",
+  "name": "Image",
+  "description": "Provides expert guidance for visual content producer who helps create marketing images using AI generation models, design tools, and optimization best practices. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/image/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "image"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--image--gygwd"
+}

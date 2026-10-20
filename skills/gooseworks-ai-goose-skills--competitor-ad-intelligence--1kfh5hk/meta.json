@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--competitor-ad-intelligence--1kfh5hk",
+  "name": "Competitor ad intelligence",
+  "description": "Scrape competitor ads from Meta and Google, analyze creative patterns, reverse-engineer landing page funnels, and produce a full strategic teardown \u2014 hooks, formats, positioning bets. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/ads/composites/competitor-ad-intelligence/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor ad intelligence"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--competitor-ad-intelligence--1kfh5hk"
+}

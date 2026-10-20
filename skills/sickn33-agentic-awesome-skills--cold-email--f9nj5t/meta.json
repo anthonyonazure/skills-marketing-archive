@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--cold-email--f9nj5t",
+  "name": "Cold email writing",
+  "description": "Write B2B cold emails and follow-up sequences that earn replies. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email writing"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--cold-email--f9nj5t"
+}

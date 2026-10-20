@@ -1,0 +1,14 @@
+{
+  "slug": "apify-awesome-skills--apify-verified-email-finder--awglpb",
+  "name": "Verified email finder",
+  "description": "Builds a list of verified business emails from Google Maps, Google SERPs, or a user-supplied URL list. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/apify/awesome-skills",
+  "source_file": "https://github.com/apify/awesome-skills/blob/HEAD/skills/apify-verified-email-finder/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "verified email finder"
+  ],
+  "page": "https://skills.marketing/skills/apify-awesome-skills--apify-verified-email-finder--awglpb"
+}

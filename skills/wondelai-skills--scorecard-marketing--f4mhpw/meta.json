@@ -1,0 +1,14 @@
+{
+  "slug": "wondelai-skills--scorecard-marketing--f4mhpw",
+  "name": "Scorecard marketing",
+  "description": "A proven 4-step system for generating qualified leads through interactive assessments that arrive with rich data about each prospect. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/wondelai/skills",
+  "source_file": "https://github.com/wondelai/skills/blob/HEAD/scorecard-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "scorecard marketing"
+  ],
+  "page": "https://skills.marketing/skills/wondelai-skills--scorecard-marketing--f4mhpw"
+}

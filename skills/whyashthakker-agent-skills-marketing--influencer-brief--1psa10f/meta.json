@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--influencer-brief--1psa10f",
+  "name": "Influencer campaign brief generator",
+  "description": "Generates a complete influencer marketing campaign brief from a one-line input. It gives the agent a clearer input/output frame for influencer campaign brief generator: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/influencer-brief/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer campaign brief generator"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--influencer-brief--1psa10f"
+}

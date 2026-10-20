@@ -1,0 +1,14 @@
+{
+  "slug": "firecrawl-firecrawl-workflows--firecrawl-lead-research--hy2x4t",
+  "name": "Firecrawl lead research",
+  "description": "Produce pre-meeting lead intelligence briefs with Firecrawl. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/firecrawl/firecrawl-workflows",
+  "source_file": "https://github.com/firecrawl/firecrawl-workflows/blob/HEAD/skills/firecrawl-lead-research/SKILL.md",
+  "license": "MPL-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "firecrawl lead research"
+  ],
+  "page": "https://skills.marketing/skills/firecrawl-firecrawl-workflows--firecrawl-lead-research--hy2x4t"
+}

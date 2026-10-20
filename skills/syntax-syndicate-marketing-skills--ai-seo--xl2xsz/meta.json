@@ -1,0 +1,14 @@
+{
+  "slug": "syntax-syndicate-marketing-skills--ai-seo--xl2xsz",
+  "name": "AI SEO",
+  "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/syntax-syndicate/marketing-skills",
+  "source_file": "https://github.com/syntax-syndicate/marketing-skills/blob/HEAD/skills/ai-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI SEO"
+  ],
+  "page": "https://skills.marketing/skills/syntax-syndicate-marketing-skills--ai-seo--xl2xsz"
+}

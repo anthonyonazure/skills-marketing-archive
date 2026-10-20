@@ -1,0 +1,14 @@
+{
+  "slug": "thecraighewitt-sales-skills--cold-email--r06hig",
+  "name": "Cold email",
+  "description": "When the user wants to write cold outbound emails, craft prospecting email copy, build follow-up sequences, or fix emails that aren't getting replies. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thecraighewitt/sales-skills",
+  "source_file": "https://github.com/thecraighewitt/sales-skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email"
+  ],
+  "page": "https://skills.marketing/skills/thecraighewitt-sales-skills--cold-email--r06hig"
+}

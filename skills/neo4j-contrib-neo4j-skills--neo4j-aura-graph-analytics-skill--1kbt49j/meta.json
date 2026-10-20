@@ -1,0 +1,14 @@
+{
+  "slug": "neo4j-contrib-neo4j-skills--neo4j-aura-graph-analytics-skill--1kbt49j",
+  "name": "Reads: aura_client_id, aura_client_secret, aura_project_id (optional)",
+  "description": "Serverless Aura Graph Analytics (AGA) GDS Sessions \u2014 covers GdsSessions, It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/neo4j-contrib/neo4j-skills",
+  "source_file": "https://github.com/neo4j-contrib/neo4j-skills/blob/HEAD/neo4j-aura-graph-analytics-skill/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "reads: aura_client_id, aura_client_secret, aura_project_id (optional)"
+  ],
+  "page": "https://skills.marketing/skills/neo4j-contrib-neo4j-skills--neo4j-aura-graph-analytics-skill--1kbt49j"
+}

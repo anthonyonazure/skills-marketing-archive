@@ -1,0 +1,14 @@
+{
+  "slug": "octagonai-skills--cash-flow-growth--alu1q1",
+  "name": "Cash flow growth",
+  "description": "Retrieve year-over-year growth in cash flow metrics including Operating Cash Flow, Free Cash Flow, and Net Cash Flow. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/octagonai/skills",
+  "source_file": "https://github.com/octagonai/skills/blob/HEAD/skills/cash-flow-growth/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cash flow growth"
+  ],
+  "page": "https://skills.marketing/skills/octagonai-skills--cash-flow-growth--alu1q1"
+}

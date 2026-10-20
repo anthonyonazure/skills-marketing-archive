@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-audit--86sua9",
+  "name": "Full multi-platform ads audit",
+  "description": "Full multi-platform paid advertising audit with parallel subagent delegation. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "full multi-platform ads audit"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-audit--86sua9"
+}

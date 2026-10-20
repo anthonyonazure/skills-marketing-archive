@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--procurement-playbook--y76icz",
+  "name": "Procurement playbook",
+  "description": "When to Use Enterprise deals entering security/privacy review or contract negotiation. It gives the agent a clearer input/output frame for procurement playbook: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/enterprise-sales/skills/procurement-playbook/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "procurement playbook"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--procurement-playbook--y76icz"
+}

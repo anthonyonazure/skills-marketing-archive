@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--seo-aeo-schema-generator--5spzy4",
+  "name": "SEO AEO schema generator",
+  "description": "Generates implementation-ready JSON-LD schema markup for 10 schema types including FAQPage, Article, Product, HowTo, and BreadcrumbList. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/seo-aeo-schema-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO schema generator"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--seo-aeo-schema-generator--5spzy4"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--personalization-at-scale--6envfv",
+  "name": "Personalization at scale",
+  "description": "Generate unique personalized first lines for hundreds of prospects using company news, LinkedIn activity, and mutual connections. It gives the agent a clearer input/output frame for personalization at scale: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/personalization-at-scale/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "personalization at scale"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--personalization-at-scale--6envfv"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "blacktwist-social-media-skills--hook-writer-sms--nfw50m",
+  "name": "Hook writer",
+  "description": "When the user wants help writing opening lines, hooks, first sentences, video hooks, thumbnails titles, or pin titles that grab attention. It gives the agent a clearer input/output frame for hook writer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/blacktwist/social-media-skills",
+  "source_file": "https://github.com/blacktwist/social-media-skills/blob/HEAD/skills/hook-writer-sms/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "hook writer"
+  ],
+  "page": "https://skills.marketing/skills/blacktwist-social-media-skills--hook-writer-sms--nfw50m"
+}

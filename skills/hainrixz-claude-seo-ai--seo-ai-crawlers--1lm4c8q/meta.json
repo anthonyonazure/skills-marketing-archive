@@ -1,0 +1,14 @@
+{
+  "slug": "hainrixz-claude-seo-ai--seo-ai-crawlers--1lm4c8q",
+  "name": "SEO-AI-crawlers (m14)",
+  "description": "Audit AI crawler access and citability for a page \u2014 confirm retrieval/citation bots (OAI-SearchBot, Claude-SearchBot, PerplexityBot) are allowed and the Googlebot vs Google-Extended split. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hainrixz/claude-seo-ai",
+  "source_file": "https://github.com/hainrixz/claude-seo-ai/blob/HEAD/skills/seo-ai-crawlers/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AI-crawlers (m14)"
+  ],
+  "page": "https://skills.marketing/skills/hainrixz-claude-seo-ai--seo-ai-crawlers--1lm4c8q"
+}

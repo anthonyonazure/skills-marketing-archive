@@ -1,0 +1,14 @@
+{
+  "slug": "wispr-flow-claude-skills--wispr-flow-copy-editing--1ui6ql6",
+  "name": "Copy editing",
+  "description": "Polish and improve existing copy for clarity, conversion, and brand voice. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/wisprflow/copy-editing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "copy editing"
+  ],
+  "page": "https://skills.marketing/skills/wispr-flow-claude-skills--wispr-flow-copy-editing--1ui6ql6"
+}

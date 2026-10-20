@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--multi-domain-brand-seo--5vb2zo",
+  "name": "Multi domain brand SEO",
+  "description": "When a company has multiple domains (e.g., company.com and product.ai), ensure the company/main site ranks first for brand queries. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/multi-domain-brand-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "multi domain brand SEO"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--multi-domain-brand-seo--5vb2zo"
+}

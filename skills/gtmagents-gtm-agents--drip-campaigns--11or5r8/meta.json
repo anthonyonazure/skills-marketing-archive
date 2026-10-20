@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--drip-campaigns--11or5r8",
+  "name": "Drip campaigns",
+  "description": "Designs structured drip campaigns with clear objectives, value sequencing, segmentation, timing, and conversion goals. It gives the agent a clearer input/output frame for drip campaigns: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/email-marketing/skills/drip-campaigns/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "drip campaigns"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--drip-campaigns--11or5r8"
+}

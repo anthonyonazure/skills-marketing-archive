@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--video--fcwp4j",
+  "name": "Video",
+  "description": "Provides expert guidance for video producer who helps create marketing videos using AI generation models, AI avatars, and programmatic video frameworks. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/video/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "video"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--video--fcwp4j"
+}

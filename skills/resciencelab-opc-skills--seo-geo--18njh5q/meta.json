@@ -1,0 +1,14 @@
+{
+  "slug": "resciencelab-opc-skills--seo-geo--18njh5q",
+  "name": "SEO/GEO optimization skill",
+  "description": "SEO & GEO (Generative Engine Optimization) for websites. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/resciencelab/opc-skills",
+  "source_file": "https://github.com/resciencelab/opc-skills/blob/HEAD/skills/seo-geo/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO/GEO optimization skill"
+  ],
+  "page": "https://skills.marketing/skills/resciencelab-opc-skills--seo-geo--18njh5q"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--seo-aeo-blog-writer--12y6oe4",
+  "name": "SEO-AEO blog writer",
+  "description": "Writes long-form blog posts with TL;DR block, definition sentence, comparison table, and 5-question FAQ for SEO ranking and AEO citation. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/seo-aeo-blog-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AEO blog writer"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--seo-aeo-blog-writer--12y6oe4"
+}

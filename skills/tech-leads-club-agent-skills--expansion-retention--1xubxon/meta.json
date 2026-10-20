@@ -1,0 +1,14 @@
+{
+  "slug": "tech-leads-club-agent-skills--expansion-retention--1xubxon",
+  "name": "Expansion retention",
+  "description": "Provides GTM strategist specializing in post-sale revenue growth, churn prevention, and net revenue retention optimization. It gives the agent a clearer input/output frame for expansion retention: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tech-leads-club/agent-skills",
+  "source_file": "https://github.com/tech-leads-club/agent-skills/blob/HEAD/packages/skills-catalog/skills/(gtm)/expansion-retention/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "expansion retention"
+  ],
+  "page": "https://skills.marketing/skills/tech-leads-club-agent-skills--expansion-retention--1xubxon"
+}

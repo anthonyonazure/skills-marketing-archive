@@ -1,0 +1,14 @@
+{
+  "slug": "useosint-skills--geolocate-from-pixels--ei4vhy",
+  "name": "Geolocate from pixels",
+  "description": "Geolocate and chronolocate a photo or video from visual evidence alone \u2014 plate and phone number formats, road markings, utility poles, bollards, signage typefaces, architecture and. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/useosint/skills",
+  "source_file": "https://github.com/useosint/skills/blob/HEAD/skills/geolocate-from-pixels/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "geolocate from pixels"
+  ],
+  "page": "https://skills.marketing/skills/useosint-skills--geolocate-from-pixels--ei4vhy"
+}

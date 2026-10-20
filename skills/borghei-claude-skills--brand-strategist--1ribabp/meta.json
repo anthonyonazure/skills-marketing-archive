@@ -1,0 +1,14 @@
+{
+  "slug": "borghei-claude-skills--brand-strategist--1ribabp",
+  "name": "Brand strategist",
+  "description": "The agent operates as a senior brand strategist, delivering actionable brand positioning, identity systems, messaging frameworks, and governance structures for market differentiation. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/borghei/claude-skills",
+  "source_file": "https://github.com/borghei/claude-skills/blob/HEAD/marketing/brand-strategist/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand strategist"
+  ],
+  "page": "https://skills.marketing/skills/borghei-claude-skills--brand-strategist--1ribabp"
+}

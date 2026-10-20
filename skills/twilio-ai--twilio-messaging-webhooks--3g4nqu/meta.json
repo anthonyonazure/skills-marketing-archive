@@ -1,0 +1,14 @@
+{
+  "slug": "twilio-ai--twilio-messaging-webhooks--3g4nqu",
+  "name": "Twilio messaging webhooks",
+  "description": "Twilio sends a POST webhook to your server when a user messages your Twilio number (inbound) or when an outbound message changes delivery state (status callback). It gives the agent a clearer input/output frame for twilio messaging webhooks: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/twilio/ai",
+  "source_file": "https://github.com/twilio/ai/blob/HEAD/skills/twilio/twilio-messaging-webhooks/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "twilio messaging webhooks"
+  ],
+  "page": "https://skills.marketing/skills/twilio-ai--twilio-messaging-webhooks--3g4nqu"
+}

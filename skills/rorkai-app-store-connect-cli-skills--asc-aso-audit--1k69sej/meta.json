@@ -1,0 +1,14 @@
+{
+  "slug": "rorkai-app-store-connect-cli-skills--asc-aso-audit--1k69sej",
+  "name": "Asc ASO audit",
+  "description": "Run an offline ASO audit on canonical App Store metadata under ./metadata and surface keyword gaps using Astro MCP. It gives the agent a clearer input/output frame for asc ASO audit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rorkai/app-store-connect-cli-skills",
+  "source_file": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-aso-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "asc ASO audit"
+  ],
+  "page": "https://skills.marketing/skills/rorkai-app-store-connect-cli-skills--asc-aso-audit--1k69sej"
+}

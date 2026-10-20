@@ -1,0 +1,14 @@
+{
+  "slug": "asgard-ai-platform-skills--biz-brand-positioning--evyv0y",
+  "name": "Biz brand positioning",
+  "description": "Brand positioning defines the distinct place a brand occupies in the target customer's mind relative to competitors. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/asgard-ai-platform/skills",
+  "source_file": "https://github.com/asgard-ai-platform/skills/blob/HEAD/biz-brand-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "biz brand positioning"
+  ],
+  "page": "https://skills.marketing/skills/asgard-ai-platform-skills--biz-brand-positioning--evyv0y"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--launch-runbook--15nj69l",
+  "name": "Launch runbook",
+  "description": "Plan and execute the launch of a website, product, or major release. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/launch-runbook/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launch runbook"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--launch-runbook--15nj69l"
+}

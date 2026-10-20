@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-platform-optimizer--1h7upyq",
+  "name": "GEO platform optimizer",
+  "description": "Platform-specific AI search optimization \u2014 audit and optimize for Google AI Overviews, ChatGPT, Perplexity, Gemini, and Bing Copilot individually It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-platform-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO platform optimizer"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-platform-optimizer--1h7upyq"
+}

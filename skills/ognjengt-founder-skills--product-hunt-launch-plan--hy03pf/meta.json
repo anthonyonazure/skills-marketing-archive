@@ -1,0 +1,14 @@
+{
+  "slug": "ognjengt-founder-skills--product-hunt-launch-plan--hy03pf",
+  "name": "Product hunt launch plan",
+  "description": "Purpose Generate a comprehensive, personalized Product Hunt launch plan with actionable steps from A-Z to help the user rank #1 Product of the Day. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ognjengt/founder-skills",
+  "source_file": "https://github.com/ognjengt/founder-skills/blob/HEAD/skills/product-hunt-launch-plan/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product hunt launch plan"
+  ],
+  "page": "https://skills.marketing/skills/ognjengt-founder-skills--product-hunt-launch-plan--hy03pf"
+}

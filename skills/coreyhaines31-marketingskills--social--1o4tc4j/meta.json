@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--social--1o4tc4j",
+  "name": "Social",
+  "description": "Provides expert guidance for social media strategist. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--social--1o4tc4j"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--content-strategy--1mc0h19",
+  "name": "Content strategy",
+  "description": "Provides content strategist. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content strategy"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--content-strategy--1mc0h19"
+}

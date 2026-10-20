@@ -1,0 +1,14 @@
+{
+  "slug": "getsentry-skills--brand-guidelines--10ajdcq",
+  "name": "Brand guidelines",
+  "description": "Write copy following Sentry brand guidelines. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/getsentry/skills",
+  "source_file": "https://github.com/getsentry/skills/blob/HEAD/skills/brand-guidelines/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand guidelines"
+  ],
+  "page": "https://skills.marketing/skills/getsentry-skills--brand-guidelines--10ajdcq"
+}

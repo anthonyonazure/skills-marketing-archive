@@ -1,0 +1,14 @@
+{
+  "slug": "wondelai-skills--cro-methodology--1p8t3d5",
+  "name": "CRO methodology",
+  "description": "Scientific, customer-centric approach to conversion rate optimization based on the CRE Methodology(TM). It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/wondelai/skills",
+  "source_file": "https://github.com/wondelai/skills/blob/HEAD/cro-methodology/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "CRO methodology"
+  ],
+  "page": "https://skills.marketing/skills/wondelai-skills--cro-methodology--1p8t3d5"
+}

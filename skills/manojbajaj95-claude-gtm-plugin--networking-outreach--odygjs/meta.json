@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--networking-outreach--odygjs",
+  "name": "Networking outreach",
+  "description": "Relationship-first networking skill for identifying the right people to connect with and drafting value-add outreach \u2014 not sales, not referral asks. It gives the agent a clearer input/output frame for networking outreach: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/networking-outreach/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "networking outreach"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--networking-outreach--odygjs"
+}

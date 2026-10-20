@@ -1,0 +1,14 @@
+{
+  "slug": "yoanbernabeu-producthunt-skills--ph-conversion-tracking--6pxp0f",
+  "name": "PH conversion tracking",
+  "description": "This skill helps you measure the real business impact of your Product Hunt launch through conversion tracking and ROI analysis. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/yoanbernabeu/producthunt-skills",
+  "source_file": "https://github.com/yoanbernabeu/producthunt-skills/blob/HEAD/skills/analytics/ph-conversion-tracking/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PH conversion tracking"
+  ],
+  "page": "https://skills.marketing/skills/yoanbernabeu-producthunt-skills--ph-conversion-tracking--6pxp0f"
+}

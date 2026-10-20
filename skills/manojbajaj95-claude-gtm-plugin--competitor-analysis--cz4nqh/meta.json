@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--competitor-analysis--cz4nqh",
+  "name": "Competitor analysis",
+  "description": "Comprehensive competitor analysis, competitive intelligence, and comparison page creation. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--competitor-analysis--cz4nqh"
+}

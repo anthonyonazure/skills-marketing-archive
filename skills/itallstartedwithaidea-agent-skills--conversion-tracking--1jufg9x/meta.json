@@ -1,0 +1,14 @@
+{
+  "slug": "itallstartedwithaidea-agent-skills--conversion-tracking--1jufg9x",
+  "name": "Conversion tracking",
+  "description": "The Conversion Tracking skill provides end-to-end management of Google Ads conversion measurement infrastructure. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/itallstartedwithaidea/agent-skills",
+  "source_file": "https://github.com/itallstartedwithaidea/agent-skills/blob/HEAD/skills/google-ads/conversion-tracking/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion tracking"
+  ],
+  "page": "https://skills.marketing/skills/itallstartedwithaidea-agent-skills--conversion-tracking--1jufg9x"
+}

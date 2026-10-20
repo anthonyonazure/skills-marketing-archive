@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--ai-seo--1xofulg",
+  "name": "AI SEO",
+  "description": "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/ai-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI SEO"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--ai-seo--1xofulg"
+}

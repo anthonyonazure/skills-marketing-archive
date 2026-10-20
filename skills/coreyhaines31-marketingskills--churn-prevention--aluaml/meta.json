@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--churn-prevention--aluaml",
+  "name": "Churn prevention",
+  "description": "Provides expert guidance for guidance for SaaS retention and churn prevention. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/churn-prevention/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn prevention"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--churn-prevention--aluaml"
+}

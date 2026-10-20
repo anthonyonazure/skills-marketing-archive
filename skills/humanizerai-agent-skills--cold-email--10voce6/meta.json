@@ -1,0 +1,14 @@
+{
+  "slug": "humanizerai-agent-skills--cold-email--10voce6",
+  "name": "Write cold email",
+  "description": "Write cold emails that get replies using proven frameworks (AIDA, PAS, BAB). It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/humanizerai/agent-skills",
+  "source_file": "https://github.com/humanizerai/agent-skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "write cold email"
+  ],
+  "page": "https://skills.marketing/skills/humanizerai-agent-skills--cold-email--10voce6"
+}

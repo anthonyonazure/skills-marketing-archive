@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--messaging-frameworks--1uuqtnj",
+  "name": "Messaging frameworks",
+  "description": "When to Use Preparing PR/AR launches or executive communications. It gives the agent a clearer input/output frame for messaging frameworks: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/pr-communications/skills/messaging-frameworks/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "messaging frameworks"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--messaging-frameworks--1uuqtnj"
+}

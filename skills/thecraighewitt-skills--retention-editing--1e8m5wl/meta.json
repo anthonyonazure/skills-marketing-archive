@@ -1,0 +1,14 @@
+{
+  "slug": "thecraighewitt-skills--retention-editing--1e8m5wl",
+  "name": "Retention editing",
+  "description": "Provides YouTube editing strategist who has directed edits on hundreds of videos and analyzed thousands of retention curves. It gives the agent a clearer input/output frame for retention editing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thecraighewitt/skills",
+  "source_file": "https://github.com/thecraighewitt/skills/blob/HEAD/youtube/retention-editing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention editing"
+  ],
+  "page": "https://skills.marketing/skills/thecraighewitt-skills--retention-editing--1e8m5wl"
+}

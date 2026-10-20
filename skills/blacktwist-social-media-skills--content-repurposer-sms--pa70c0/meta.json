@@ -1,0 +1,14 @@
+{
+  "slug": "blacktwist-social-media-skills--content-repurposer-sms--pa70c0",
+  "name": "Content repurposer",
+  "description": "When the user wants to turn one piece of content into multiple formats or adapt content across text-first and visual-first platforms (LinkedIn, Twitter/X, Threads, Bluesky, Facebook. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/blacktwist/social-media-skills",
+  "source_file": "https://github.com/blacktwist/social-media-skills/blob/HEAD/skills/content-repurposer-sms/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content repurposer"
+  ],
+  "page": "https://skills.marketing/skills/blacktwist-social-media-skills--content-repurposer-sms--pa70c0"
+}

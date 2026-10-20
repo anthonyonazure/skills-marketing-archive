@@ -1,0 +1,14 @@
+{
+  "slug": "realjaymes-marketingagentskills--marketing-product-ideas--znhap3",
+  "name": "Marketing & product ideas",
+  "description": "When the user needs marketing or product ideas grounded in behavioral principles and proven experiments. It gives the agent a clearer input/output frame for marketing & product ideas: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/realjaymes/marketingagentskills",
+  "source_file": "https://github.com/realjaymes/marketingagentskills/blob/HEAD/skills/marketing-product-ideas/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing & product ideas"
+  ],
+  "page": "https://skills.marketing/skills/realjaymes-marketingagentskills--marketing-product-ideas--znhap3"
+}

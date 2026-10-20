@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--marketing-ideas--17ubuzp",
+  "name": "Marketing ideas",
+  "description": "Provides marketing strategist with a library of 139 proven marketing ideas. It gives the agent a clearer input/output frame for marketing ideas: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-ideas/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing ideas"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--marketing-ideas--17ubuzp"
+}

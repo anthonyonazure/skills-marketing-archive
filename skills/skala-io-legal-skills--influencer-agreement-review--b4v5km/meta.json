@@ -1,0 +1,14 @@
+{
+  "slug": "skala-io-legal-skills--influencer-agreement-review--b4v5km",
+  "name": "Influencer agreement review",
+  "description": "General guidance only. It gives the agent a clearer input/output frame for influencer agreement review: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/skala-io/legal-skills",
+  "source_file": "https://github.com/skala-io/legal-skills/blob/HEAD/skills/influencer-agreement-review/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer agreement review"
+  ],
+  "page": "https://skills.marketing/skills/skala-io-legal-skills--influencer-agreement-review--b4v5km"
+}

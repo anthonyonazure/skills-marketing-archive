@@ -1,0 +1,14 @@
+{
+  "slug": "loops-so-skills--loops-email-sending-best-practices--1d0zwa9",
+  "name": "Email sending best practices",
+  "description": "Use this skill when the user wants to review, audit, improve, or plan email sending best practices. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/loops-so/skills",
+  "source_file": "https://github.com/loops-so/skills/blob/HEAD/skills/loops-email-sending-best-practices/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email sending best practices"
+  ],
+  "page": "https://skills.marketing/skills/loops-so-skills--loops-email-sending-best-practices--1d0zwa9"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--conversion-audit--1ghaogq",
+  "name": "Conversion audit",
+  "description": "Use when auditing a landing page, sales page, or product page before launch, diagnosing why a page gets traffic but doesn't convert, reviewing ad landing pages before spending on paid. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/conversion/conversion-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion audit"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--conversion-audit--1ghaogq"
+}

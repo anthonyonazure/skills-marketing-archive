@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-amazon-skills--amazon-brand-analytics--1w94o94",
+  "name": "Amazon brand analytics",
+  "description": "Unlock Brand Analytics insights for strategic growth. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/amazon-skills",
+  "source_file": "https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-brand-analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "amazon brand analytics"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-amazon-skills--amazon-brand-analytics--1w94o94"
+}

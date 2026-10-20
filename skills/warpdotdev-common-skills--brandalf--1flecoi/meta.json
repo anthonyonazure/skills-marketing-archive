@@ -1,0 +1,14 @@
+{
+  "slug": "warpdotdev-common-skills--brandalf--1flecoi",
+  "name": "Brandalf",
+  "description": "Guides creation, revision, and review of Warp- or Oz-branded assets. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/warpdotdev/common-skills",
+  "source_file": "https://github.com/warpdotdev/common-skills/blob/HEAD/.agents/skills/brandalf/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brandalf"
+  ],
+  "page": "https://skills.marketing/skills/warpdotdev-common-skills--brandalf--1flecoi"
+}

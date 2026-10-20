@@ -1,0 +1,14 @@
+{
+  "slug": "getpaseo-paseo--paseo-committee--108ukeu",
+  "name": "Committee skill",
+  "description": "Form a committee of two high-reasoning agents to step back, do root cause analysis, and produce a plan. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/getpaseo/paseo",
+  "source_file": "https://github.com/getpaseo/paseo/blob/HEAD/skills/paseo-committee/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "committee skill"
+  ],
+  "page": "https://skills.marketing/skills/getpaseo-paseo--paseo-committee--108ukeu"
+}

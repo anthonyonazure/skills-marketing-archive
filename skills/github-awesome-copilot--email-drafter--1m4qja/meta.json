@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--email-drafter--1m4qja",
+  "name": "Email drafter",
+  "description": "Draft and review professional emails that match your personal writing style. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/email-drafter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email drafter"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--email-drafter--1m4qja"
+}

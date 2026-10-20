@@ -1,0 +1,14 @@
+{
+  "slug": "bytedance-deer-flow--newsletter-generation--yz618m",
+  "name": "Newsletter generation",
+  "description": "This skill generates professional, well-researched newsletters that combine curated content from multiple sources with original analysis and commentary. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/bytedance/deer-flow",
+  "source_file": "https://github.com/bytedance/deer-flow/blob/HEAD/skills/public/newsletter-generation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter generation"
+  ],
+  "page": "https://skills.marketing/skills/bytedance-deer-flow--newsletter-generation--yz618m"
+}

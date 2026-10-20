@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--partnership-outreach-writer--xifyob",
+  "name": "Partnership outreach writer",
+  "description": "Writes partnership outreach emails, proposals, and co-marketing pitches. It gives the agent a clearer input/output frame for partnership outreach writer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/partnership-outreach-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "partnership outreach writer"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--partnership-outreach-writer--xifyob"
+}

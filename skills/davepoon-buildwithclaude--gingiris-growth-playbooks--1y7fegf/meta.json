@@ -1,0 +1,14 @@
+{
+  "slug": "davepoon-buildwithclaude--gingiris-growth-playbooks--1y7fegf",
+  "name": "Gingiris growth playbooks",
+  "description": "Battle-tested, open-source growth playbooks for developers and founders building AI products, B2B SaaS, and developer tools. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/davepoon/buildwithclaude",
+  "source_file": "https://github.com/davepoon/buildwithclaude/blob/HEAD/plugins/all-skills/skills/gingiris-growth-playbooks/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "gingiris growth playbooks"
+  ],
+  "page": "https://skills.marketing/skills/davepoon-buildwithclaude--gingiris-growth-playbooks--1y7fegf"
+}

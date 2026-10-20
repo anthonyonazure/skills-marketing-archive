@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--ai-seo--24nonu",
+  "name": "AI SEO",
+  "description": "Provides expert guidance for guidance for AI search optimization \u2014 the practice of making content discoverable, extractable, and citable by AI systems including Google AI Overviews, ChatGPT. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI SEO"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--ai-seo--24nonu"
+}

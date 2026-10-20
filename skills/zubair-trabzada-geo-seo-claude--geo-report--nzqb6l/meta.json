@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-report--nzqb6l",
+  "name": "GEO client report generator",
+  "description": "Generate a professional, client-facing GEO report combining all audit results into a single deliverable with scores, findings, and prioritized actions It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-report/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO client report generator"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-report--nzqb6l"
+}

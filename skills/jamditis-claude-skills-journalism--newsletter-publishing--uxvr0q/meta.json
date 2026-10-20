@@ -1,0 +1,14 @@
+{
+  "slug": "jamditis-claude-skills-journalism--newsletter-publishing--uxvr0q",
+  "name": "Newsletter publishing",
+  "description": "Practical workflows for building and managing email newsletters for journalism and academia. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jamditis/claude-skills-journalism",
+  "source_file": "https://github.com/jamditis/claude-skills-journalism/blob/HEAD/journalism-core/skills/newsletter-publishing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter publishing"
+  ],
+  "page": "https://skills.marketing/skills/jamditis-claude-skills-journalism--newsletter-publishing--uxvr0q"
+}

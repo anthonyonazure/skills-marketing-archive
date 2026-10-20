@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--influencer-brief--5sghfq",
+  "name": "Influencer brief",
+  "description": "Create a complete influencer campaign brief that covers creator discovery criteria, content guidelines, compliance requirements, compensation framework, and performance measurement. It gives the agent a clearer input/output frame for influencer brief: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/influencer-brief/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer brief"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--influencer-brief--5sghfq"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--funnel-analyzer--1vwo3do",
+  "name": "Funnel analyzer",
+  "description": "Analyze conversion funnels to identify drop-off points and optimization opportunities. It gives the agent a clearer input/output frame for funnel analyzer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/analytics/funnel-analyzer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "funnel analyzer"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--funnel-analyzer--1vwo3do"
+}

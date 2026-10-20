@@ -1,0 +1,14 @@
+{
+  "slug": "wondelai-skills--storybrand-messaging--1i278a8",
+  "name": "Storybrand messaging",
+  "description": "Clarify your message so customers will listen. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/wondelai/skills",
+  "source_file": "https://github.com/wondelai/skills/blob/HEAD/storybrand-messaging/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "storybrand messaging"
+  ],
+  "page": "https://skills.marketing/skills/wondelai-skills--storybrand-messaging--1i278a8"
+}

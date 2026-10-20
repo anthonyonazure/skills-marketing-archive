@@ -1,0 +1,14 @@
+{
+  "slug": "mohitagw15856-pm-claude-skills--aeo-optimizer--1xj5fxh",
+  "name": "AEO optimizer",
+  "description": "AEO \u2014 Answer Engine Optimization \u2014 is the discipline of structuring content so that AI engines (ChatGPT, Perplexity, Claude, Gemini) can extract clean, quotable answers and confidently. It gives the agent a clearer input/output frame for AEO optimizer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mohitagw15856/pm-claude-skills",
+  "source_file": "https://github.com/mohitagw15856/pm-claude-skills/blob/HEAD/skills/aeo-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AEO optimizer"
+  ],
+  "page": "https://skills.marketing/skills/mohitagw15856-pm-claude-skills--aeo-optimizer--1xj5fxh"
+}

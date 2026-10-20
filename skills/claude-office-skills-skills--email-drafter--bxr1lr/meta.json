@@ -1,0 +1,14 @@
+{
+  "slug": "claude-office-skills-skills--email-drafter--bxr1lr",
+  "name": "Email drafter",
+  "description": "Draft professional emails for business scenarios while maintaining an appropriate tone and following email best practices. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/claude-office-skills/skills",
+  "source_file": "https://github.com/claude-office-skills/skills/blob/HEAD/email-drafter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email drafter"
+  ],
+  "page": "https://skills.marketing/skills/claude-office-skills-skills--email-drafter--bxr1lr"
+}

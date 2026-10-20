@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--marketing-council--1h9wvv6",
+  "name": "Marketing council",
+  "description": "When the user wants multiple expert perspectives on a marketing question \u2014 a simulated board of advisors staffed by legendary marketers (Seth Godin, David Ogilvy, Eugene Schwartz, April. It gives the agent a clearer input/output frame for marketing council: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-council/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing council"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--marketing-council--1h9wvv6"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--seo-aeo-geo--7yaf9y",
+  "name": "SEO AEO GEO",
+  "description": "Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO). It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/seo-aeo-geo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO GEO"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--seo-aeo-geo--7yaf9y"
+}

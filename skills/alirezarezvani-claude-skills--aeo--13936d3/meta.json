@@ -1,0 +1,14 @@
+{
+  "slug": "alirezarezvani-claude-skills--aeo--13936d3",
+  "name": "AEO",
+  "description": "Get your content cited by ChatGPT, Perplexity, Claude, Gemini, and Mistral as the authoritative source. It gives the agent a clearer input/output frame for AEO: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/alirezarezvani/claude-skills",
+  "source_file": "https://github.com/alirezarezvani/claude-skills/blob/HEAD/marketing-skill/skills/aeo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AEO"
+  ],
+  "page": "https://skills.marketing/skills/alirezarezvani-claude-skills--aeo--13936d3"
+}

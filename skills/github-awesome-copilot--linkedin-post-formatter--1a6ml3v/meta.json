@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--linkedin-post-formatter--1a6ml3v",
+  "name": "LinkedIn post formatter",
+  "description": "Transform raw content, ideas, or technical material into polished, engagement-optimized LinkedIn posts using Unicode typography and proven structural patterns. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/linkedin-post-formatter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn post formatter"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--linkedin-post-formatter--1a6ml3v"
+}

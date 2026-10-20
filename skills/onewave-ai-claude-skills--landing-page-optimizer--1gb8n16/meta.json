@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--landing-page-optimizer--1gb8n16",
+  "name": "Landing page optimizer",
+  "description": "Audit and optimize a landing page across conversion, performance, and SEO. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/landing-page-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page optimizer"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--landing-page-optimizer--1gb8n16"
+}

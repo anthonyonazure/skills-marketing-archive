@@ -1,0 +1,14 @@
+{
+  "slug": "onvoyage-ai-gtm-engineer-skills--audit-website-aeo--10y37kx",
+  "name": "Audit website AEO/GEO skill",
+  "description": "Audits a live website for AI-engine discoverability (AEO/GEO). It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onvoyage-ai/gtm-engineer-skills",
+  "source_file": "https://github.com/onvoyage-ai/gtm-engineer-skills/blob/HEAD/audit-website-aeo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "audit website AEO/GEO skill"
+  ],
+  "page": "https://skills.marketing/skills/onvoyage-ai-gtm-engineer-skills--audit-website-aeo--10y37kx"
+}

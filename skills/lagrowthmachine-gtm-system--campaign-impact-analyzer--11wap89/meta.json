@@ -1,0 +1,14 @@
+{
+  "slug": "lagrowthmachine-gtm-system--campaign-impact-analyzer--11wap89",
+  "name": "Campaign impact analyzer",
+  "description": "Ranks your outreach campaigns by what actually drives pipeline \u2014 deals created, meetings booked \u2014 by cross-referencing your La Growth Machine campaigns with your CRM deals. It gives the agent a clearer input/output frame for campaign impact analyzer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/lagrowthmachine/gtm-system",
+  "source_file": "https://github.com/lagrowthmachine/gtm-system/blob/HEAD/skills/get-qualified-meetings/campaign-impact-analyzer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "campaign impact analyzer"
+  ],
+  "page": "https://skills.marketing/skills/lagrowthmachine-gtm-system--campaign-impact-analyzer--11wap89"
+}

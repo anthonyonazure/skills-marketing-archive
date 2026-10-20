@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-proposal--1qy5dpp",
+  "name": "GEO proposal generator",
+  "description": "Auto-generate a professional, client-ready GEO service proposal from audit data. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-proposal/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO proposal generator"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-proposal--1qy5dpp"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--cold-email-personalization--1gdite7",
+  "name": "Cold email personalization",
+  "description": "When to Use Writing cold outreach, sales prospecting, or outbound B2B emails Personalizing email openers from prospect research signals Building multi-touch follow-up sequences Reviewing. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/copywriting/skills/cold-email-personalization/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email personalization"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--cold-email-personalization--1gdite7"
+}

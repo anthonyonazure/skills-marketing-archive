@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--outbound-email-strategy--518em7",
+  "name": "Outbound email strategy",
+  "description": "Comprehensive outbound email strategy skill for cold outreach, email sequences, and multi-channel campaigns. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/outbound-email-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "outbound email strategy"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--outbound-email-strategy--518em7"
+}

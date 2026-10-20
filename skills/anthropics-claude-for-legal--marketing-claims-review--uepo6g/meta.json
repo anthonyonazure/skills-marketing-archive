@@ -1,0 +1,14 @@
+{
+  "slug": "anthropics-claude-for-legal--marketing-claims-review--uepo6g",
+  "name": "Marketing claims review",
+  "description": "Reviews marketing claims for legal and compliance risk, helping teams classify claims, identify support needs, and tighten language before publishing. It gives the agent a clearer input/output frame for marketing claims review: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/anthropics/claude-for-legal",
+  "source_file": "https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing claims review"
+  ],
+  "page": "https://skills.marketing/skills/anthropics-claude-for-legal--marketing-claims-review--uepo6g"
+}

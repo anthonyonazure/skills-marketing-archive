@@ -1,0 +1,14 @@
+{
+  "slug": "mike-coulbourn-claude-vibes--brand-positioning-theory--saeuzd",
+  "name": "Brand positioning theory",
+  "description": "Quick reference for positioning a brand using methodologies from Al Ries, Jack Trout, and Marty Neumeier. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mike-coulbourn/claude-vibes",
+  "source_file": "https://github.com/mike-coulbourn/claude-vibes/blob/HEAD/plugins/vibes/skills/brand-positioning-theory/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand positioning theory"
+  ],
+  "page": "https://skills.marketing/skills/mike-coulbourn-claude-vibes--brand-positioning-theory--saeuzd"
+}

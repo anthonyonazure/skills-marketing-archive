@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--market-pulse--113vjxv",
+  "name": "Market pulse",
+  "description": "When the user wants a comprehensive App Store market overview, daily/weekly market briefing, or combined view of chart movements, trending keywords, featured apps, and new releases. It gives the agent a clearer input/output frame for market pulse: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/market-pulse/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "market pulse"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--market-pulse--113vjxv"
+}

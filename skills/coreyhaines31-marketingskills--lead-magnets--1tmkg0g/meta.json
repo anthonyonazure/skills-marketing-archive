@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--lead-magnets--1tmkg0g",
+  "name": "Lead magnets",
+  "description": "Provides expert guidance for guidance for lead magnet strategy. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/lead-magnets/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead magnets"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--lead-magnets--1tmkg0g"
+}

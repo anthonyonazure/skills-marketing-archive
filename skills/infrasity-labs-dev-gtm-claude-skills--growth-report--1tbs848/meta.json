@@ -1,0 +1,14 @@
+{
+  "slug": "infrasity-labs-dev-gtm-claude-skills--growth-report--1tbs848",
+  "name": "Growth report",
+  "description": "Generates a comprehensive 3-month SEO performance HTML report using live DataForSEO data. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/infrasity-labs/dev-gtm-claude-skills",
+  "source_file": "https://github.com/infrasity-labs/dev-gtm-claude-skills/blob/HEAD/skills/growth-report/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth report"
+  ],
+  "page": "https://skills.marketing/skills/infrasity-labs-dev-gtm-claude-skills--growth-report--1tbs848"
+}

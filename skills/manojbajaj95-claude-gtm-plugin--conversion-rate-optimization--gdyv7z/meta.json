@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--conversion-rate-optimization--gdyv7z",
+  "name": "Conversion rate optimization",
+  "description": "Conversion rate optimization for marketing pages and lead-capture forms. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/conversion-rate-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion rate optimization"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--conversion-rate-optimization--gdyv7z"
+}

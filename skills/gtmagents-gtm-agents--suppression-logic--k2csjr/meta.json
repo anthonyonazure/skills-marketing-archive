@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--suppression-logic--k2csjr",
+  "name": "Suppression logic",
+  "description": "When to Use Building global do-not-touch rules shared across marketing, sales, and success workflows. It gives the agent a clearer input/output frame for suppression logic: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/intent-signal-orchestration/skills/suppression-logic/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "suppression logic"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--suppression-logic--k2csjr"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "profound-skills--humanizer--1jng2am",
+  "name": "Humanizer",
+  "description": "When the user wants to rewrite or edit text to remove the telltale signs of AI generation and make it sound like a person wrote it. It gives the agent a clearer input/output frame for humanizer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/profound/humanizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "humanizer"
+  ],
+  "page": "https://skills.marketing/skills/profound-skills--humanizer--1jng2am"
+}

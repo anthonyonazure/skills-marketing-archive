@@ -1,0 +1,14 @@
+{
+  "slug": "claude-office-skills-skills--tiktok-marketing--1k07xid",
+  "name": "TikTok marketing",
+  "description": "Comprehensive TikTok marketing skill covering content strategy, video creation workflows, posting optimization, and analytics tracking. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/claude-office-skills/skills",
+  "source_file": "https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "TikTok marketing"
+  ],
+  "page": "https://skills.marketing/skills/claude-office-skills-skills--tiktok-marketing--1k07xid"
+}

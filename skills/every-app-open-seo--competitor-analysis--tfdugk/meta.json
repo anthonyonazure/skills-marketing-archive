@@ -1,0 +1,14 @@
+{
+  "slug": "every-app-open-seo--competitor-analysis--tfdugk",
+  "name": "OpenSEO competitor analysis",
+  "description": "Analyze one competitor's organic footprint, ranking keywords, content themes, backlinks, and gaps. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/every-app/open-seo",
+  "source_file": "https://github.com/every-app/open-seo/blob/HEAD/.agents/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "OpenSEO competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/every-app-open-seo--competitor-analysis--tfdugk"
+}

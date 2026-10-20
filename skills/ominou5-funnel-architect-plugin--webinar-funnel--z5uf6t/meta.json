@@ -1,0 +1,14 @@
+{
+  "slug": "ominou5-funnel-architect-plugin--webinar-funnel--z5uf6t",
+  "name": "Webinar funnel",
+  "description": "Builds a 4\u20136 page webinar funnel. It gives the agent a clearer input/output frame for webinar funnel: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ominou5/funnel-architect-plugin",
+  "source_file": "https://github.com/ominou5/funnel-architect-plugin/blob/HEAD/skills/webinar-funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "webinar funnel"
+  ],
+  "page": "https://skills.marketing/skills/ominou5-funnel-architect-plugin--webinar-funnel--z5uf6t"
+}

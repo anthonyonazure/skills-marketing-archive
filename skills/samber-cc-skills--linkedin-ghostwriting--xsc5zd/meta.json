@@ -1,0 +1,14 @@
+{
+  "slug": "samber-cc-skills--linkedin-ghostwriting--xsc5zd",
+  "name": "LinkedIn ghostwriting",
+  "description": "B2B LinkedIn ghostwriting \u2014 strategic interview, hook engineering, and post body. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/samber/cc-skills",
+  "source_file": "https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn ghostwriting"
+  ],
+  "page": "https://skills.marketing/skills/samber-cc-skills--linkedin-ghostwriting--xsc5zd"
+}

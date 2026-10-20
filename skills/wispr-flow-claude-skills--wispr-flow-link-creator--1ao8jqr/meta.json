@@ -1,0 +1,14 @@
+{
+  "slug": "wispr-flow-claude-skills--wispr-flow-link-creator--1ao8jqr",
+  "name": "Link creator",
+  "description": "Create tracked Dub.co short links for partnerships, creators, and communities. It gives the agent a clearer input/output frame for link creator: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/wisprflow/link-creator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "link creator"
+  ],
+  "page": "https://skills.marketing/skills/wispr-flow-claude-skills--wispr-flow-link-creator--1ao8jqr"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--seo-audit--rf0jfn",
+  "name": "SEO audit",
+  "description": "Provides expert guidance for guidance for search engine optimization. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO audit"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--seo-audit--rf0jfn"
+}

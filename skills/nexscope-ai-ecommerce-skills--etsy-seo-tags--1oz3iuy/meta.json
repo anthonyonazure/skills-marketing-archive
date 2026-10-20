@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--etsy-seo-tags--1oz3iuy",
+  "name": "Etsy SEO tags",
+  "description": "Etsy tag optimization \u2014 13-tag strategy, attribute optimization, search ranking factors It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seo-tags/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "etsy SEO tags"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--etsy-seo-tags--1oz3iuy"
+}

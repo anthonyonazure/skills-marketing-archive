@@ -1,0 +1,14 @@
+{
+  "slug": "realjaymes-marketingagentskills--product-messaging--nniqwm",
+  "name": "Product messaging",
+  "description": "Provides product marketing strategist who specializes in developing clear, detailed messaging frameworks for products. It gives the agent a clearer input/output frame for product messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/realjaymes/marketingagentskills",
+  "source_file": "https://github.com/realjaymes/marketingagentskills/blob/HEAD/skills/product-messaging/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product messaging"
+  ],
+  "page": "https://skills.marketing/skills/realjaymes-marketingagentskills--product-messaging--nniqwm"
+}

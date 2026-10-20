@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--revops--wvbjp9",
+  "name": "RevOps",
+  "description": "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/revops/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "RevOps"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--revops--wvbjp9"
+}

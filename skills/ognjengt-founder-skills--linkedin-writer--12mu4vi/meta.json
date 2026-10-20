@@ -1,0 +1,14 @@
+{
+  "slug": "ognjengt-founder-skills--linkedin-writer--12mu4vi",
+  "name": "LinkedIn writer",
+  "description": "Purpose Generate 2 viral LinkedIn posts in different proven formats, matched to the founder's voice, using battle-tested templates and patterns that drive engagement on LinkedIn. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ognjengt/founder-skills",
+  "source_file": "https://github.com/ognjengt/founder-skills/blob/HEAD/skills/linkedin-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn writer"
+  ],
+  "page": "https://skills.marketing/skills/ognjengt-founder-skills--linkedin-writer--12mu4vi"
+}

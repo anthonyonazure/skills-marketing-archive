@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--content-creation-and-marketing--zv2tk2",
+  "name": "Content creation & marketing",
+  "description": "Cross-channel content production from an approved idea, brief, notes, transcript, or existing asset. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/content-creation-and-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content creation & marketing"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--content-creation-and-marketing--zv2tk2"
+}

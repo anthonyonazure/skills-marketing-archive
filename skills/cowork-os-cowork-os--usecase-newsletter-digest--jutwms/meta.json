@@ -1,0 +1,14 @@
+{
+  "slug": "cowork-os-cowork-os--usecase-newsletter-digest--jutwms",
+  "name": "Usecase newsletter digest",
+  "description": "Summarize newsletter/email feed messages from the last N hours and propose follow-ups. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/cowork-os/cowork-os",
+  "source_file": "https://github.com/cowork-os/cowork-os/blob/HEAD/resources/skills/usecase-newsletter-digest/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "usecase newsletter digest"
+  ],
+  "page": "https://skills.marketing/skills/cowork-os-cowork-os--usecase-newsletter-digest--jutwms"
+}

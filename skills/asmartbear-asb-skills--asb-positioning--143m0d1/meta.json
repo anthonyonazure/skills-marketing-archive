@@ -1,0 +1,14 @@
+{
+  "slug": "asmartbear-asb-skills--asb-positioning--143m0d1",
+  "name": "Positioning: more value, made vivid",
+  "description": "Converts marketing copy \u2014 headlines, ads, homepage claims, pitches, positioning statements \u2014 into value-first, vivid language: reframes save-time/save-money pitches as create-more-value. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/asmartbear/asb-skills",
+  "source_file": "https://github.com/asmartbear/asb-skills/blob/HEAD/.claude/skills/asb-positioning/SKILL.md",
+  "license": "CC-BY-4.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "positioning: more value, made vivid"
+  ],
+  "page": "https://skills.marketing/skills/asmartbear-asb-skills--asb-positioning--143m0d1"
+}

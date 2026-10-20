@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--ecommerce-growth-strategy--p6vu81",
+  "name": "Ecommerce growth strategy",
+  "description": "Your strategic growth advisor for e-commerce. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-growth-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ecommerce growth strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--ecommerce-growth-strategy--p6vu81"
+}

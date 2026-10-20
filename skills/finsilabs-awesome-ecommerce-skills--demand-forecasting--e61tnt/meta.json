@@ -1,0 +1,14 @@
+{
+  "slug": "finsilabs-awesome-ecommerce-skills--demand-forecasting--e61tnt",
+  "name": "Demand forecasting",
+  "description": "Demand forecasting uses historical sales data, seasonal patterns, and lead times to predict how much inventory you'll need and when to reorder. It gives the agent a clearer input/output frame for demand forecasting: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/finsilabs/awesome-ecommerce-skills",
+  "source_file": "https://github.com/finsilabs/awesome-ecommerce-skills/blob/HEAD/skills/business-operations/demand-forecasting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "demand forecasting"
+  ],
+  "page": "https://skills.marketing/skills/finsilabs-awesome-ecommerce-skills--demand-forecasting--e61tnt"
+}

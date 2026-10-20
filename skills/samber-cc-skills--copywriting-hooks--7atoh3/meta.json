@@ -1,0 +1,14 @@
+{
+  "slug": "samber-cc-skills--copywriting-hooks--7atoh3",
+  "name": "Copywriting hooks",
+  "description": "A hook's only job is to make the reader want sentence 2. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/samber/cc-skills",
+  "source_file": "https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-hooks/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "copywriting hooks"
+  ],
+  "page": "https://skills.marketing/skills/samber-cc-skills--copywriting-hooks--7atoh3"
+}

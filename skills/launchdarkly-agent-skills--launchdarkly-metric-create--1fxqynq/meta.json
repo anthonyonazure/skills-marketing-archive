@@ -1,0 +1,14 @@
+{
+  "slug": "launchdarkly-agent-skills--launchdarkly-metric-create--1fxqynq",
+  "name": "Launchdarkly metric create",
+  "description": "You're using a skill that will guide you through creating a LaunchDarkly metric. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/launchdarkly/agent-skills",
+  "source_file": "https://github.com/launchdarkly/agent-skills/blob/HEAD/skills/metrics/launchdarkly-metric-create/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launchdarkly metric create"
+  ],
+  "page": "https://skills.marketing/skills/launchdarkly-agent-skills--launchdarkly-metric-create--1fxqynq"
+}

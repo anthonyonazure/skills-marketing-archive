@@ -1,0 +1,14 @@
+{
+  "slug": "calm-north-seojuice-skills--diagnose-seo--8v7zjh",
+  "name": "Diagnose SEO",
+  "description": "Structured diagnostic framework for crawl issues, canonicalization errors, indexation problems, and rendering failures. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/calm-north/seojuice-skills",
+  "source_file": "https://github.com/calm-north/seojuice-skills/blob/HEAD/skills/diagnose-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "diagnose SEO"
+  ],
+  "page": "https://skills.marketing/skills/calm-north-seojuice-skills--diagnose-seo--8v7zjh"
+}

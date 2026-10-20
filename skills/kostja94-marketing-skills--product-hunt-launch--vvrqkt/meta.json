@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--product-hunt-launch--vvrqkt",
+  "name": "Product hunt launch",
+  "description": "Guides preparing and executing a Product Hunt launch. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/product-hunt-launch/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product hunt launch"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--product-hunt-launch--vvrqkt"
+}

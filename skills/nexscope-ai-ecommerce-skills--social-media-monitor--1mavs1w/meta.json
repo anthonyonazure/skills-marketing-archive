@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--social-media-monitor--1mavs1w",
+  "name": "Social media monitor \ud83d\udcf1",
+  "description": "Monitor social media mentions, trends, and competitor activity for e-commerce brands. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/social-media-monitor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social media monitor \ud83d\udcf1"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--social-media-monitor--1mavs1w"
+}

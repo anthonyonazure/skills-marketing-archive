@@ -1,0 +1,14 @@
+{
+  "slug": "affaan-m-ecc--growth-log--195kdnw",
+  "name": "Growth log skill",
+  "description": "Use after a complex task, failure, or when reviewing what was learned. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/affaan-m/ecc",
+  "source_file": "https://github.com/affaan-m/ecc/blob/HEAD/skills/growth-log/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth log skill"
+  ],
+  "page": "https://skills.marketing/skills/affaan-m-ecc--growth-log--195kdnw"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "useosint-skills--pattern-of-life-from-socials--fq0jtz",
+  "name": "Pattern of life from socials",
+  "description": "Deep-dive a subject's social media presence \u2014 profile metadata, follower and mutual network, content analysis, and posting-time pattern of life across Instagram, Facebook, X/Twitter. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/useosint/skills",
+  "source_file": "https://github.com/useosint/skills/blob/HEAD/skills/pattern-of-life-from-socials/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pattern of life from socials"
+  ],
+  "page": "https://skills.marketing/skills/useosint-skills--pattern-of-life-from-socials--fq0jtz"
+}

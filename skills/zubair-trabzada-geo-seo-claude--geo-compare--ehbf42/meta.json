@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-compare--ehbf42",
+  "name": "GEO monthly delta report generator",
+  "description": "Monthly delta tracking and progress reporting for GEO clients. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-compare/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO monthly delta report generator"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-compare--ehbf42"
+}

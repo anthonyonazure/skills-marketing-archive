@@ -1,0 +1,14 @@
+{
+  "slug": "resend-react-email--react-email--etq90l",
+  "name": "React email",
+  "description": "Use when building HTML email templates with React components, adding a visual email editor to an application using the React Email visual editor, rendering emails to HTML, or sending. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/resend/react-email",
+  "source_file": "https://github.com/resend/react-email/blob/HEAD/skills/react-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "react email"
+  ],
+  "page": "https://skills.marketing/skills/resend-react-email--react-email--etq90l"
+}

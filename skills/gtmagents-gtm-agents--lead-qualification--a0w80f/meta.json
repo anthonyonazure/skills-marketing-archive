@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--lead-qualification--a0w80f",
+  "name": "Lead qualification",
+  "description": "When to Use New inbound/outbound leads need scoring before SDR outreach. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/sales-prospecting/skills/lead-qualification/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead qualification"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--lead-qualification--a0w80f"
+}

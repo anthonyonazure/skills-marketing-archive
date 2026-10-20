@@ -1,0 +1,14 @@
+{
+  "slug": "apify-awesome-skills--apify-influencer-brand-collabs--e69wrx",
+  "name": "Apify influencer brand collabs",
+  "description": "Surface Instagram branded-content partnerships by chaining four Apify Actors against Meta's Ad Library. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/apify/awesome-skills",
+  "source_file": "https://github.com/apify/awesome-skills/blob/HEAD/skills/apify-influencer-brand-collabs/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Apify influencer brand collabs"
+  ],
+  "page": "https://skills.marketing/skills/apify-awesome-skills--apify-influencer-brand-collabs--e69wrx"
+}

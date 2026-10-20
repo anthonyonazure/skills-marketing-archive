@@ -1,0 +1,14 @@
+{
+  "slug": "twilio-ai--twilio-messaging-overview--1guluz7",
+  "name": "Twilio messaging overview",
+  "description": "Twilio's Messaging platform sends and receives messages across multiple channels through a single API. It gives the agent a clearer input/output frame for twilio messaging overview: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/twilio/ai",
+  "source_file": "https://github.com/twilio/ai/blob/HEAD/skills/twilio/twilio-messaging-overview/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "twilio messaging overview"
+  ],
+  "page": "https://skills.marketing/skills/twilio-ai--twilio-messaging-overview--1guluz7"
+}

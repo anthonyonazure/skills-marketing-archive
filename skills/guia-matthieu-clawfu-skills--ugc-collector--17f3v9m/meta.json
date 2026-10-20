@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--ugc-collector--17f3v9m",
+  "name": "UGC collector",
+  "description": "Collect and organize user-generated content for marketing campaigns and social proof. It gives the agent a clearer input/output frame for UGC collector: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/social/ugc-collector/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC collector"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--ugc-collector--17f3v9m"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "davepoon-buildwithclaude--sequenzy-email-marketing--p4mra",
+  "name": "Sequenzy email marketing",
+  "description": "Helps teams operate Sequenzy, not to change Sequenzy's source code. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/davepoon/buildwithclaude",
+  "source_file": "https://github.com/davepoon/buildwithclaude/blob/HEAD/plugins/all-skills/skills/sequenzy-email-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sequenzy email marketing"
+  ],
+  "page": "https://skills.marketing/skills/davepoon-buildwithclaude--sequenzy-email-marketing--p4mra"
+}

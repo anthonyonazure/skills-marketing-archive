@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--churn-prediction--1uvos6b",
+  "name": "Churn prediction",
+  "description": "Detect early warning signals of customer churn through systematic analysis of usage patterns, support interactions, and relationship health. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/customer-success/churn-prediction/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn prediction"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--churn-prediction--1uvos6b"
+}

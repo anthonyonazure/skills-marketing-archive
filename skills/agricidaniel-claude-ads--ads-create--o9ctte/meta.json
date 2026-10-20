@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-create--o9ctte",
+  "name": "Ads create: campaign concept & copy brief generator",
+  "description": "Campaign concept and copy brief generator for paid advertising. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-create/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ads create: campaign concept & copy brief generator"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-create--o9ctte"
+}

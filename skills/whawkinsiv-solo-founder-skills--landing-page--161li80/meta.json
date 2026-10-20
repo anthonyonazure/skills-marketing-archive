@@ -1,0 +1,14 @@
+{
+  "slug": "whawkinsiv-solo-founder-skills--landing-page--161li80",
+  "name": "Landing page",
+  "description": "Use this skill when the user needs to create or improve a landing page, write above-the-fold copy, structure a sales page, or increase landing page conversion rates. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whawkinsiv/solo-founder-skills",
+  "source_file": "https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/landing-page/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page"
+  ],
+  "page": "https://skills.marketing/skills/whawkinsiv-solo-founder-skills--landing-page--161li80"
+}

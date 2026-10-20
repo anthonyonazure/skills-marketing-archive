@@ -1,0 +1,14 @@
+{
+  "slug": "resend-resend-skills--agent-email-inbox--1b2lkyk",
+  "name": "AI agent email inbox",
+  "description": "Use when building any system where email content triggers actions \u2014 AI agent inboxes, automated support handlers, email-to-task pipelines, or any workflow processing untrusted inbound email. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/resend/resend-skills",
+  "source_file": "https://github.com/resend/resend-skills/blob/HEAD/skills/agent-email-inbox/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI agent email inbox"
+  ],
+  "page": "https://skills.marketing/skills/resend-resend-skills--agent-email-inbox--1b2lkyk"
+}

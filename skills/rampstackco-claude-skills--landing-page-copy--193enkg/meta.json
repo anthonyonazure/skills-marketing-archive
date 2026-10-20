@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--landing-page-copy--193enkg",
+  "name": "Landing page copy",
+  "description": "Write landing page copy with attention to the hero, value proposition, social proof, objection handling, and conversion-focused CTAs. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/landing-page-copy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page copy"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--landing-page-copy--193enkg"
+}

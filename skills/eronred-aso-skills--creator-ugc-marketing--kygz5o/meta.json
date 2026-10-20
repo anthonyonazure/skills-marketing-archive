@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--creator-ugc-marketing--kygz5o",
+  "name": "Creator UGC marketing",
+  "description": "Provides app creator-marketing specialist. It gives the agent a clearer input/output frame for creator UGC marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/creator-ugc-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "creator UGC marketing"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--creator-ugc-marketing--kygz5o"
+}

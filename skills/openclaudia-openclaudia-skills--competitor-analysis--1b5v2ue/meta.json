@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--competitor-analysis--1b5v2ue",
+  "name": "Competitor analysis framework",
+  "description": "Conduct full competitor strategy breakdowns across SEO, ads, social, email, pricing, and positioning. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor analysis framework"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--competitor-analysis--1b5v2ue"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--experiment-design--1gw7e5l",
+  "name": "Experiment design planner",
+  "description": "Designs fast, reliable validation experiments with hypothesis, method, success metric, and decision rules (Ship/Iterate/Kill). It gives the agent a clearer input/output frame for experiment design planner: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/experiment-design/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "experiment design planner"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--experiment-design--1gw7e5l"
+}

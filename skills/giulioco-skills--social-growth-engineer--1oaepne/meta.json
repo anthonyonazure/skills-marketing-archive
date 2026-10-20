@@ -1,0 +1,14 @@
+{
+  "slug": "giulioco-skills--social-growth-engineer--1oaepne",
+  "name": "Social growth engineer",
+  "description": "This skill embodies the complete knowledge base of organic viral app growth through social media. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/giulioco/skills",
+  "source_file": "https://github.com/giulioco/skills/blob/HEAD/skills/social-growth-engineer/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social growth engineer"
+  ],
+  "page": "https://skills.marketing/skills/giulioco-skills--social-growth-engineer--1oaepne"
+}

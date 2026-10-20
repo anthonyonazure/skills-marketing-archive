@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--competitor-discovery--1gxzmlt",
+  "name": "Competitor discovery",
+  "description": "Use when you don't know who your competitors are, when entering a new market, or when refreshing the competitor list after a pivot or market shift. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/competitor-discovery/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor discovery"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--competitor-discovery--1gxzmlt"
+}

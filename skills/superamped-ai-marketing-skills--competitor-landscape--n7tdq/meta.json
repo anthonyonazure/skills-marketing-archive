@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--competitor-landscape--n7tdq",
+  "name": "Competitor landscape",
+  "description": "Use after analyzing 2+ competitors \u2014 you have individual profiles and need the comparative view. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/competitor-landscape/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor landscape"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--competitor-landscape--n7tdq"
+}

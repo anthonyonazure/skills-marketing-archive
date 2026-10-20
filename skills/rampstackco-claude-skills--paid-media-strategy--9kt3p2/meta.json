@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--paid-media-strategy--9kt3p2",
+  "name": "Paid media strategy",
+  "description": "A discipline for running paid media that does not light money on fire. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/paid-media-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "paid media strategy"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--paid-media-strategy--9kt3p2"
+}

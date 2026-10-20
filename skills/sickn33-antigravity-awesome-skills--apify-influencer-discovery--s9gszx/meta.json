@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--apify-influencer-discovery--s9gszx",
+  "name": "Apify influencer discovery",
+  "description": "Discover and analyze influencers across multiple platforms using Apify Actors. It gives the agent a clearer input/output frame for Apify influencer discovery: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/apify-influencer-discovery/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Apify influencer discovery"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--apify-influencer-discovery--s9gszx"
+}

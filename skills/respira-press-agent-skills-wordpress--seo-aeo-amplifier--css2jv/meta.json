@@ -1,0 +1,14 @@
+{
+  "slug": "respira-press-agent-skills-wordpress--seo-aeo-amplifier--css2jv",
+  "name": "SEO & AEO amplifier",
+  "description": "Use when the user says 'run an seo aeo audit', 'improve my search visibility', 'optimize my site for search engines', or wants the site cited by AI answer engines. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/respira-press/agent-skills-wordpress",
+  "source_file": "https://github.com/respira-press/agent-skills-wordpress/blob/HEAD/skills/seo-aeo-amplifier/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO & AEO amplifier"
+  ],
+  "page": "https://skills.marketing/skills/respira-press-agent-skills-wordpress--seo-aeo-amplifier--css2jv"
+}

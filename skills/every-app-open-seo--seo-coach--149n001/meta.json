@@ -1,0 +1,14 @@
+{
+  "slug": "every-app-open-seo--seo-coach--149n001",
+  "name": "OpenSEO coach",
+  "description": "Enter a friendly OpenSEO coach mode that explains workflows, recommends next steps, and helps users use agents, web search, scraping, and MCP data effectively. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/every-app/open-seo",
+  "source_file": "https://github.com/every-app/open-seo/blob/HEAD/.agents/skills/seo-coach/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "OpenSEO coach"
+  ],
+  "page": "https://skills.marketing/skills/every-app-open-seo--seo-coach--149n001"
+}

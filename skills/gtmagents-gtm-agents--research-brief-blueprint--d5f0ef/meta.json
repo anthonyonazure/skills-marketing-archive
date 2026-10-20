@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--research-brief-blueprint--d5f0ef",
+  "name": "Research brief blueprint",
+  "description": "When to Use Kicking off any market research or insights program. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/market-research/skills/research-brief-blueprint/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "research brief blueprint"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--research-brief-blueprint--d5f0ef"
+}

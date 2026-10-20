@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--user-onboarding--1qzyed1",
+  "name": "User onboarding",
+  "description": "Design and improve product user onboarding (first-time user experience) to drive activation and early retention. It gives the agent a clearer input/output frame for user onboarding: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/user-onboarding/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "user onboarding"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--user-onboarding--1qzyed1"
+}

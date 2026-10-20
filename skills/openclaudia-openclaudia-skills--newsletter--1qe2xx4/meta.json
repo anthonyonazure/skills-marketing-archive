@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--newsletter--1qe2xx4",
+  "name": "Newsletter growth skill",
+  "description": "Plan and grow an email newsletter. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/newsletter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter growth skill"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--newsletter--1qe2xx4"
+}

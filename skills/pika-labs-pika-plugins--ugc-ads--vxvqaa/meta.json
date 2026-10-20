@@ -1,0 +1,14 @@
+{
+  "slug": "pika-labs-pika-plugins--ugc-ads--vxvqaa",
+  "name": "UGC ads",
+  "description": "Creates UGC-style ad concepts and video prompts from a product URL, including creator framing, hook structure, captions, aspect ratio, and production settings. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pika-labs/pika-plugins",
+  "source_file": "https://github.com/pika-labs/pika-plugins/blob/HEAD/skills/ugc-ads/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC ads"
+  ],
+  "page": "https://skills.marketing/skills/pika-labs-pika-plugins--ugc-ads--vxvqaa"
+}

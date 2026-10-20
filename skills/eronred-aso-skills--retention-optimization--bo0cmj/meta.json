@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--retention-optimization--bo0cmj",
+  "name": "Retention optimization",
+  "description": "Provides expert guidance for guidance for mobile app retention and engagement strategy. It gives the agent a clearer input/output frame for retention optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/retention-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention optimization"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--retention-optimization--bo0cmj"
+}

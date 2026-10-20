@@ -1,0 +1,14 @@
+{
+  "slug": "posit-dev-skills--brand-yml--j9s9d7",
+  "name": "Brand yml",
+  "description": "Create and use brand.yml files for consistent branding across Shiny applications and Quarto documents. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/posit-dev/skills",
+  "source_file": "https://github.com/posit-dev/skills/blob/HEAD/brand-yml/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand yml"
+  ],
+  "page": "https://skills.marketing/skills/posit-dev-skills--brand-yml--j9s9d7"
+}

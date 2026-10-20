@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--onboarding-optimization--5dhahs",
+  "name": "Onboarding optimization",
+  "description": "When the user wants to improve their app's onboarding experience, increase activation rate, reduce Day 1 drop-off, or optimize the first-run flow. It gives the agent a clearer input/output frame for onboarding optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/onboarding-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "onboarding optimization"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--onboarding-optimization--5dhahs"
+}

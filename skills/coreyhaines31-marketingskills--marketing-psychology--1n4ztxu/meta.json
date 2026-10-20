@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--marketing-psychology--1n4ztxu",
+  "name": "Marketing psychology",
+  "description": "Provides expert guidance for guidance for applying psychological principles and mental models to marketing. It gives the agent a clearer input/output frame for marketing psychology: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-psychology/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing psychology"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--marketing-psychology--1n4ztxu"
+}

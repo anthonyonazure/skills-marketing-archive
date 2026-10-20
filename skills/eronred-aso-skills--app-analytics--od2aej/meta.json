@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--app-analytics--od2aej",
+  "name": "App analytics",
+  "description": "Provides expert guidance for guidance for mobile app analytics and measurement strategy. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/app-analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app analytics"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--app-analytics--od2aej"
+}

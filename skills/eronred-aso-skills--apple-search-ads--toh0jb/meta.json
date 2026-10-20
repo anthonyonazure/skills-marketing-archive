@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--apple-search-ads--toh0jb",
+  "name": "Apple search ads",
+  "description": "Provides specialist in Apple Search Ads (ASA) \u2014 the only ad platform that places ads natively within the App Store. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/apple-search-ads/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "apple search ads"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--apple-search-ads--toh0jb"
+}

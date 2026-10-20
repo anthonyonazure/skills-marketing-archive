@@ -1,0 +1,14 @@
+{
+  "slug": "travisjneuman-claude--growth-engineering--xcqpyi",
+  "name": "Growth engineering skill",
+  "description": "A/B testing infrastructure, feature flags (LaunchDarkly, Unleash), experimentation platforms, PLG patterns, and funnel optimization. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/travisjneuman/.claude",
+  "source_file": "https://github.com/travisjneuman/.claude/blob/HEAD/skills/growth-engineering/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth engineering skill"
+  ],
+  "page": "https://skills.marketing/skills/travisjneuman-claude--growth-engineering--xcqpyi"
+}

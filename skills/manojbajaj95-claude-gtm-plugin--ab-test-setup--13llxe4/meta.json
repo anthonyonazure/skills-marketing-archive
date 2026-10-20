@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--ab-test-setup--13llxe4",
+  "name": "A/B test setup",
+  "description": "When the user wants to plan, design, or implement an A/B test or experiment. It gives the agent a clearer input/output frame for A/B test setup: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/ab-test-setup/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "A/B test setup"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--ab-test-setup--13llxe4"
+}

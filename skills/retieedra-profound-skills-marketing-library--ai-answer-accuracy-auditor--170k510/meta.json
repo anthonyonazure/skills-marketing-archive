@@ -1,0 +1,14 @@
+{
+  "slug": "retieedra-profound-skills-marketing-library--ai-answer-accuracy-auditor--170k510",
+  "name": "AI answer accuracy auditor",
+  "description": "Audits factual claims and editorial framing about a brand across AI answers, traces likely source-of-truth failures, and produces a prioritized correction ledger. It gives the agent a clearer input/output frame for AI answer accuracy auditor: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/profound/ai-answer-accuracy-auditor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI answer accuracy auditor"
+  ],
+  "page": "https://skills.marketing/skills/retieedra-profound-skills-marketing-library--ai-answer-accuracy-auditor--170k510"
+}

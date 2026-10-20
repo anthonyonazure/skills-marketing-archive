@@ -1,0 +1,14 @@
+{
+  "slug": "charlie947-social-media-skills--analytics-dashboard--h2cc98",
+  "name": "Analytics dashboard",
+  "description": "Upload your LinkedIn Analytics export file (xlsx). It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/charlie947/social-media-skills",
+  "source_file": "https://github.com/charlie947/social-media-skills/blob/HEAD/skills/analytics-dashboard/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "analytics dashboard"
+  ],
+  "page": "https://skills.marketing/skills/charlie947-social-media-skills--analytics-dashboard--h2cc98"
+}

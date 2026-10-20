@@ -1,0 +1,14 @@
+{
+  "slug": "agentteamhq-agentteam-email--at-email-cli--145d7ah",
+  "name": "At-email CLI",
+  "description": "Use the AgentTeam Email CLI command at-email to operate an agent mailbox. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agentteamhq/agentteam-email",
+  "source_file": "https://github.com/agentteamhq/agentteam-email/blob/HEAD/skills/at-email-cli/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "at-email CLI"
+  ],
+  "page": "https://skills.marketing/skills/agentteamhq-agentteam-email--at-email-cli--145d7ah"
+}

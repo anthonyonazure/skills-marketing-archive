@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--go-to-market-strategy--17q3rj9",
+  "name": "Go-to-market strategy",
+  "description": "Comprehensive go-to-market strategy and launch execution skill. It gives the agent a clearer input/output frame for go-to-market strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/go-to-market-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "go-to-market strategy"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--go-to-market-strategy--17q3rj9"
+}

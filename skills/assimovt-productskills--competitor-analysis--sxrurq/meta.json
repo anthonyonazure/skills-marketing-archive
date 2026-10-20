@@ -1,0 +1,14 @@
+{
+  "slug": "assimovt-productskills--competitor-analysis--sxrurq",
+  "name": "Competitor analysis",
+  "description": "Analyze competitive landscape with feature matrices, positioning maps, and strategic gap analysis. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/assimovt/productskills",
+  "source_file": "https://github.com/assimovt/productskills/blob/HEAD/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/assimovt-productskills--competitor-analysis--sxrurq"
+}

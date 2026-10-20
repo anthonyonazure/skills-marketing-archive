@@ -1,0 +1,14 @@
+{
+  "slug": "ckorhonen-claude-skills--app-marketing-copy--2ma2fo",
+  "name": "App marketing copy",
+  "description": "1) Ask for missing inputs (or infer from repo/product docs): App name + 1-sentence value prop Target user + primary job-to-be-done 3\u20137 key features + 1\u20133 differentiators Desired tone (and. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ckorhonen/claude-skills",
+  "source_file": "https://github.com/ckorhonen/claude-skills/blob/HEAD/skills/app-marketing-copy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app marketing copy"
+  ],
+  "page": "https://skills.marketing/skills/ckorhonen-claude-skills--app-marketing-copy--2ma2fo"
+}

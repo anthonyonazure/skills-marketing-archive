@@ -1,0 +1,14 @@
+{
+  "slug": "infrasity-labs-dev-gtm-claude-skills--ai-seo--rbxogu",
+  "name": "AI SEO",
+  "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/infrasity-labs/dev-gtm-claude-skills",
+  "source_file": "https://github.com/infrasity-labs/dev-gtm-claude-skills/blob/HEAD/.claude/skills/ai-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI SEO"
+  ],
+  "page": "https://skills.marketing/skills/infrasity-labs-dev-gtm-claude-skills--ai-seo--rbxogu"
+}

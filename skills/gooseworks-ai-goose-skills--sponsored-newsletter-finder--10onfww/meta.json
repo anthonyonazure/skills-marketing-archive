@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--sponsored-newsletter-finder--10onfww",
+  "name": "Sponsored newsletter finder",
+  "description": "Find newsletters your ICP reads, evaluate their audience fit, and produce a ranked shortlist ready for outreach. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/ads/composites/sponsored-newsletter-finder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sponsored newsletter finder"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--sponsored-newsletter-finder--10onfww"
+}

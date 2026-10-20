@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--developer-churn--1k0p643",
+  "name": "Developer churn",
+  "description": "When the user wants to understand, reduce, or recover from developer churn. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/developer-churn/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "developer churn"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--developer-churn--1k0p643"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--prospecting--nv8jds",
+  "name": "Prospecting",
+  "description": "Provides expert guidance for at building qualified prospect lists across three motions: B2B SaaS, general B2B, and local small businesses. It gives the agent a clearer input/output frame for prospecting: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/prospecting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "prospecting"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--prospecting--nv8jds"
+}

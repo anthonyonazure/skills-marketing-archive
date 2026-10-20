@@ -1,0 +1,14 @@
+{
+  "slug": "mohitagw15856-pm-claude-skills--cold-email--1sj3yb3",
+  "name": "Cold email skill",
+  "description": "Write a cold sales/B2B outreach email that earns a reply. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mohitagw15856/pm-claude-skills",
+  "source_file": "https://github.com/mohitagw15856/pm-claude-skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email skill"
+  ],
+  "page": "https://skills.marketing/skills/mohitagw15856-pm-claude-skills--cold-email--1sj3yb3"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "growthenginenowoslawski-coldoutboundskills--cold-email-kickoff--1n8uzq9",
+  "name": "Cold email kickoff",
+  "description": "Single \"start here\" orchestrator for new cold email operators. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/growthenginenowoslawski/coldoutboundskills",
+  "source_file": "https://github.com/growthenginenowoslawski/coldoutboundskills/blob/HEAD/skills/cold-email-kickoff/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email kickoff"
+  ],
+  "page": "https://skills.marketing/skills/growthenginenowoslawski-coldoutboundskills--cold-email-kickoff--1n8uzq9"
+}

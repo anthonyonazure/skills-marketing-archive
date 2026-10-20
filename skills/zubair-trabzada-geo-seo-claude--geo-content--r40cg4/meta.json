@@ -1,0 +1,14 @@
+{
+  "slug": "zubair-trabzada-geo-seo-claude--geo-content--r40cg4",
+  "name": "GEO content quality & e-e-a-t assessment",
+  "description": "Content quality and E-E-A-T assessment for AI citability \u2014 evaluate experience, expertise, authoritativeness, trustworthiness, and content structure It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "source_file": "https://github.com/zubair-trabzada/geo-seo-claude/blob/HEAD/skills/geo-content/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GEO content quality & e-e-a-t assessment"
+  ],
+  "page": "https://skills.marketing/skills/zubair-trabzada-geo-seo-claude--geo-content--r40cg4"
+}

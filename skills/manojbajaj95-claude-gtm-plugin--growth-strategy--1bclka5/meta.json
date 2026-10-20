@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--growth-strategy--1bclka5",
+  "name": "Growth strategy",
+  "description": "Growth strategy for product-led and loop-driven growth systems. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/growth-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth strategy"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--growth-strategy--1bclka5"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "forcedotcom-sf-skills--dx-app-analytics-query--kqxn51",
+  "name": "App analytics",
+  "description": "ISV App Analytics metadata types \u2014 AppAnalyticsQueryRequest and AppAnalyticsSettings. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/forcedotcom/sf-skills",
+  "source_file": "https://github.com/forcedotcom/sf-skills/blob/HEAD/skills/dx-app-analytics-query/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app analytics"
+  ],
+  "page": "https://skills.marketing/skills/forcedotcom-sf-skills--dx-app-analytics-query--kqxn51"
+}

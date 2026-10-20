@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--monetization-strategy--i2dwk0",
+  "name": "Monetization strategy",
+  "description": "Provides expert guidance for guidance for mobile app monetization with deep knowledge of subscription economics, paywall psychology, and pricing strategy. It gives the agent a clearer input/output frame for monetization strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/monetization-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "monetization strategy"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--monetization-strategy--i2dwk0"
+}

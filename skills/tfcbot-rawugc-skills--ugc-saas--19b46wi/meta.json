@@ -1,0 +1,14 @@
+{
+  "slug": "tfcbot-rawugc-skills--ugc-saas--19b46wi",
+  "name": "UGC SaaS",
+  "description": "15 lofi, TikTok-native video formats for SaaS products. It gives the agent a clearer input/output frame for UGC SaaS: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tfcbot/rawugc-skills",
+  "source_file": "https://github.com/tfcbot/rawugc-skills/blob/HEAD/skills/ugc-saas/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC SaaS"
+  ],
+  "page": "https://skills.marketing/skills/tfcbot-rawugc-skills--ugc-saas--19b46wi"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--seo-and-aeo-strategy--1vl7qy9",
+  "name": "SEO & AEO strategy",
+  "description": "SEO, AEO (Answer Engine Optimization), and GEO strategy for search engines and AI visibility. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/seo-and-aeo-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO & AEO strategy"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--seo-and-aeo-strategy--1vl7qy9"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "motherduckdb-agent-skills--motherduck-pricing-roi--28x1ru",
+  "name": "Pricing and ROI",
+  "description": "Explain MotherDuck pricing and ROI tradeoffs. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/motherduckdb/agent-skills",
+  "source_file": "https://github.com/motherduckdb/agent-skills/blob/HEAD/skills/motherduck-pricing-roi/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pricing and ROI"
+  ],
+  "page": "https://skills.marketing/skills/motherduckdb-agent-skills--motherduck-pricing-roi--28x1ru"
+}

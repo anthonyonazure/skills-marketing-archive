@@ -1,0 +1,14 @@
+{
+  "slug": "finsilabs-awesome-ecommerce-skills--email-marketing-automation--srhyir",
+  "name": "Email marketing automation",
+  "description": "Triggered email flows automatically send personalized messages based on customer behavior and lifecycle stage, achieving 3\u20135x higher open rates than broadcast campaigns. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/finsilabs/awesome-ecommerce-skills",
+  "source_file": "https://github.com/finsilabs/awesome-ecommerce-skills/blob/HEAD/skills/marketing-growth/email-marketing-automation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email marketing automation"
+  ],
+  "page": "https://skills.marketing/skills/finsilabs-awesome-ecommerce-skills--email-marketing-automation--srhyir"
+}

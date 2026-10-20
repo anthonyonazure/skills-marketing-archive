@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--in-app-messaging-kit--217a8c",
+  "name": "In app messaging kit",
+  "description": "When to Use Designing nudges, tooltips, and walkthroughs for onboarding or feature launches. It gives the agent a clearer input/output frame for in app messaging kit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/product-led-growth/skills/in-app-messaging-kit/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "in app messaging kit"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--in-app-messaging-kit--217a8c"
+}

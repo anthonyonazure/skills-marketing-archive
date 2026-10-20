@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--pricing-test--em14jl",
+  "name": "Pricing test",
+  "description": "Test pricing scenarios against synthetic audience panels grounded in real CRM data. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/pricing-test/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pricing test"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--pricing-test--em14jl"
+}

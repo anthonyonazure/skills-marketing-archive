@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--bootstrap--1o6qcbg",
+  "name": "Claude instructions \u2014 [project name]",
+  "description": "Onboard a new GTM project \u2014 run an agency-style interview, then generate CLAUDE.md, PROGRESS.md, about/me.md, strategy/brand.md, and scaffold content + assets folders. It gives the agent a clearer input/output frame for Claude instructions \u2014 [project name]: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/bootstrap/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Claude instructions \u2014 [project name]"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--bootstrap--1o6qcbg"
+}

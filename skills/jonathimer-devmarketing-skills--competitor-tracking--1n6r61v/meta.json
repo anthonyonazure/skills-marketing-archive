@@ -1,0 +1,14 @@
+{
+  "slug": "jonathimer-devmarketing-skills--competitor-tracking--1n6r61v",
+  "name": "Competitor tracking",
+  "description": "Systematic framework for tracking competitors in the developer tools space, from identification through ongoing monitoring and battlecard creation. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jonathimer/devmarketing-skills",
+  "source_file": "https://github.com/jonathimer/devmarketing-skills/blob/HEAD/skills/competitor-tracking/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor tracking"
+  ],
+  "page": "https://skills.marketing/skills/jonathimer-devmarketing-skills--competitor-tracking--1n6r61v"
+}

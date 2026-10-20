@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--email-marketing--1xnxhe1",
+  "name": "Email marketing",
+  "description": "Guides email marketing strategy for AI/SaaS products. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/owned/email-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email marketing"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--email-marketing--1xnxhe1"
+}

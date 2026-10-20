@@ -1,0 +1,14 @@
+{
+  "slug": "aitytech-agentkits-marketing--programmatic-seo--ha7des",
+  "name": "Programmatic SEO",
+  "description": "When the user wants to create SEO-driven pages at scale using templates and data. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/aitytech/agentkits-marketing",
+  "source_file": "https://github.com/aitytech/agentkits-marketing/blob/HEAD/skills/programmatic-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO"
+  ],
+  "page": "https://skills.marketing/skills/aitytech-agentkits-marketing--programmatic-seo--ha7des"
+}

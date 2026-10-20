@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--exec-dashboard-blueprint--w7jxhz",
+  "name": "Exec dashboard blueprint",
+  "description": "When to Use Preparing ELT/board-ready snapshots of marketing performance. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/marketing-analytics/skills/exec-dashboard-blueprint/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "exec dashboard blueprint"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--exec-dashboard-blueprint--w7jxhz"
+}

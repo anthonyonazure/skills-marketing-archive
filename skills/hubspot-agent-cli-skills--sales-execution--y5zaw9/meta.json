@@ -1,0 +1,14 @@
+{
+  "slug": "hubspot-agent-cli-skills--sales-execution--y5zaw9",
+  "name": "CALL",
+  "description": "Log sales activities \u2014 calls, notes, meetings, tasks \u2014 against contacts and deals, with the mandatory create-then-associate step that makes them visible in the CRM. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hubspot/agent-cli-skills",
+  "source_file": "https://github.com/hubspot/agent-cli-skills/blob/HEAD/sales-execution/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "CALL"
+  ],
+  "page": "https://skills.marketing/skills/hubspot-agent-cli-skills--sales-execution--y5zaw9"
+}

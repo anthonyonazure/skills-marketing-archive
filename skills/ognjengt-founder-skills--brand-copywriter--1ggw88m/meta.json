@@ -1,0 +1,14 @@
+{
+  "slug": "ognjengt-founder-skills--brand-copywriter--1ggw88m",
+  "name": "Brand copywriter",
+  "description": "Purpose Generate professional marketing copy in two versions: one using the optimal framework for the platform/use case, and one using an AI-selected alternative framework for comparison. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ognjengt/founder-skills",
+  "source_file": "https://github.com/ognjengt/founder-skills/blob/HEAD/skills/brand-copywriter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand copywriter"
+  ],
+  "page": "https://skills.marketing/skills/ognjengt-founder-skills--brand-copywriter--1ggw88m"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "dirnbauer-webconsulting-skills--cro-funnel--ulw6dm",
+  "name": "CRO funnel",
+  "description": "This skill is adapted from AgentKits Marketing > by AITYTech. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/dirnbauer/webconsulting-skills",
+  "source_file": "https://github.com/dirnbauer/webconsulting-skills/blob/HEAD/skills/cro-funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "CRO funnel"
+  ],
+  "page": "https://skills.marketing/skills/dirnbauer-webconsulting-skills--cro-funnel--ulw6dm"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "thatrebeccarae-claude-marketing--aeo-geo-optimizer--2wxgwe",
+  "name": "AEO GEO optimizer",
+  "description": "Optimize content and websites for AI-powered search experiences \u2014 ChatGPT, Perplexity, Claude, Google AI Overviews, and Bing Copilot. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thatrebeccarae/claude-marketing",
+  "source_file": "https://github.com/thatrebeccarae/claude-marketing/blob/HEAD/skills/aeo-geo-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AEO GEO optimizer"
+  ],
+  "page": "https://skills.marketing/skills/thatrebeccarae-claude-marketing--aeo-geo-optimizer--2wxgwe"
+}

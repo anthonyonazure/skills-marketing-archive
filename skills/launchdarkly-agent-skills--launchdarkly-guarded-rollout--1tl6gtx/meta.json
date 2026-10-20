@@ -1,0 +1,14 @@
+{
+  "slug": "launchdarkly-agent-skills--launchdarkly-guarded-rollout--1tl6gtx",
+  "name": "Launchdarkly guarded rollout",
+  "description": "You're using a skill that will guide you through configuring guarded rollouts in LaunchDarkly. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/launchdarkly/agent-skills",
+  "source_file": "https://github.com/launchdarkly/agent-skills/blob/HEAD/skills/feature-flags/launchdarkly-guarded-rollout/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launchdarkly guarded rollout"
+  ],
+  "page": "https://skills.marketing/skills/launchdarkly-agent-skills--launchdarkly-guarded-rollout--1tl6gtx"
+}

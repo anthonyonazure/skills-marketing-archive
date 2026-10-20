@@ -1,0 +1,14 @@
+{
+  "slug": "glebis-claude-skills--brand-agency--pcktj4",
+  "name": "Brand agency",
+  "description": "To access Agency's official brand identity and style resources, use this skill. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/glebis/claude-skills",
+  "source_file": "https://github.com/glebis/claude-skills/blob/HEAD/brand-agency/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand agency"
+  ],
+  "page": "https://skills.marketing/skills/glebis-claude-skills--brand-agency--pcktj4"
+}

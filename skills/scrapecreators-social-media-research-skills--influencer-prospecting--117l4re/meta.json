@@ -1,0 +1,14 @@
+{
+  "slug": "scrapecreators-social-media-research-skills--influencer-prospecting--117l4re",
+  "name": "Influencer prospecting",
+  "description": "Use when the user wants to find creators, influencers, affiliates, or social accounts in a niche for outreach, partnerships, sponsorships, UGC, seeding, or competitive research. It gives the agent a clearer input/output frame for influencer prospecting: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/scrapecreators/social-media-research-skills",
+  "source_file": "https://github.com/scrapecreators/social-media-research-skills/blob/HEAD/skills/influencer-prospecting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer prospecting"
+  ],
+  "page": "https://skills.marketing/skills/scrapecreators-social-media-research-skills--influencer-prospecting--117l4re"
+}

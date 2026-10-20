@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--market-movers--16fex8c",
+  "name": "Market movers analysis",
+  "description": "When the user wants to track App Store chart rank changes, find top gainers and losers, detect breakout apps entering the top 100, or identify apps dropping out of charts. It gives the agent a clearer input/output frame for market movers analysis: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/market-movers/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "market movers analysis"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--market-movers--16fex8c"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--influencer-creator--vc7x9u",
+  "name": "Influencer creator",
+  "description": "Activate this skill when the user's request involves any of the following: It gives the agent a clearer input/output frame for influencer creator: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/influencer-creator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer creator"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--influencer-creator--vc7x9u"
+}

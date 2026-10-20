@@ -1,0 +1,14 @@
+{
+  "slug": "travisjneuman-claude--brand-identity--jdl1z9",
+  "name": "Brand identity",
+  "description": "Brand strategy and identity design for businesses and products. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/travisjneuman/.claude",
+  "source_file": "https://github.com/travisjneuman/.claude/blob/HEAD/skills/brand-identity/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand identity"
+  ],
+  "page": "https://skills.marketing/skills/travisjneuman-claude--brand-identity--jdl1z9"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--youtube-content--1f611ur",
+  "name": "YouTube content planning",
+  "description": "Plan new YouTube videos with optimized titles, thumbnails, and hooks. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/youtube-content/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "YouTube content planning"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--youtube-content--1f611ur"
+}

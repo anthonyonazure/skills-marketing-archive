@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--tiktok-shop-creator-management--1a3j1zl",
+  "name": "TikTok shop creator management",
+  "description": "Creator relationship management \u2014 recruitment, briefing, content approval, commission optimization. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-creator-management/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "TikTok shop creator management"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--tiktok-shop-creator-management--1a3j1zl"
+}

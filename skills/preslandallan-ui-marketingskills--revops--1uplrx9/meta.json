@@ -1,0 +1,14 @@
+{
+  "slug": "preslandallan-ui-marketingskills--revops--1uplrx9",
+  "name": "RevOps",
+  "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/preslandallan-ui/marketingskills",
+  "source_file": "https://github.com/preslandallan-ui/marketingskills/blob/HEAD/skills/revops/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "RevOps"
+  ],
+  "page": "https://skills.marketing/skills/preslandallan-ui-marketingskills--revops--1uplrx9"
+}

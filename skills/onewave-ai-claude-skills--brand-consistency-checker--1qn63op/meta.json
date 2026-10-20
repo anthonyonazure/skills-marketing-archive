@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--brand-consistency-checker--1qn63op",
+  "name": "Brand consistency checker",
+  "description": "Brand Consistency Checker Scan documents and slides for off-brand colors, fonts, and logos. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/brand-consistency-checker/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand consistency checker"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--brand-consistency-checker--1qn63op"
+}

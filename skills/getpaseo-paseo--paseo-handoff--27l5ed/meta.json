@@ -1,0 +1,14 @@
+{
+  "slug": "getpaseo-paseo--paseo-handoff--27l5ed",
+  "name": "Handoff skill",
+  "description": "Hand off the current task to another agent with full context. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/getpaseo/paseo",
+  "source_file": "https://github.com/getpaseo/paseo/blob/HEAD/skills/paseo-handoff/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "handoff skill"
+  ],
+  "page": "https://skills.marketing/skills/getpaseo-paseo--paseo-handoff--27l5ed"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "samber-cc-skills--copywriting-prose-creator--7iu62t",
+  "name": "Copywriting prose creator",
+  "description": "Provides prose engineer. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/samber/cc-skills",
+  "source_file": "https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-prose-creator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "copywriting prose creator"
+  ],
+  "page": "https://skills.marketing/skills/samber-cc-skills--copywriting-prose-creator--7iu62t"
+}

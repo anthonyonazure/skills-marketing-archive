@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--app-icon-optimization--1vamvdi",
+  "name": "App icon optimization",
+  "description": "When the user wants to design, test, or improve their app icon to increase tap-through rate and conversions in App Store search and browse. It gives the agent a clearer input/output frame for app icon optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/app-icon-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app icon optimization"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--app-icon-optimization--1vamvdi"
+}

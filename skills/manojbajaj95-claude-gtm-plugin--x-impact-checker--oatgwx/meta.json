@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--x-impact-checker--oatgwx",
+  "name": "X impact checker",
+  "description": "Analyze and optimize X (Twitter) posts for viral potential and reach using heuristics inspired by X's published open-source recommendation architecture. It gives the agent a clearer input/output frame for x impact checker: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/x-impact-checker/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "x impact checker"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--x-impact-checker--oatgwx"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "rorkai-app-store-connect-cli-skills--asc-ppp-pricing--1yim6br",
+  "name": "PPP pricing (per-territory pricing)",
+  "description": "Set territory-specific pricing for subscriptions and in-app purchases using current asc setup, pricing summary, price import, and price schedule commands. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rorkai/app-store-connect-cli-skills",
+  "source_file": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PPP pricing (per-territory pricing)"
+  ],
+  "page": "https://skills.marketing/skills/rorkai-app-store-connect-cli-skills--asc-ppp-pricing--1yim6br"
+}

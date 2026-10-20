@@ -1,0 +1,14 @@
+{
+  "slug": "sanity-io-agent-toolkit--seo-aeo-best-practices--1q6mioa",
+  "name": "SEO AEO best practices",
+  "description": "Principles for optimizing content for both traditional search engines (SEO) and AI-powered answer engines (AEO). It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sanity-io/agent-toolkit",
+  "source_file": "https://github.com/sanity-io/agent-toolkit/blob/HEAD/skills/seo-aeo-best-practices/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO best practices"
+  ],
+  "page": "https://skills.marketing/skills/sanity-io-agent-toolkit--seo-aeo-best-practices--1q6mioa"
+}

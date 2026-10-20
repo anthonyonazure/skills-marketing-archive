@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--meta-ads--16uffha",
+  "name": "Meta ads",
+  "description": "Guides Meta (Facebook/Instagram) Ads setup, campaign structure, audience targeting, and creative optimization. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/meta-ads/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "meta ads"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--meta-ads--16uffha"
+}

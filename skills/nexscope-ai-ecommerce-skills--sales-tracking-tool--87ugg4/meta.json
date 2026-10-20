@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--sales-tracking-tool--87ugg4",
+  "name": "Sales tracking tool \ud83d\udcc9",
+  "description": "Track and analyze e-commerce sales performance across platforms. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/sales-tracking-tool/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sales tracking tool \ud83d\udcc9"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--sales-tracking-tool--87ugg4"
+}

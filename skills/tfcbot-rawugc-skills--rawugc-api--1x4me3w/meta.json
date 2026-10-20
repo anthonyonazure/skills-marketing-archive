@@ -1,0 +1,14 @@
+{
+  "slug": "tfcbot-rawugc-skills--rawugc-api--1x4me3w",
+  "name": "Rawugc API",
+  "description": "Procedural knowledge for agents to call the RawUGC API. It gives the agent a clearer input/output frame for rawugc API: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tfcbot/rawugc-skills",
+  "source_file": "https://github.com/tfcbot/rawugc-skills/blob/HEAD/skills/rawugc-api/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "rawugc API"
+  ],
+  "page": "https://skills.marketing/skills/tfcbot-rawugc-skills--rawugc-api--1x4me3w"
+}

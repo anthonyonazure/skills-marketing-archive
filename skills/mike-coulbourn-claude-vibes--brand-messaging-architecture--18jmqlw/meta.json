@@ -1,0 +1,14 @@
+{
+  "slug": "mike-coulbourn-claude-vibes--brand-messaging-architecture--18jmqlw",
+  "name": "Brand messaging architecture",
+  "description": "Quick reference for developing brand messaging, value propositions, and brand pillars using established methodologies from leading strategists. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mike-coulbourn/claude-vibes",
+  "source_file": "https://github.com/mike-coulbourn/claude-vibes/blob/HEAD/plugins/vibes/skills/brand-messaging-architecture/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand messaging architecture"
+  ],
+  "page": "https://skills.marketing/skills/mike-coulbourn-claude-vibes--brand-messaging-architecture--18jmqlw"
+}

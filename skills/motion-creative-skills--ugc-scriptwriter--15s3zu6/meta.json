@@ -1,0 +1,14 @@
+{
+  "slug": "motion-creative-skills--ugc-scriptwriter--15s3zu6",
+  "name": "UGC scriptwriter",
+  "description": "This skill helps you develop scripts for user-generated content (UGC) style ads. It gives the agent a clearer input/output frame for UGC scriptwriter: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/motion-creative/skills",
+  "source_file": "https://github.com/motion-creative/skills/blob/HEAD/ugc-scriptwriter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC scriptwriter"
+  ],
+  "page": "https://skills.marketing/skills/motion-creative-skills--ugc-scriptwriter--15s3zu6"
+}

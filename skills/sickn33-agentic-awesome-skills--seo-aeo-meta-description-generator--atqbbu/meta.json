@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--seo-aeo-meta-description-generator--atqbbu",
+  "name": "SEO-AEO meta description generator",
+  "description": "Writes 3 title tag variants and 3 meta description variants per page with SERP preview, OG tags, and Twitter Card tags. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/seo-aeo-meta-description-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AEO meta description generator"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--seo-aeo-meta-description-generator--atqbbu"
+}

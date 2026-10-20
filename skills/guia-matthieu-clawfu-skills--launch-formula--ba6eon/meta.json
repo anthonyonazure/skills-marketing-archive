@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--launch-formula--ba6eon",
+  "name": "Launch formula",
+  "description": "Turn your marketing into an event that makes people beg to buy before you even release the product. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/funnels/launch-formula/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launch formula"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--launch-formula--ba6eon"
+}

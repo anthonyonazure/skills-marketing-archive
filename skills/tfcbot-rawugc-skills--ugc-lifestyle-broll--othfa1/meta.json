@@ -1,0 +1,14 @@
+{
+  "slug": "tfcbot-rawugc-skills--ugc-lifestyle-broll--othfa1",
+  "name": "UGC lifestyle broll",
+  "description": "20 lofi, TikTok-native b-roll formats for lifestyle brands. It gives the agent a clearer input/output frame for UGC lifestyle broll: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tfcbot/rawugc-skills",
+  "source_file": "https://github.com/tfcbot/rawugc-skills/blob/HEAD/skills/ugc-lifestyle-broll/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC lifestyle broll"
+  ],
+  "page": "https://skills.marketing/skills/tfcbot-rawugc-skills--ugc-lifestyle-broll--othfa1"
+}

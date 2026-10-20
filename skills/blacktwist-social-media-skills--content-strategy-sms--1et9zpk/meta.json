@@ -1,0 +1,14 @@
+{
+  "slug": "blacktwist-social-media-skills--content-strategy-sms--1et9zpk",
+  "name": "Content strategy",
+  "description": "When the user wants to plan a social media content strategy, decide what to post, or figure out topic clusters and content mix. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/blacktwist/social-media-skills",
+  "source_file": "https://github.com/blacktwist/social-media-skills/blob/HEAD/skills/content-strategy-sms/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content strategy"
+  ],
+  "page": "https://skills.marketing/skills/blacktwist-social-media-skills--content-strategy-sms--1et9zpk"
+}

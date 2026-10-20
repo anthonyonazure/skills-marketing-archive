@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--competitor-keyword-analysis--1i9gd1l",
+  "name": "Competitor keyword analysis",
+  "description": "Use for a quick SEO snapshot of a competitor's organic presence, or as input to competitor-content-analysis for deeper content strategy mapping. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/competitor-keyword-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor keyword analysis"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--competitor-keyword-analysis--1i9gd1l"
+}

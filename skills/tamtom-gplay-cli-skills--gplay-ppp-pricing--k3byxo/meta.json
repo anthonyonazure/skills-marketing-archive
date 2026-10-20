@@ -1,0 +1,14 @@
+{
+  "slug": "tamtom-gplay-cli-skills--gplay-ppp-pricing--k3byxo",
+  "name": "PPP pricing (per-region pricing)",
+  "description": "Set region-specific pricing for subscriptions and in-app purchases using purchasing power parity (PPP). It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tamtom/gplay-cli-skills",
+  "source_file": "https://github.com/tamtom/gplay-cli-skills/blob/HEAD/skills/gplay-ppp-pricing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PPP pricing (per-region pricing)"
+  ],
+  "page": "https://skills.marketing/skills/tamtom-gplay-cli-skills--gplay-ppp-pricing--k3byxo"
+}

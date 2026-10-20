@@ -1,0 +1,14 @@
+{
+  "slug": "launchdarkly-agent-skills--launchdarkly-metric-choose--icancj",
+  "name": "Launchdarkly metric choose",
+  "description": "You're using a skill that helps users select the right metrics before setting up an experiment, guarded rollout, or release policy. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/launchdarkly/agent-skills",
+  "source_file": "https://github.com/launchdarkly/agent-skills/blob/HEAD/skills/metrics/launchdarkly-metric-choose/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launchdarkly metric choose"
+  ],
+  "page": "https://skills.marketing/skills/launchdarkly-agent-skills--launchdarkly-metric-choose--icancj"
+}

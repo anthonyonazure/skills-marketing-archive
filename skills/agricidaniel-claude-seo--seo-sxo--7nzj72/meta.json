@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-sxo--7nzj72",
+  "name": "SEO SXO",
+  "description": "SXO bridges the gap between SEO (what Google rewards) and UX (what users need). It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-sxo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO SXO"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-sxo--7nzj72"
+}

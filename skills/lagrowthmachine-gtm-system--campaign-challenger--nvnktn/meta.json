@@ -1,0 +1,14 @@
+{
+  "slug": "lagrowthmachine-gtm-system--campaign-challenger--nvnktn",
+  "name": "Campaign challenger",
+  "description": "Benchmarks an outbound campaign copy against the user's real campaign history \u2014 ranks it next to what's worked, names the fixes, and gives one contextual next step. It gives the agent a clearer input/output frame for campaign challenger: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/lagrowthmachine/gtm-system",
+  "source_file": "https://github.com/lagrowthmachine/gtm-system/blob/HEAD/skills/get-qualified-meetings/campaign-challenger/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "campaign challenger"
+  ],
+  "page": "https://skills.marketing/skills/lagrowthmachine-gtm-system--campaign-challenger--nvnktn"
+}

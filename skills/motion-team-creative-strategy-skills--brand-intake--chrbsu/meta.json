@@ -1,0 +1,14 @@
+{
+  "slug": "motion-team-creative-strategy-skills--brand-intake--chrbsu",
+  "name": "Brand intake",
+  "description": "This does two things in sequence: 1. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/motion-team/creative-strategy-skills",
+  "source_file": "https://github.com/motion-team/creative-strategy-skills/blob/HEAD/brand-intake/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand intake"
+  ],
+  "page": "https://skills.marketing/skills/motion-team-creative-strategy-skills--brand-intake--chrbsu"
+}

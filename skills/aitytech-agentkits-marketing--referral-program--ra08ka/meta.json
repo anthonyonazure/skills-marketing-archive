@@ -1,0 +1,14 @@
+{
+  "slug": "aitytech-agentkits-marketing--referral-program--ra08ka",
+  "name": "Referral & affiliate programs",
+  "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/aitytech/agentkits-marketing",
+  "source_file": "https://github.com/aitytech/agentkits-marketing/blob/HEAD/skills/referral-program/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "referral & affiliate programs"
+  ],
+  "page": "https://skills.marketing/skills/aitytech-agentkits-marketing--referral-program--ra08ka"
+}

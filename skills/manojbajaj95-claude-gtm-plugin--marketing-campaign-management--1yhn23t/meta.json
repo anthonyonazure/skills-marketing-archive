@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--marketing-campaign-management--1yhn23t",
+  "name": "Marketing campaign management",
+  "description": "Comprehensive marketing expertise combining campaign execution, strategy frameworks, psychological principles, and 140+ marketing tactics. It gives the agent a clearer input/output frame for marketing campaign management: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/marketing-campaign-management/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing campaign management"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--marketing-campaign-management--1yhn23t"
+}

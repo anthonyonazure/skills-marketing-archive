@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--pricing-strategy--1na2ezb",
+  "name": "Pricing strategy and page optimization",
+  "description": "Optimize pricing pages, pricing models, and pricing strategy. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pricing strategy and page optimization"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--pricing-strategy--1na2ezb"
+}

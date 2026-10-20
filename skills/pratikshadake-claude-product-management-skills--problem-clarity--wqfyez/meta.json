@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--problem-clarity--wqfyez",
+  "name": "Problem clarity engine",
+  "description": "Evaluates whether a proposed idea addresses a genuine user problem worth solving. It gives the agent a clearer input/output frame for problem clarity engine: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/problem-clarity/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "problem clarity engine"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--problem-clarity--wqfyez"
+}

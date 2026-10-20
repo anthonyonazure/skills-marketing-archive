@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--feature-launch-playbook--na29rf",
+  "name": "Feature launch playbook",
+  "description": "A veteran PM-leader's playbook for launching features well, not just shipping them. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/feature-launch-playbook/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "feature launch playbook"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--feature-launch-playbook--na29rf"
+}

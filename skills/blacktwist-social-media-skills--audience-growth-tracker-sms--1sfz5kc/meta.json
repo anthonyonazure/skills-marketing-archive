@@ -1,0 +1,14 @@
+{
+  "slug": "blacktwist-social-media-skills--audience-growth-tracker-sms--1sfz5kc",
+  "name": "Audience growth tracker SMS",
+  "description": "User asks to track follower growth or analyze audience development User mentions \"follower growth,\" \"followers,\" or \"audience growth\" User says \"gaining followers,\" \"losing followers,\" or. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/blacktwist/social-media-skills",
+  "source_file": "https://github.com/blacktwist/social-media-skills/blob/HEAD/skills/audience-growth-tracker-sms/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "audience growth tracker SMS"
+  ],
+  "page": "https://skills.marketing/skills/blacktwist-social-media-skills--audience-growth-tracker-sms--1sfz5kc"
+}

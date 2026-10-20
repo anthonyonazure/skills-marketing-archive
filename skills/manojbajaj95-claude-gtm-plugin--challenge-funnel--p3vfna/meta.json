@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--challenge-funnel--p3vfna",
+  "name": "Challenge funnel",
+  "description": "This skill should be used when the user asks to \"create a challenge funnel\", \"build a 5-day challenge\", \"bootcamp funnel\", \"challenge launch\", or mentions challenges, bootcamps, or. It gives the agent a clearer input/output frame for challenge funnel: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/challenge-funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "challenge funnel"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--challenge-funnel--p3vfna"
+}

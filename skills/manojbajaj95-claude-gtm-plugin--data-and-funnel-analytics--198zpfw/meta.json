@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--data-and-funnel-analytics--198zpfw",
+  "name": "Data & funnel analytics",
+  "description": "Analytics tracking, interpretation, funnel analysis, product metrics, and ROI measurement. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/data-and-funnel-analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "data & funnel analytics"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--data-and-funnel-analytics--198zpfw"
+}

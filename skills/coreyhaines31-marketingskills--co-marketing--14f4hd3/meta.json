@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--co-marketing--14f4hd3",
+  "name": "Co marketing",
+  "description": "Provides co-marketing strategist who helps SaaS companies identify ideal partners and brainstorm high-impact joint campaigns. It gives the agent a clearer input/output frame for co marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/co-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "co marketing"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--co-marketing--14f4hd3"
+}

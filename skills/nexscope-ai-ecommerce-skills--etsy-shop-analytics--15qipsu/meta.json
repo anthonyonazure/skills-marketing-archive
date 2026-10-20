@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--etsy-shop-analytics--15qipsu",
+  "name": "Etsy shop analytics",
+  "description": "Shop analytics \u2014 traffic sources, conversion rates, search terms, top listings performance. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shop-analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "etsy shop analytics"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--etsy-shop-analytics--15qipsu"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "asgard-ai-platform-skills--biz-pricing-strategy--gsvp19",
+  "name": "Biz pricing strategy",
+  "description": "Pricing is the only marketing mix element that generates revenue \u2014 all others are costs. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/asgard-ai-platform/skills",
+  "source_file": "https://github.com/asgard-ai-platform/skills/blob/HEAD/biz-pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "biz pricing strategy"
+  ],
+  "page": "https://skills.marketing/skills/asgard-ai-platform-skills--biz-pricing-strategy--gsvp19"
+}

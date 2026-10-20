@@ -1,0 +1,14 @@
+{
+  "slug": "calm-north-seojuice-skills--find-keywords--xnpbg9",
+  "name": "Find keywords",
+  "description": "Build a prioritized keyword universe from a seed topic using intent mapping, difficulty-adjusted opportunity scoring, and cluster seeding. It gives the agent a clearer input/output frame for find keywords: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/calm-north/seojuice-skills",
+  "source_file": "https://github.com/calm-north/seojuice-skills/blob/HEAD/skills/find-keywords/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "find keywords"
+  ],
+  "page": "https://skills.marketing/skills/calm-north-seojuice-skills--find-keywords--xnpbg9"
+}

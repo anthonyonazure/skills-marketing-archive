@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--executive-dashboard-generator--14mu4nl",
+  "name": "Executive dashboard generator",
+  "description": "Transform raw data from CSVs, Google Sheets, or databases into executive-ready reports with visualizations, key metrics, trend analysis, and actionable recommendations. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/executive-dashboard-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "executive dashboard generator"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--executive-dashboard-generator--14mu4nl"
+}

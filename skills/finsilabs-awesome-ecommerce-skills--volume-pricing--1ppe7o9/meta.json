@@ -1,0 +1,14 @@
+{
+  "slug": "finsilabs-awesome-ecommerce-skills--volume-pricing--1ppe7o9",
+  "name": "Volume pricing",
+  "description": "Volume pricing \u2014 also called quantity breaks or tiered pricing \u2014 automatically reduces the unit price as order quantities increase. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/finsilabs/awesome-ecommerce-skills",
+  "source_file": "https://github.com/finsilabs/awesome-ecommerce-skills/blob/HEAD/skills/pricing-promotions/volume-pricing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "volume pricing"
+  ],
+  "page": "https://skills.marketing/skills/finsilabs-awesome-ecommerce-skills--volume-pricing--1ppe7o9"
+}

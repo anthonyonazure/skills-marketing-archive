@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--newsletter-strategy-builder--1dqes92",
+  "name": "Newsletter strategy builder",
+  "description": "Designs newsletter strategy, editorial mix, recurring sections, and growth loops. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/newsletter-strategy-builder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter strategy builder"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--newsletter-strategy-builder--1dqes92"
+}

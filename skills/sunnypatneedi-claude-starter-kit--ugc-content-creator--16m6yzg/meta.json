@@ -1,0 +1,14 @@
+{
+  "slug": "sunnypatneedi-claude-starter-kit--ugc-content-creator--16m6yzg",
+  "name": "UGC content creator",
+  "description": "Comprehensive workflow for creating short-form video content (15-60 seconds) that performs organically and scales to paid ads. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sunnypatneedi/claude-starter-kit",
+  "source_file": "https://github.com/sunnypatneedi/claude-starter-kit/blob/HEAD/skills/business/ugc-content-creator/SKILL.md",
+  "license": "MPL-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC content creator"
+  ],
+  "page": "https://skills.marketing/skills/sunnypatneedi-claude-starter-kit--ugc-content-creator--16m6yzg"
+}

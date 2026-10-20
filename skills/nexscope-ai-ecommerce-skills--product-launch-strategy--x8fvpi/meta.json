@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--product-launch-strategy--x8fvpi",
+  "name": "Product launch strategy",
+  "description": "Plan and execute e-commerce product launches. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-launch-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product launch strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--product-launch-strategy--x8fvpi"
+}

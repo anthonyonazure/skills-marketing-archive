@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--conversion-rate-auditor--g2jtv5",
+  "name": "Conversion rate auditor",
+  "description": "Audits pages and funnels for conversion friction, messaging gaps, trust issues, and CTA problems. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/conversion-rate-auditor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion rate auditor"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--conversion-rate-auditor--g2jtv5"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "moizibnyousaf-marketing-cli--newsletter--1yk6n45",
+  "name": "Newsletter system",
+  "description": "Design, write, and grow editorial newsletters with consistent voice and format. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/moizibnyousaf/marketing-cli",
+  "source_file": "https://github.com/moizibnyousaf/marketing-cli/blob/HEAD/skills/newsletter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter system"
+  ],
+  "page": "https://skills.marketing/skills/moizibnyousaf-marketing-cli--newsletter--1yk6n45"
+}

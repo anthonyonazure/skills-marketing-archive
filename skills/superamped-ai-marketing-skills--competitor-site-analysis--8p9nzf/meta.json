@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--competitor-site-analysis--8p9nzf",
+  "name": "Competitor site analysis",
+  "description": "Use for a quick website data pull on a competitor, or as a first step before deeper analysis. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/competitor-site-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor site analysis"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--competitor-site-analysis--8p9nzf"
+}

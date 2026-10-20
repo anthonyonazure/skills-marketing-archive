@@ -1,0 +1,14 @@
+{
+  "slug": "retieedra-profound-skills-marketing-library--ai-commerce-readiness-auditor--1dv4xmg",
+  "name": "AI commerce readiness auditor",
+  "description": "Determines whether AI shopping surfaces are relevant to a product category and audits the product data, merchant information, pricing, availability, offers, and evidence needed for. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/profound/ai-commerce-readiness-auditor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI commerce readiness auditor"
+  ],
+  "page": "https://skills.marketing/skills/retieedra-profound-skills-marketing-library--ai-commerce-readiness-auditor--1dv4xmg"
+}

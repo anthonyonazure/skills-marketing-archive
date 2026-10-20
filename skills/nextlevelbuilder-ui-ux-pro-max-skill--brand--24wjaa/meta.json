@@ -1,0 +1,14 @@
+{
+  "slug": "nextlevelbuilder-ui-ux-pro-max-skill--brand--24wjaa",
+  "name": "Brand",
+  "description": "Brand identity, voice, messaging, asset management, and consistency frameworks. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "source_file": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/HEAD/cli/assets/skills/brand/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand"
+  ],
+  "page": "https://skills.marketing/skills/nextlevelbuilder-ui-ux-pro-max-skill--brand--24wjaa"
+}

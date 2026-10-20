@@ -1,0 +1,14 @@
+{
+  "slug": "schwepps-skills--linkedin-roast--1n6w2h5",
+  "name": "LinkedIn roast",
+  "description": "This skill delivers hilarious, savage-but-friendly roasts of LinkedIn profiles. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/schwepps/skills",
+  "source_file": "https://github.com/schwepps/skills/blob/HEAD/linkedin-roast/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn roast"
+  ],
+  "page": "https://skills.marketing/skills/schwepps-skills--linkedin-roast--1n6w2h5"
+}

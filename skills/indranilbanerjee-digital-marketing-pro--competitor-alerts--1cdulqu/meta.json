@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--competitor-alerts--1cdulqu",
+  "name": "Competitor alerts",
+  "description": "Configure an intelligent competitor alert system that surfaces competitive changes worth knowing about while actively managing alert fatigue. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/competitor-alerts/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor alerts"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--competitor-alerts--1cdulqu"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "wdavidturner-product-skills--positioning-canvas--jxi7t7",
+  "name": "Positioning canvas",
+  "description": "Use when asked to \"position my product\", \"positioning canvas\", \"differentiate from competitors\", \"figure out our category\", \"repositioning\", or \"why customers should pick us\". It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/wdavidturner/product-skills",
+  "source_file": "https://github.com/wdavidturner/product-skills/blob/HEAD/skills/positioning-canvas/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "positioning canvas"
+  ],
+  "page": "https://skills.marketing/skills/wdavidturner-product-skills--positioning-canvas--jxi7t7"
+}

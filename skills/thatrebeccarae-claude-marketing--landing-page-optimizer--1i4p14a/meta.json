@@ -1,0 +1,14 @@
+{
+  "slug": "thatrebeccarae-claude-marketing--landing-page-optimizer--1i4p14a",
+  "name": "Landing page optimizer",
+  "description": "Landing page audit and optimization for conversion. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thatrebeccarae/claude-marketing",
+  "source_file": "https://github.com/thatrebeccarae/claude-marketing/blob/HEAD/skills/landing-page-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page optimizer"
+  ],
+  "page": "https://skills.marketing/skills/thatrebeccarae-claude-marketing--landing-page-optimizer--1i4p14a"
+}

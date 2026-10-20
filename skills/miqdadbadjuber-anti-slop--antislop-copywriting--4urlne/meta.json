@@ -1,0 +1,14 @@
+{
+  "slug": "miqdadbadjuber-anti-slop--antislop-copywriting--4urlne",
+  "name": "Antislop-copywriting",
+  "description": "Copy and text skill for antislop. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/miqdadbadjuber/anti-slop",
+  "source_file": "https://github.com/miqdadbadjuber/anti-slop/blob/HEAD/skills/antislop-copywriting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "antislop-copywriting"
+  ],
+  "page": "https://skills.marketing/skills/miqdadbadjuber-anti-slop--antislop-copywriting--4urlne"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--rating-prompt-strategy--ax8q1j",
+  "name": "Rating prompt strategy",
+  "description": "You optimize when, how, and to whom an app shows review prompts \u2014 maximizing high ratings while minimizing negative ones. It gives the agent a clearer input/output frame for rating prompt strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/rating-prompt-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "rating prompt strategy"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--rating-prompt-strategy--ax8q1j"
+}

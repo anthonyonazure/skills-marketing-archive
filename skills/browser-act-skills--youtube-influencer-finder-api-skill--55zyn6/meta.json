@@ -1,0 +1,14 @@
+{
+  "slug": "browser-act-skills--youtube-influencer-finder-api-skill--55zyn6",
+  "name": "YouTube influencer finder API skill",
+  "description": "YouTube Influencer Finder API Skill \ud83d\udcd6 Brief This skill provides a one-stop YouTube influencer data extraction service using the BrowserAct YouTube Influencer Finder API template. It gives the agent a clearer input/output frame for YouTube influencer finder API skill: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/browser-act/skills",
+  "source_file": "https://github.com/browser-act/skills/blob/HEAD/solutions/video-platforms/youtube-influencer-finder-api-skill/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "YouTube influencer finder API skill"
+  ],
+  "page": "https://skills.marketing/skills/browser-act-skills--youtube-influencer-finder-api-skill--55zyn6"
+}

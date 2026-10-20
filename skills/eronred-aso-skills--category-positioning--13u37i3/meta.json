@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--category-positioning--13u37i3",
+  "name": "Category & subcategory positioning",
+  "description": "When the user wants to choose, change, or evaluate their App Store / Google Play category and subcategory \u2014 including primary vs secondary category trade-offs, chart-rank competitive. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/category-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "category & subcategory positioning"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--category-positioning--13u37i3"
+}

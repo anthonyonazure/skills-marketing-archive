@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--jtbd-extractor--1s92ffe",
+  "name": "Jobs-to-be-done extractor",
+  "description": "Translates feature ideas into Jobs-to-Be-Done format with functional and emotional jobs, success criteria, and switching triggers. It gives the agent a clearer input/output frame for jobs-to-be-done extractor: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/jtbd-extractor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "jobs-to-be-done extractor"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--jtbd-extractor--1s92ffe"
+}

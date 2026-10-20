@@ -1,0 +1,14 @@
+{
+  "slug": "minhnv0807-fullstack-mkt-skills--product-marketing-context-global--1un64lu",
+  "name": "Product marketing context global",
+  "description": "Foundation skill for the GLOBAL marketing cluster \u2014 runs BEFORE every other global skill (00-29). It gives the agent a clearer input/output frame for product marketing context global: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/minhnv0807/fullstack-mkt-skills",
+  "source_file": "https://github.com/minhnv0807/fullstack-mkt-skills/blob/HEAD/skills/en/product-marketing-context-global/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product marketing context global"
+  ],
+  "page": "https://skills.marketing/skills/minhnv0807-fullstack-mkt-skills--product-marketing-context-global--1un64lu"
+}

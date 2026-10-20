@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--competitor-content-analyzer--17tc0c",
+  "name": "Competitor content analyzer",
+  "description": "Competitor Content Analyzer Track competitor blog posts, whitepapers, and content strategy. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/competitor-content-analyzer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor content analyzer"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--competitor-content-analyzer--17tc0c"
+}

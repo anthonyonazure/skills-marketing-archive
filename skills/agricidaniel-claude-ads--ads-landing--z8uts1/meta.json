@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-landing--z8uts1",
+  "name": "Landing page quality for ad campaigns",
+  "description": "Landing page quality assessment for paid advertising campaigns. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-landing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page quality for ad campaigns"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-landing--z8uts1"
+}

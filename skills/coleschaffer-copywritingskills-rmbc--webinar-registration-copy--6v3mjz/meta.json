@@ -1,0 +1,14 @@
+{
+  "slug": "coleschaffer-copywritingskills-rmbc--webinar-registration-copy--6v3mjz",
+  "name": "Webinar-registration-copy",
+  "description": "Generate RMBC-structured webinar/VSL registration page copy. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coleschaffer/copywritingskills-rmbc",
+  "source_file": "https://github.com/coleschaffer/copywritingskills-rmbc/blob/HEAD/skills/webinar-registration-copy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "webinar-registration-copy"
+  ],
+  "page": "https://skills.marketing/skills/coleschaffer-copywritingskills-rmbc--webinar-registration-copy--6v3mjz"
+}

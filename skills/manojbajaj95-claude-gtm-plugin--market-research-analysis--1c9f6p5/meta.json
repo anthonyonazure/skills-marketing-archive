@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--market-research-analysis--1c9f6p5",
+  "name": "Market research & analysis",
+  "description": "Comprehensive market research and analysis skill. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/market-research-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "market research & analysis"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--market-research-analysis--1c9f6p5"
+}

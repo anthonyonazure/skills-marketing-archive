@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--sales-and-revenue-operations--10nqyfs",
+  "name": "Sales & revenue operations",
+  "description": "Comprehensive sales and revenue operations skill. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/sales-and-revenue-operations/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sales & revenue operations"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--sales-and-revenue-operations--10nqyfs"
+}

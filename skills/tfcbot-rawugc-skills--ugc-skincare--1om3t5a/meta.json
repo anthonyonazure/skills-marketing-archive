@@ -1,0 +1,14 @@
+{
+  "slug": "tfcbot-rawugc-skills--ugc-skincare--1om3t5a",
+  "name": "UGC skincare",
+  "description": "20 lofi, TikTok-native video formats for skincare brands. It gives the agent a clearer input/output frame for UGC skincare: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tfcbot/rawugc-skills",
+  "source_file": "https://github.com/tfcbot/rawugc-skills/blob/HEAD/skills/ugc-skincare/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "UGC skincare"
+  ],
+  "page": "https://skills.marketing/skills/tfcbot-rawugc-skills--ugc-skincare--1om3t5a"
+}

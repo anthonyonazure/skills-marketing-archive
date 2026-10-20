@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--influencer-finder--uj7gv",
+  "name": "Influencer finder",
+  "description": "Find and evaluate influencers for marketing collaborations and partnerships. It gives the agent a clearer input/output frame for influencer finder: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/social/influencer-finder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer finder"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--influencer-finder--uj7gv"
+}

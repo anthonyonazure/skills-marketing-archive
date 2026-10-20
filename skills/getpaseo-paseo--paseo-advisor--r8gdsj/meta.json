@@ -1,0 +1,14 @@
+{
+  "slug": "getpaseo-paseo--paseo-advisor--r8gdsj",
+  "name": "Paseo advisor",
+  "description": "Spin up a single agent as an advisor \u2014 second opinion on the current task. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/getpaseo/paseo",
+  "source_file": "https://github.com/getpaseo/paseo/blob/HEAD/skills/paseo-advisor/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "paseo advisor"
+  ],
+  "page": "https://skills.marketing/skills/getpaseo-paseo--paseo-advisor--r8gdsj"
+}

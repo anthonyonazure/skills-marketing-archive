@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--keyword-research-and-clustering--4zlm8y",
+  "name": "Keyword research & clustering",
+  "description": "Research, expand, and cluster keywords for content strategy. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/keyword-research-and-clustering/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "keyword research & clustering"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--keyword-research-and-clustering--4zlm8y"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "twilio-ai--twilio-messaging-services--1ggz7io",
+  "name": "Twilio messaging services",
+  "description": "A Messaging Service groups senders (phone numbers, short codes, toll-free numbers) with shared configuration. It gives the agent a clearer input/output frame for twilio messaging services: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/twilio/ai",
+  "source_file": "https://github.com/twilio/ai/blob/HEAD/skills/twilio/twilio-messaging-services/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "twilio messaging services"
+  ],
+  "page": "https://skills.marketing/skills/twilio-ai--twilio-messaging-services--1ggz7io"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "realjaymes-marketingagentskills--product-launch-gtm--1bz92x2",
+  "name": "Product launch & GTM assistant",
+  "description": "Guides end-to-end product and feature launches with launch sizing, GTM channel selection, cross-team alignment, and post-launch review. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/realjaymes/marketingagentskills",
+  "source_file": "https://github.com/realjaymes/marketingagentskills/blob/HEAD/skills/product-launch-gtm/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product launch & GTM assistant"
+  ],
+  "page": "https://skills.marketing/skills/realjaymes-marketingagentskills--product-launch-gtm--1bz92x2"
+}

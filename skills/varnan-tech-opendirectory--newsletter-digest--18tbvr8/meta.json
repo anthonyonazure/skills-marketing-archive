@@ -1,0 +1,14 @@
+{
+  "slug": "varnan-tech-opendirectory--newsletter-digest--18tbvr8",
+  "name": "Newsletter digest",
+  "description": "Aggregates RSS feeds from the past week, synthesizes the top stories using Gemini, and publishes a newsletter digest to Ghost CMS. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/varnan-tech/opendirectory",
+  "source_file": "https://github.com/varnan-tech/opendirectory/blob/HEAD/skills/newsletter-digest/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter digest"
+  ],
+  "page": "https://skills.marketing/skills/varnan-tech-opendirectory--newsletter-digest--18tbvr8"
+}

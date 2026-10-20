@@ -1,0 +1,14 @@
+{
+  "slug": "adobe-skills--aa-conversion-funnel-analysis--35leia",
+  "name": "Aa conversion funnel analysis",
+  "description": "Analyze a multi-step conversion funnel to identify where visitors drop off, which steps have the worst leakage, and what drives visitors to convert or abandon. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/adobe/skills",
+  "source_file": "https://github.com/adobe/skills/blob/HEAD/plugins/adobe-analytics/skills/aa-conversion-funnel-analysis/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "aa conversion funnel analysis"
+  ],
+  "page": "https://skills.marketing/skills/adobe-skills--aa-conversion-funnel-analysis--35leia"
+}

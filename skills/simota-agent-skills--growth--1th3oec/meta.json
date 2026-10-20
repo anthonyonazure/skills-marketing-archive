@@ -1,0 +1,14 @@
+{
+  "slug": "simota-agent-skills--growth--1th3oec",
+  "name": "Growth",
+  "description": "Optimizing SEO (meta/OGP/JSON-LD/headings), SMO (social sharing), CRO (CTA/form/exit-intent), and GEO (AI citation optimization). It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/simota/agent-skills",
+  "source_file": "https://github.com/simota/agent-skills/blob/HEAD/growth/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth"
+  ],
+  "page": "https://skills.marketing/skills/simota-agent-skills--growth--1th3oec"
+}

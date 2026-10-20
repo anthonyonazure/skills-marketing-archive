@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--brand-monitor--1mbpfsz",
+  "name": "Brand monitor",
+  "description": "Track brand mentions, analyze sentiment, and discover PR opportunities using the Brand.dev API. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/brand-monitor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand monitor"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--brand-monitor--1mbpfsz"
+}

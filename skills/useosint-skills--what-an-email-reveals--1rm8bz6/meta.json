@@ -1,0 +1,14 @@
+{
+  "slug": "useosint-skills--what-an-email-reveals--1rm8bz6",
+  "name": "What an email reveals",
+  "description": "Investigate an email address \u2014 MX and syntactic validation, Gravatar lookup, corporate email-format inference, breach exposure, and full mail-header analysis covering the Received chain. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/useosint/skills",
+  "source_file": "https://github.com/useosint/skills/blob/HEAD/skills/what-an-email-reveals/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "what an email reveals"
+  ],
+  "page": "https://skills.marketing/skills/useosint-skills--what-an-email-reveals--1rm8bz6"
+}

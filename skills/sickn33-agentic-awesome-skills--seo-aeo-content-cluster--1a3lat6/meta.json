@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--seo-aeo-content-cluster--1a3lat6",
+  "name": "SEO-AEO content cluster",
+  "description": "Builds a topical authority map with a pillar page, prioritised cluster articles, content types, internal link map, and content gap analysis. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/seo-aeo-content-cluster/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AEO content cluster"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--seo-aeo-content-cluster--1a3lat6"
+}

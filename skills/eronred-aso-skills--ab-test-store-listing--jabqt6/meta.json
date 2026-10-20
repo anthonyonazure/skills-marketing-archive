@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--ab-test-store-listing--jabqt6",
+  "name": "A/B test store listing",
+  "description": "When the user wants to A/B test App Store product page elements to improve conversion rate. It gives the agent a clearer input/output frame for A/B test store listing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/ab-test-store-listing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "A/B test store listing"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--ab-test-store-listing--jabqt6"
+}

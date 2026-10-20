@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--customer-research--1u1o4za",
+  "name": "Customer research",
+  "description": "Provides expert guidance for customer researcher. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "customer research"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--customer-research--1u1o4za"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--marketing-strategy--10lcboc",
+  "name": "Marketing strategy",
+  "description": "Product marketing strategy, positioning, and competitive intelligence for B2B SaaS. It gives the agent a clearer input/output frame for marketing strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/marketing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing strategy"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--marketing-strategy--10lcboc"
+}

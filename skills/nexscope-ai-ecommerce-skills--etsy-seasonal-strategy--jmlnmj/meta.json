@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--etsy-seasonal-strategy--jmlnmj",
+  "name": "Etsy seasonal strategy",
+  "description": "Seasonal selling calendar \u2014 holiday prep, trending categories, listing refresh timing, inventory planning. It gives the agent a clearer input/output frame for etsy seasonal strategy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seasonal-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "etsy seasonal strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--etsy-seasonal-strategy--jmlnmj"
+}

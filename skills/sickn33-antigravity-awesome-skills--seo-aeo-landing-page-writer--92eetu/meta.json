@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--seo-aeo-landing-page-writer--92eetu",
+  "name": "SEO AEO landing page writer",
+  "description": "Generates a full, publish-ready landing page following a defined section order with SEO heading structure, AEO extraction blocks, FAQ section, comparison table, social proof, and. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/seo-aeo-landing-page-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO landing page writer"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--seo-aeo-landing-page-writer--92eetu"
+}

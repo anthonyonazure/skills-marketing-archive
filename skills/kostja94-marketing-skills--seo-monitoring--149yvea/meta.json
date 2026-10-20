@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--seo-monitoring--149yvea",
+  "name": "SEO monitoring",
+  "description": "Guides building a holistic SEO data analysis system. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/seo-monitoring/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO monitoring"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--seo-monitoring--149yvea"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--landing-page-optimization--19j8nbv",
+  "name": "Landing page optimization",
+  "description": "Use when working on landing pages \u2014 creation, copywriting, design, optimization, or conversion rate improvement. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/landing-page-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page optimization"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--landing-page-optimization--19j8nbv"
+}

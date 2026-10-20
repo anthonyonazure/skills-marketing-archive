@@ -1,0 +1,14 @@
+{
+  "slug": "paramchoudhary-resumeskills--cold-email-writer--yck4ue",
+  "name": "Cold email writer",
+  "description": "Write personalized cold outreach emails to hiring managers and founders \u2014 specific, human, not a pitch deck It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/paramchoudhary/resumeskills",
+  "source_file": "https://github.com/paramchoudhary/resumeskills/blob/HEAD/skills/cold-email-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email writer"
+  ],
+  "page": "https://skills.marketing/skills/paramchoudhary-resumeskills--cold-email-writer--yck4ue"
+}

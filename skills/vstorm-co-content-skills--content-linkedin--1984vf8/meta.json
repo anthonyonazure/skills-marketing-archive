@@ -1,0 +1,14 @@
+{
+  "slug": "vstorm-co-content-skills--content-linkedin--1984vf8",
+  "name": "Content LinkedIn",
+  "description": "Helps plan and write LinkedIn content with clear positioning, audience fit, post structure, and repeatable publishing guidance. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/vstorm-co/content-skills",
+  "source_file": "https://github.com/vstorm-co/content-skills/blob/HEAD/skills/content-linkedin/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content LinkedIn"
+  ],
+  "page": "https://skills.marketing/skills/vstorm-co-content-skills--content-linkedin--1984vf8"
+}

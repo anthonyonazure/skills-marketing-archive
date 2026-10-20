@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--newsletter-management--1y9nz8v",
+  "name": "Newsletter management",
+  "description": "Create, curate, and grow email newsletters across all formats and strategies. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/newsletter-management/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter management"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--newsletter-management--1y9nz8v"
+}

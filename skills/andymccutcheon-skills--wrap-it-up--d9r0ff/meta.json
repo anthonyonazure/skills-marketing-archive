@@ -1,0 +1,14 @@
+{
+  "slug": "andymccutcheon-skills--wrap-it-up--d9r0ff",
+  "name": "Wrap it up",
+  "description": "Session conclusion and handoff generator. It gives the agent a clearer input/output frame for wrap it up: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/andymccutcheon/skills",
+  "source_file": "https://github.com/andymccutcheon/skills/blob/HEAD/wrap-it-up/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "wrap it up"
+  ],
+  "page": "https://skills.marketing/skills/andymccutcheon-skills--wrap-it-up--d9r0ff"
+}

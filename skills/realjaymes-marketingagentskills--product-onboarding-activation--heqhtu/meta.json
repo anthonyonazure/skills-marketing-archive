@@ -1,0 +1,14 @@
+{
+  "slug": "realjaymes-marketingagentskills--product-onboarding-activation--heqhtu",
+  "name": "Product onboarding & activation",
+  "description": "Designs complete onboarding, activation, retention, and expansion lifecycles for SaaS products. It gives the agent a clearer input/output frame for product onboarding & activation: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/realjaymes/marketingagentskills",
+  "source_file": "https://github.com/realjaymes/marketingagentskills/blob/HEAD/skills/product-onboarding-activation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product onboarding & activation"
+  ],
+  "page": "https://skills.marketing/skills/realjaymes-marketingagentskills--product-onboarding-activation--heqhtu"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--create-linkedin-content--bm3ae5",
+  "name": "Create LinkedIn content",
+  "description": "Draft LinkedIn post variants that sound like a real human practitioner, not a LinkedIn thought-leader persona. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/content/capabilities/create-linkedin-content/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "create LinkedIn content"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--create-linkedin-content--bm3ae5"
+}

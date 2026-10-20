@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--tiktok-shop-cross-border--aorej0",
+  "name": "TikTok shop cross border",
+  "description": "Expand internationally with TikTok Shop. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-cross-border/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "TikTok shop cross border"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--tiktok-shop-cross-border--aorej0"
+}

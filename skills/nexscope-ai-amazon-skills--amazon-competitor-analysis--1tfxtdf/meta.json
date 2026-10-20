@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-amazon-skills--amazon-competitor-analysis--1tfxtdf",
+  "name": "Amazon competitor analysis",
+  "description": "Full-spectrum competitor intelligence to outsmart your competition. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/amazon-skills",
+  "source_file": "https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "amazon competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-amazon-skills--amazon-competitor-analysis--1tfxtdf"
+}

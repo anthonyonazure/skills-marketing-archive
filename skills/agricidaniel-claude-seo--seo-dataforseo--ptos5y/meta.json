@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-dataforseo--ptos5y",
+  "name": "DataForSEO: live SEO data (extension)",
+  "description": "Live SEO data via DataForSEO MCP server: SERP analysis, keyword research (volume, difficulty, intent, trends), backlink profiles, on-page analysis, competitor and content analysis. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-dataforseo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "DataForSEO: live SEO data (extension)"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-dataforseo--ptos5y"
+}

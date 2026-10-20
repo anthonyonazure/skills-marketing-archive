@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--web-to-app-funnel--yh0krk",
+  "name": "Web to app funnel",
+  "description": "Provides web-to-app conversion specialist. It gives the agent a clearer input/output frame for web to app funnel: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/web-to-app-funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "web to app funnel"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--web-to-app-funnel--yh0krk"
+}

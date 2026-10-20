@@ -1,0 +1,14 @@
+{
+  "slug": "mike-coulbourn-claude-vibes--conversion-psychology--qijq02",
+  "name": "Conversion psychology",
+  "description": "95% of purchasing decisions happen subconsciously, driven by emotions, not logic. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mike-coulbourn/claude-vibes",
+  "source_file": "https://github.com/mike-coulbourn/claude-vibes/blob/HEAD/plugins/vibes/skills/conversion-psychology/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion psychology"
+  ],
+  "page": "https://skills.marketing/skills/mike-coulbourn-claude-vibes--conversion-psychology--qijq02"
+}

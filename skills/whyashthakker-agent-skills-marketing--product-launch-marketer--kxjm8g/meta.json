@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--product-launch-marketer--kxjm8g",
+  "name": "Product launch marketer",
+  "description": "Plans product-launch messaging, channel rollout, assets, and post-launch follow-up. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/product-launch-marketer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product launch marketer"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--product-launch-marketer--kxjm8g"
+}

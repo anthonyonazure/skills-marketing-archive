@@ -1,0 +1,14 @@
+{
+  "slug": "varnan-tech-opendirectory--email-newsletter--18zmrci",
+  "name": "Email newsletter",
+  "description": "Drafts and designs a complete HTML email newsletter from a topic or content brief. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/varnan-tech/opendirectory",
+  "source_file": "https://github.com/varnan-tech/opendirectory/blob/HEAD/skills/email-newsletter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email newsletter"
+  ],
+  "page": "https://skills.marketing/skills/varnan-tech-opendirectory--email-newsletter--18zmrci"
+}

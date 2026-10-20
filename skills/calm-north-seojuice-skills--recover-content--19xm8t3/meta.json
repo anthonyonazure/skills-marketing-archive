@@ -1,0 +1,14 @@
+{
+  "slug": "calm-north-seojuice-skills--recover-content--19xm8t3",
+  "name": "Recover content",
+  "description": "Diagnose and reverse traffic loss on existing pages using the decay triage framework: refresh, consolidate, redirect, or retire. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/calm-north/seojuice-skills",
+  "source_file": "https://github.com/calm-north/seojuice-skills/blob/HEAD/skills/recover-content/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "recover content"
+  ],
+  "page": "https://skills.marketing/skills/calm-north-seojuice-skills--recover-content--19xm8t3"
+}

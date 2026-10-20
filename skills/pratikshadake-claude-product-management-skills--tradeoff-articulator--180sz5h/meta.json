@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--tradeoff-articulator--180sz5h",
+  "name": "Tradeoff articulator",
+  "description": "Clearly explains gains, losses, and reasoning behind a product decision. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/tradeoff-articulator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "tradeoff articulator"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--tradeoff-articulator--180sz5h"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--crm-integration--1ywi4xl",
+  "name": "Usage",
+  "description": "CRM integration patterns for Close CRM, HubSpot, and Salesforce. It gives the agent a clearer input/output frame for data and source management: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/crm-integration/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "usage"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--crm-integration--1ywi4xl"
+}

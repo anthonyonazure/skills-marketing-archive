@@ -1,0 +1,14 @@
+{
+  "slug": "wispr-flow-claude-skills--wispr-flow-newsletter-copy--e9zq4p",
+  "name": "Newsletter copy",
+  "description": "Generate newsletter sponsorship copy with 2-3 ready-to-paste variants, tracking URLs via link-creator, and placement-spec compliance. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/wisprflow/newsletter-copy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter copy"
+  ],
+  "page": "https://skills.marketing/skills/wispr-flow-claude-skills--wispr-flow-newsletter-copy--e9zq4p"
+}

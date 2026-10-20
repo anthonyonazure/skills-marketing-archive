@@ -1,0 +1,14 @@
+{
+  "slug": "getsentry-webvitals-com--programmatic-seo--1bginyx",
+  "name": "Programmatic SEO",
+  "description": "When the user wants to create SEO-driven pages at scale using templates and data. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/getsentry/webvitals.com",
+  "source_file": "https://github.com/getsentry/webvitals.com/blob/HEAD/.agents/skills/programmatic-seo/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO"
+  ],
+  "page": "https://skills.marketing/skills/getsentry-webvitals-com--programmatic-seo--1bginyx"
+}

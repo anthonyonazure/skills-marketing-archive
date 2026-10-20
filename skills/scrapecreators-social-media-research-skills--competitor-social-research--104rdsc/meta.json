@@ -1,0 +1,14 @@
+{
+  "slug": "scrapecreators-social-media-research-skills--competitor-social-research--104rdsc",
+  "name": "Competitor social research",
+  "description": "Analyze what competitors are doing on social and what appears to be working. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/scrapecreators/social-media-research-skills",
+  "source_file": "https://github.com/scrapecreators/social-media-research-skills/blob/HEAD/skills/competitor-social-research/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor social research"
+  ],
+  "page": "https://skills.marketing/skills/scrapecreators-social-media-research-skills--competitor-social-research--104rdsc"
+}

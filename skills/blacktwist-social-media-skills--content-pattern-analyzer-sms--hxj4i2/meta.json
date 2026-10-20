@@ -1,0 +1,14 @@
+{
+  "slug": "blacktwist-social-media-skills--content-pattern-analyzer-sms--hxj4i2",
+  "name": "Content pattern analyzer",
+  "description": "When the user wants to find patterns in what content works and what doesn't. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/blacktwist/social-media-skills",
+  "source_file": "https://github.com/blacktwist/social-media-skills/blob/HEAD/skills/content-pattern-analyzer-sms/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content pattern analyzer"
+  ],
+  "page": "https://skills.marketing/skills/blacktwist-social-media-skills--content-pattern-analyzer-sms--hxj4i2"
+}

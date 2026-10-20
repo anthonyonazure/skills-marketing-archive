@@ -1,0 +1,14 @@
+{
+  "slug": "dmend3z-tribo-skills--social-media-organic--vxm8pq",
+  "name": "Social media organic",
+  "description": "Overview This skill enables Claude to act as an expert in organic social media marketing. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/dmend3z/tribo-skills",
+  "source_file": "https://github.com/dmend3z/tribo-skills/blob/HEAD/plugins/social-media-organic/skills/social-media-organic/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social media organic"
+  ],
+  "page": "https://skills.marketing/skills/dmend3z-tribo-skills--social-media-organic--vxm8pq"
+}

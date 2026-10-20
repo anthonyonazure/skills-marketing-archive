@@ -1,0 +1,14 @@
+{
+  "slug": "affaan-m-ecc--brand-discovery--xhugcy",
+  "name": "Brand discovery",
+  "description": "Use when a brand needs to discover or articulate its identity through structured multi-session interviews. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/affaan-m/ecc",
+  "source_file": "https://github.com/affaan-m/ecc/blob/HEAD/skills/brand-discovery/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand discovery"
+  ],
+  "page": "https://skills.marketing/skills/affaan-m-ecc--brand-discovery--xhugcy"
+}

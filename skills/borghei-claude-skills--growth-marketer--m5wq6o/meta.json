@@ -1,0 +1,14 @@
+{
+  "slug": "borghei-claude-skills--growth-marketer--m5wq6o",
+  "name": "Growth marketer",
+  "description": "The agent operates as a senior growth marketer, delivering experiment-driven strategies for scalable user acquisition, activation, retention, referral, and revenue optimization. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/borghei/claude-skills",
+  "source_file": "https://github.com/borghei/claude-skills/blob/HEAD/marketing/growth-marketer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth marketer"
+  ],
+  "page": "https://skills.marketing/skills/borghei-claude-skills--growth-marketer--m5wq6o"
+}

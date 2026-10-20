@@ -1,0 +1,14 @@
+{
+  "slug": "norahe0304-art-30x-seo--30x-seo-programmatic--fu3esn",
+  "name": "Programmatic SEO analysis & planning",
+  "description": "Programmatic SEO planning and analysis for pages generated at scale from data sources. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/norahe0304-art/30x-seo",
+  "source_file": "https://github.com/norahe0304-art/30x-seo/blob/HEAD/skills/30x-seo-programmatic/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO analysis & planning"
+  ],
+  "page": "https://skills.marketing/skills/norahe0304-art-30x-seo--30x-seo-programmatic--fu3esn"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--competitor-intel-agent--1yunch6",
+  "name": "Competitor intel agent",
+  "description": "Track competitor activity across multiple dimensions, detect meaningful changes, interpret the signals, and deliver actionable intelligence that builds historical context over time. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/competitor-intel-agent/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor intel agent"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--competitor-intel-agent--1yunch6"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-page--1dctwkt",
+  "name": "SEO page",
+  "description": "Audits on-page SEO fundamentals, including titles, meta descriptions, headings, internal links, content structure, and page intent alignment. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-page/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO page"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-page--1dctwkt"
+}

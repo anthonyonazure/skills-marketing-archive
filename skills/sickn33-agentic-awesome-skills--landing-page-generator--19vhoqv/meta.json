@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--landing-page-generator--19vhoqv",
+  "name": "Landing page generator",
+  "description": "Generates high-converting Next.js/React landing pages with Tailwind CSS. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/landing-page-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page generator"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--landing-page-generator--19vhoqv"
+}

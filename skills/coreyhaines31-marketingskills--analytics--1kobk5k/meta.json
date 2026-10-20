@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--analytics--1kobk5k",
+  "name": "Analytics",
+  "description": "Provides expert guidance for guidance for analytics implementation and measurement. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "analytics"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--analytics--1kobk5k"
+}

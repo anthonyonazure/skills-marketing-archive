@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--retention-dashboard--22lgys",
+  "name": "Retention dashboard",
+  "description": "When to Use Automating retention reviews for CS, lifecycle marketing, or execs. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/customer-analytics/skills/retention-dashboard/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention dashboard"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--retention-dashboard--22lgys"
+}

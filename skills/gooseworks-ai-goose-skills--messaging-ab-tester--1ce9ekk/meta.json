@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--messaging-ab-tester--1ce9ekk",
+  "name": "Messaging AB tester",
+  "description": "Stop debating which message is better \u2014 test it. It gives the agent a clearer input/output frame for messaging AB tester: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/brand/composites/messaging-ab-tester/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "messaging AB tester"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--messaging-ab-tester--1ce9ekk"
+}

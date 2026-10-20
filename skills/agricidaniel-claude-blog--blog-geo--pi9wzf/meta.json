@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-blog--blog-geo--pi9wzf",
+  "name": "Blog GEO: AI citation optimization audit",
+  "description": "AI citation readiness audit as part of SEO, covering classic Google search and AI search surfaces together. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-blog",
+  "source_file": "https://github.com/agricidaniel/claude-blog/blob/HEAD/skills/blog-geo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "blog GEO: AI citation optimization audit"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-blog--blog-geo--pi9wzf"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--cro--faylvu",
+  "name": "CRO",
+  "description": "Provides conversion rate optimization expert. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cro/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "CRO"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--cro--faylvu"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "wispr-flow-claude-skills--wispr-flow-session-end--12sjnn6",
+  "name": "Session end",
+  "description": "End-of-session capture: knowledge-base daily log, memory mirroring, candidate surfacing. It gives the agent a clearer input/output frame for session end: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/wisprflow/session-end/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "session end"
+  ],
+  "page": "https://skills.marketing/skills/wispr-flow-claude-skills--wispr-flow-session-end--12sjnn6"
+}

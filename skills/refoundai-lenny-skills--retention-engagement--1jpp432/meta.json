@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--retention-engagement--1jpp432",
+  "name": "Retention engagement",
+  "description": "Help the user improve retention and engagement using frameworks from 29 product leaders. It gives the agent a clearer input/output frame for retention engagement: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/retention-engagement/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention engagement"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--retention-engagement--1jpp432"
+}

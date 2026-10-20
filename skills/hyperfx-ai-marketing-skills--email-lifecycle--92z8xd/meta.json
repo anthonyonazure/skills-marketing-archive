@@ -1,0 +1,14 @@
+{
+  "slug": "hyperfx-ai-marketing-skills--email-lifecycle--92z8xd",
+  "name": "Email lifecycle",
+  "description": "Plan, build, and run lifecycle email programs through the Hyper MCP \u2014 welcome / onboarding, nurture, re-engagement, win-back, and abandoned-cart sequences across whichever provider fits. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hyperfx-ai/marketing-skills",
+  "source_file": "https://github.com/hyperfx-ai/marketing-skills/blob/HEAD/skills/email-lifecycle/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email lifecycle"
+  ],
+  "page": "https://skills.marketing/skills/hyperfx-ai-marketing-skills--email-lifecycle--92z8xd"
+}

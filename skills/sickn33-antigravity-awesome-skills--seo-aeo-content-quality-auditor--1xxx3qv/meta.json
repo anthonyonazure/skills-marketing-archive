@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--seo-aeo-content-quality-auditor--1xxx3qv",
+  "name": "SEO AEO content quality auditor",
+  "description": "Runs a dual SEO + AEO audit on any landing page or blog post. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/seo-aeo-content-quality-auditor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO content quality auditor"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--seo-aeo-content-quality-auditor--1xxx3qv"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "inbharatai-claude-skills--newsletter-writer--406sbt",
+  "name": "Newsletter writer",
+  "description": "Write engaging email newsletters \u2014 hooks, curated content, CTAs, and subject line optimization for high open rates. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/inbharatai/claude-skills",
+  "source_file": "https://github.com/inbharatai/claude-skills/blob/HEAD/skills/newsletter-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter writer"
+  ],
+  "page": "https://skills.marketing/skills/inbharatai-claude-skills--newsletter-writer--406sbt"
+}

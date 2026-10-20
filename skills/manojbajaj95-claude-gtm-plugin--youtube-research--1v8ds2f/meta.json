@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--youtube-research--1v8ds2f",
+  "name": "YouTube research",
+  "description": "Research YouTube topics, analyze competitor videos, deconstruct viral content, and query the YouTube Data API. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/youtube-research/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "YouTube research"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--youtube-research--1v8ds2f"
+}

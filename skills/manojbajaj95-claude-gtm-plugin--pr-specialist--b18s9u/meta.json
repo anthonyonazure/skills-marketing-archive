@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--pr-specialist--b18s9u",
+  "name": "PR specialist",
+  "description": "Expert PR and media relations guidance for earned media, press coverage, and reputation building. It gives the agent a clearer input/output frame for PR specialist: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/pr-specialist/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PR specialist"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--pr-specialist--b18s9u"
+}

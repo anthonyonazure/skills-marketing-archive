@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--lead-magnet--q9434a",
+  "name": "Lead magnet creation",
+  "description": "Create lead magnets and gated content to capture email subscribers and leads. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/lead-magnet/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead magnet creation"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--lead-magnet--q9434a"
+}

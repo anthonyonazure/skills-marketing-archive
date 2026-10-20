@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--ecommerce-competitor-analysis--1d1jwfh",
+  "name": "Ecommerce competitor analysis",
+  "description": "Comprehensive cross-platform competitor intelligence. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ecommerce competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--ecommerce-competitor-analysis--1d1jwfh"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "affaan-m-ecc--lead-intelligence--ci8p92",
+  "name": "Lead intelligence",
+  "description": "AI-native lead intelligence and outreach pipeline. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/affaan-m/ecc",
+  "source_file": "https://github.com/affaan-m/ecc/blob/HEAD/skills/lead-intelligence/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead intelligence"
+  ],
+  "page": "https://skills.marketing/skills/affaan-m-ecc--lead-intelligence--ci8p92"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--inbound-lead-qualifier--jtpoam",
+  "name": "Inbound lead qualifier & router",
+  "description": "Analyze inbound leads (form fills, demo requests) and score based on ICP fit, intent, and urgency. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/inbound-lead-qualifier/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "inbound lead qualifier & router"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--inbound-lead-qualifier--jtpoam"
+}

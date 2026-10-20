@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--copywriting-classic--1ivdhub",
+  "name": "Copywriting classic",
+  "description": "Master David Ogilvy's timeless advertising principles from \"Confessions of an Advertising Man\" (1963). It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/content/copywriting-classic/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "copywriting classic"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--copywriting-classic--1ivdhub"
+}

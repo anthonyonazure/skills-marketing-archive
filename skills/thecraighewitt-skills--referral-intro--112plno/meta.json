@@ -1,0 +1,14 @@
+{
+  "slug": "thecraighewitt-skills--referral-intro--112plno",
+  "name": "Referral intro",
+  "description": "Provides expert guidance for guidance for warm introductions and referral-based selling. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thecraighewitt/skills",
+  "source_file": "https://github.com/thecraighewitt/skills/blob/HEAD/sales/referral-intro/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "referral intro"
+  ],
+  "page": "https://skills.marketing/skills/thecraighewitt-skills--referral-intro--112plno"
+}

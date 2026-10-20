@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--marketing-funnel-mapper--soj35k",
+  "name": "Marketing funnel mapper",
+  "description": "Maps acquisition, nurture, conversion, and retention funnel stages with asset and KPI requirements. It gives the agent a clearer input/output frame for marketing funnel mapper: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/marketing-funnel-mapper/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing funnel mapper"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--marketing-funnel-mapper--soj35k"
+}

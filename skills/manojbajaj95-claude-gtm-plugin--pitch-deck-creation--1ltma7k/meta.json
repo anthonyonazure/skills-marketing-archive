@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--pitch-deck-creation--1ltma7k",
+  "name": "Pitch deck creation",
+  "description": "Create professional investor pitch decks with structured content and visual design. It gives the agent a clearer input/output frame for pitch deck creation: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/pitch-deck-creation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pitch deck creation"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--pitch-deck-creation--1ltma7k"
+}

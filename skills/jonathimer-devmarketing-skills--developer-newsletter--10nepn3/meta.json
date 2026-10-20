@@ -1,0 +1,14 @@
+{
+  "slug": "jonathimer-devmarketing-skills--developer-newsletter--10nepn3",
+  "name": "Developer newsletter",
+  "description": "This skill helps you build and write newsletters that developers actually open, read, and look forward to receiving. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jonathimer/devmarketing-skills",
+  "source_file": "https://github.com/jonathimer/devmarketing-skills/blob/HEAD/skills/developer-newsletter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "developer newsletter"
+  ],
+  "page": "https://skills.marketing/skills/jonathimer-devmarketing-skills--developer-newsletter--10nepn3"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "product-on-purpose-pm-skills--deliver-launch-checklist--cspnag",
+  "name": "Deliver launch checklist",
+  "description": "Provides a structured deliver launch checklist workflow for marketing teams, with reusable guidance and review steps. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/product-on-purpose/pm-skills",
+  "source_file": "https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-launch-checklist/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "deliver launch checklist"
+  ],
+  "page": "https://skills.marketing/skills/product-on-purpose-pm-skills--deliver-launch-checklist--cspnag"
+}

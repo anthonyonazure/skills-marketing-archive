@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--competitor-experience-audit--1uyzqsu",
+  "name": "Competitor experience audit",
+  "description": "Capture the brand, UX, and site design that the leading sites in a vertical observably share, and where they fall short. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/competitor-experience-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor experience audit"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--competitor-experience-audit--1uyzqsu"
+}

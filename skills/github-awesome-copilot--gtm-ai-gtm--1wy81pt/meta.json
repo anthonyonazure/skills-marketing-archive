@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--gtm-ai-gtm--1wy81pt",
+  "name": "GTM AI GTM",
+  "description": "Go-to-market strategy for AI products. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/gtm-ai-gtm/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GTM AI GTM"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--gtm-ai-gtm--1wy81pt"
+}

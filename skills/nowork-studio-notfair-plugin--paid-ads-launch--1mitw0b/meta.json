@@ -1,0 +1,14 @@
+{
+  "slug": "nowork-studio-notfair-plugin--paid-ads-launch--1mitw0b",
+  "name": "Canonical NotFair workflow",
+  "description": "Plan and prepare a new paid-media campaign or cross-channel test before it can spend. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nowork-studio/notfair-plugin",
+  "source_file": "https://github.com/nowork-studio/notfair-plugin/blob/HEAD/skills/paid-ads-launch/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "canonical NotFair workflow"
+  ],
+  "page": "https://skills.marketing/skills/nowork-studio-notfair-plugin--paid-ads-launch--1mitw0b"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "yoanbernabeu-producthunt-skills--ph-competitor-analysis--2m22pi",
+  "name": "PH competitor analysis",
+  "description": "This skill helps you analyze the competitive landscape on Product Hunt, learn from successful launches, and position your product for maximum impact. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/yoanbernabeu/producthunt-skills",
+  "source_file": "https://github.com/yoanbernabeu/producthunt-skills/blob/HEAD/skills/strategy/ph-competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PH competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/yoanbernabeu-producthunt-skills--ph-competitor-analysis--2m22pi"
+}

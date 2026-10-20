@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--shopify-marketing--1d2x3ec",
+  "name": "Shopify marketing",
+  "description": "Complete DTC marketing ecosystem for Shopify stores. It gives the agent a clearer input/output frame for Shopify marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Shopify marketing"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--shopify-marketing--1d2x3ec"
+}

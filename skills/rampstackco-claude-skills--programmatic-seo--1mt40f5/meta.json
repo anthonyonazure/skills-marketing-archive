@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--programmatic-seo--1mt40f5",
+  "name": "Programmatic SEO",
+  "description": "How to design and run a programmatic SEO program that produces durable traffic instead of penalty-bait. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/programmatic-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--programmatic-seo--1mt40f5"
+}

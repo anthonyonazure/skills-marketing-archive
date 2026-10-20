@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--etsy-competitor-analysis--luc63i",
+  "name": "Etsy competitor analysis",
+  "description": "Competitor research \u2014 pricing comparison, bestseller analysis, differentiation strategy. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "etsy competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--etsy-competitor-analysis--luc63i"
+}

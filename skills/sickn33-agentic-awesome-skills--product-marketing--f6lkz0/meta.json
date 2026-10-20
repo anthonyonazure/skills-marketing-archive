@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--product-marketing--f6lkz0",
+  "name": "Product marketing context",
+  "description": "When the user wants to create or update their product marketing context document. It gives the agent a clearer input/output frame for product marketing context: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/product-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product marketing context"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--product-marketing--f6lkz0"
+}

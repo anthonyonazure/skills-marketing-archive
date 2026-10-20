@@ -1,0 +1,14 @@
+{
+  "slug": "launchdarkly-agent-skills--launchdarkly-flag-discovery--17cb9ye",
+  "name": "Launchdarkly flag discovery",
+  "description": "You're using a skill that will guide you through auditing and understanding the feature flag landscape in a LaunchDarkly project. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/launchdarkly/agent-skills",
+  "source_file": "https://github.com/launchdarkly/agent-skills/blob/HEAD/skills/feature-flags/launchdarkly-flag-discovery/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launchdarkly flag discovery"
+  ],
+  "page": "https://skills.marketing/skills/launchdarkly-agent-skills--launchdarkly-flag-discovery--17cb9ye"
+}

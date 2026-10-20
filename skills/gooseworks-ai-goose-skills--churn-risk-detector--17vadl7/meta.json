@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--churn-risk-detector--17vadl7",
+  "name": "Churn risk detector",
+  "description": "Surface accounts at risk of churning before it's too late. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/research/composites/churn-risk-detector/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn risk detector"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--churn-risk-detector--17vadl7"
+}

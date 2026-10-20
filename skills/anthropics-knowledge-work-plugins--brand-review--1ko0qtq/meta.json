@@ -1,0 +1,14 @@
+{
+  "slug": "anthropics-knowledge-work-plugins--brand-review--1ko0qtq",
+  "name": "Brand review",
+  "description": "If you see unfamiliar placeholders or need to check which tools are connected, see CONNECTORS.md . It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/anthropics/knowledge-work-plugins",
+  "source_file": "https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/brand-review/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand review"
+  ],
+  "page": "https://skills.marketing/skills/anthropics-knowledge-work-plugins--brand-review--1ko0qtq"
+}

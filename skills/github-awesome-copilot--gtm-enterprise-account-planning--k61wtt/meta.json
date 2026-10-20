@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--gtm-enterprise-account-planning--k61wtt",
+  "name": "GTM enterprise account planning",
+  "description": "Strategic account planning and execution for enterprise deals. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/gtm-enterprise-account-planning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GTM enterprise account planning"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--gtm-enterprise-account-planning--k61wtt"
+}

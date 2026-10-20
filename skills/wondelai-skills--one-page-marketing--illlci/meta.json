@@ -1,0 +1,14 @@
+{
+  "slug": "wondelai-skills--one-page-marketing--illlci",
+  "name": "One page marketing",
+  "description": "A complete marketing system captured on a single page: a 3x3 grid of nine squares, each a critical stage in turning a stranger into a raving fan. It gives the agent a clearer input/output frame for one page marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/wondelai/skills",
+  "source_file": "https://github.com/wondelai/skills/blob/HEAD/one-page-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "one page marketing"
+  ],
+  "page": "https://skills.marketing/skills/wondelai-skills--one-page-marketing--illlci"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--competitive-pricing-strategy--lyowrj",
+  "name": "Competitive pricing strategy",
+  "description": "Build an evidence-based competitive pricing strategy for ecommerce products. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitive-pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitive pricing strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--competitive-pricing-strategy--lyowrj"
+}

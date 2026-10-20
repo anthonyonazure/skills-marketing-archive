@@ -1,0 +1,14 @@
+{
+  "slug": "datadrivenconstruction-ddc-skills-for-ai-agents-in-construction--retention-tracker--1vnzeh4",
+  "name": "Retention tracker",
+  "description": "Track retainage (retention) amounts held and released throughout construction projects. It gives the agent a clearer input/output frame for retention tracker: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction",
+  "source_file": "https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/blob/HEAD/4_DDC_Curated/Financial-Management/retention-tracker/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention tracker"
+  ],
+  "page": "https://skills.marketing/skills/datadrivenconstruction-ddc-skills-for-ai-agents-in-construction--retention-tracker--1vnzeh4"
+}

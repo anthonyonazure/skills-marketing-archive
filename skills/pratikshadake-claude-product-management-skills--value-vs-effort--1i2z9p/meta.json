@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--value-vs-effort--1i2z9p",
+  "name": "Feature value vs effort scorer",
+  "description": "Prioritizes features using structured scoring across user impact, revenue potential, strategic alignment, confidence, and engineering effort. It gives the agent a clearer input/output frame for feature value vs effort scorer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/value-vs-effort/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "feature value vs effort scorer"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--value-vs-effort--1i2z9p"
+}

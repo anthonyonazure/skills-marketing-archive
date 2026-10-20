@@ -1,0 +1,14 @@
+{
+  "slug": "lagrowthmachine-gtm-system--sales-nav-search-builder--q7vzpw",
+  "name": "Sales nav search builder",
+  "description": "Converts a natural-language ICP description into a ready-to-click LinkedIn Sales Navigator search URL, including boolean strings for the title and keyword fields. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/lagrowthmachine/gtm-system",
+  "source_file": "https://github.com/lagrowthmachine/gtm-system/blob/HEAD/skills/fuel-my-pipeline/sales-nav-search-builder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sales nav search builder"
+  ],
+  "page": "https://skills.marketing/skills/lagrowthmachine-gtm-system--sales-nav-search-builder--q7vzpw"
+}

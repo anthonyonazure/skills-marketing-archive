@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--product-marketing--16iege2",
+  "name": "Product marketing",
+  "description": "You help users create and maintain a product marketing context document. It gives the agent a clearer input/output frame for product marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/product-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product marketing"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--product-marketing--16iege2"
+}

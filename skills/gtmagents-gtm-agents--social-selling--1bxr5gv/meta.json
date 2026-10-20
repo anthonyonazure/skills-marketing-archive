@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--social-selling--1bxr5gv",
+  "name": "Social selling",
+  "description": "When to Use Prospect is active on LinkedIn, X, or niche communities. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/sales-prospecting/skills/social-selling/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social selling"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--social-selling--1bxr5gv"
+}

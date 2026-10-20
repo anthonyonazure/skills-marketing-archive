@@ -1,0 +1,14 @@
+{
+  "slug": "skenetechnologies-plg-skills--growth-experimentation--1dltjzq",
+  "name": "Growth experimentation",
+  "description": "Provides growth experimentation specialist. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/skenetechnologies/plg-skills",
+  "source_file": "https://github.com/skenetechnologies/plg-skills/blob/HEAD/skills/growth-experimentation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth experimentation"
+  ],
+  "page": "https://skills.marketing/skills/skenetechnologies-plg-skills--growth-experimentation--1dltjzq"
+}

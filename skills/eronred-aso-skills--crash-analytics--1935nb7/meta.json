@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--crash-analytics--1935nb7",
+  "name": "Crash analytics",
+  "description": "You help triage, prioritize, and reduce app crashes \u2014 and understand how crash rate affects App Store discoverability and ratings. It gives the agent a clearer input/output frame for marketing analytics: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/crash-analytics/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "crash analytics"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--crash-analytics--1935nb7"
+}

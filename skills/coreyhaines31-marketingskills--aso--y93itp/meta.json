@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--aso--y93itp",
+  "name": "ASO",
+  "description": "Analyze App Store and Google Play listings against ASO best practices. It gives the agent a clearer input/output frame for ASO: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ASO"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--aso--y93itp"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--issue-reporting--1l8yj4e",
+  "name": "Issue reporting",
+  "description": "Helps users report issues with GTM skills \u2014 incorrect advice, broken activation, missing context, or unexpected behavior. It gives the agent a clearer input/output frame for issue reporting: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/issue-reporting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "issue reporting"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--issue-reporting--1l8yj4e"
+}

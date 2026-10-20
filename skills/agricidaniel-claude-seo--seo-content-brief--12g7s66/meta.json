@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-content-brief--12g7s66",
+  "name": "SEO content brief",
+  "description": "Generate research-backed content briefs that help writers produce pages capable of outranking current top results. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-content-brief/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO content brief"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-content-brief--12g7s66"
+}

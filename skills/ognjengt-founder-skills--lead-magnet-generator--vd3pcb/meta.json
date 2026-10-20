@@ -1,0 +1,14 @@
+{
+  "slug": "ognjengt-founder-skills--lead-magnet-generator--vd3pcb",
+  "name": "Lead magnet generator",
+  "description": "Creates viral lead magnet posts that drive comments and DMs. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ognjengt/founder-skills",
+  "source_file": "https://github.com/ognjengt/founder-skills/blob/HEAD/skills/lead-magnet-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead magnet generator"
+  ],
+  "page": "https://skills.marketing/skills/ognjengt-founder-skills--lead-magnet-generator--vd3pcb"
+}

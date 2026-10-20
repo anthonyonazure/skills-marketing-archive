@@ -1,0 +1,14 @@
+{
+  "slug": "growthenginenowoslawski-coldoutboundskills--cold-email-weekly-rhythm--t6w3gw",
+  "name": "Cold email weekly rhythm",
+  "description": "Operational playbook for running cold email continuously. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/growthenginenowoslawski/coldoutboundskills",
+  "source_file": "https://github.com/growthenginenowoslawski/coldoutboundskills/blob/HEAD/skills/cold-email-weekly-rhythm/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email weekly rhythm"
+  ],
+  "page": "https://skills.marketing/skills/growthenginenowoslawski-coldoutboundskills--cold-email-weekly-rhythm--t6w3gw"
+}

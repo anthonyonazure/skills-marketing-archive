@@ -1,0 +1,14 @@
+{
+  "slug": "lagrowthmachine-gtm-system--multichannel-campaign-builder--31p30o",
+  "name": "Multichannel campaign builder",
+  "description": "Turns a natural-language brief into a complete multichannel outbound campaign \u2014 a full sequence of LinkedIn and email messages, each ready to copy. It gives the agent a clearer input/output frame for multichannel campaign builder: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/lagrowthmachine/gtm-system",
+  "source_file": "https://github.com/lagrowthmachine/gtm-system/blob/HEAD/skills/get-qualified-meetings/multichannel-campaign-builder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "multichannel campaign builder"
+  ],
+  "page": "https://skills.marketing/skills/lagrowthmachine-gtm-system--multichannel-campaign-builder--31p30o"
+}

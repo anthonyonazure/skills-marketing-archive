@@ -1,0 +1,14 @@
+{
+  "slug": "fearofsnakes-pmm-skillset--positioning-audit--1bjeslp",
+  "name": "Positioning audit",
+  "description": "Provides expert guidance for product marketing strategist specializing in B2B SaaS positioning. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/fearofsnakes/pmm-skillset",
+  "source_file": "https://github.com/fearofsnakes/pmm-skillset/blob/HEAD/skills/tier-1/positioning-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "positioning audit"
+  ],
+  "page": "https://skills.marketing/skills/fearofsnakes-pmm-skillset--positioning-audit--1bjeslp"
+}

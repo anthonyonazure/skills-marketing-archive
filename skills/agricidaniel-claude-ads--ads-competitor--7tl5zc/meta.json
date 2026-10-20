@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-competitor--7tl5zc",
+  "name": "Competitor ad intelligence",
+  "description": "Competitor ad intelligence analysis across Google, Meta, LinkedIn, TikTok, Microsoft, and Apple Ads. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-competitor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor ad intelligence"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-competitor--7tl5zc"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "hubspot-agent-cli-skills--sales-reporting--1hv78dl",
+  "name": "macOS",
+  "description": "Daily briefings, pipeline snapshots, and win/loss analysis from the terminal \u2014 closing-this-week, open pipeline by stage/owner, and closed-won vs closed-lost over a period. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hubspot/agent-cli-skills",
+  "source_file": "https://github.com/hubspot/agent-cli-skills/blob/HEAD/sales-reporting/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "macOS"
+  ],
+  "page": "https://skills.marketing/skills/hubspot-agent-cli-skills--sales-reporting--1hv78dl"
+}

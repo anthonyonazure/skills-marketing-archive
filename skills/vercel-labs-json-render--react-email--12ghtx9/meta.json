@@ -1,0 +1,14 @@
+{
+  "slug": "vercel-labs-json-render--react-email--12ghtx9",
+  "name": "@Json-render/react-email",
+  "description": "React Email renderer for json-render that turns JSON specs into HTML or plain-text emails using @react-email/components and @react-email/render. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/vercel-labs/json-render",
+  "source_file": "https://github.com/vercel-labs/json-render/blob/HEAD/skills/react-email/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "@json-render/react-email"
+  ],
+  "page": "https://skills.marketing/skills/vercel-labs-json-render--react-email--12ghtx9"
+}

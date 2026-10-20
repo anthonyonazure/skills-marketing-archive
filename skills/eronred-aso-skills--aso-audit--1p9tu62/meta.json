@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--aso-audit--1p9tu62",
+  "name": "ASO audit",
+  "description": "When the user wants a full ASO health audit, review their App Store listing quality, or diagnose why their app isn't ranking. It gives the agent a clearer input/output frame for ASO audit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/aso-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ASO audit"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--aso-audit--1p9tu62"
+}

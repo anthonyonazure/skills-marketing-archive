@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--growth-model--1uhx4rf",
+  "name": "Building a sustainable growth model",
+  "description": "Help users transition from linear funnel thinking to a loop-based growth model that identifies and optimizes the core engines of their business. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/growth-model/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "building a sustainable growth model"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--growth-model--1uhx4rf"
+}

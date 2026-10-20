@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--lead-magnet-design--lai79j",
+  "name": "Lead magnet design",
+  "description": "Designing lead magnets that earn the email. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/lead-magnet-design/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead magnet design"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--lead-magnet-design--lai79j"
+}

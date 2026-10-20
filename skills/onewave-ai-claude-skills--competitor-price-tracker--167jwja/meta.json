@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--competitor-price-tracker--167jwja",
+  "name": "Competitor price tracker",
+  "description": "Monitor competitor pricing pages and send alerts when prices change. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/competitor-price-tracker/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor price tracker"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--competitor-price-tracker--167jwja"
+}

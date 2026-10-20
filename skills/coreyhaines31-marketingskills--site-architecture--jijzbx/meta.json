@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--site-architecture--jijzbx",
+  "name": "Site architecture",
+  "description": "Provides information architecture expert. It gives the agent a clearer input/output frame for site architecture: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/site-architecture/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "site architecture"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--site-architecture--jijzbx"
+}

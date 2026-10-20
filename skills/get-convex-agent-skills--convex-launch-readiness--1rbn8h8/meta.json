@@ -1,0 +1,14 @@
+{
+  "slug": "get-convex-agent-skills--convex-launch-readiness--1rbn8h8",
+  "name": "Launch-readiness report",
+  "description": "Run every Convex audit (authz, reviewer, advisor, insights) into one scored, deduped readiness report with an ordered fix plan \u2014 Lighthouse for your backend. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/get-convex/agent-skills",
+  "source_file": "https://github.com/get-convex/agent-skills/blob/HEAD/skills/convex-launch-readiness/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launch-readiness report"
+  ],
+  "page": "https://skills.marketing/skills/get-convex-agent-skills--convex-launch-readiness--1rbn8h8"
+}

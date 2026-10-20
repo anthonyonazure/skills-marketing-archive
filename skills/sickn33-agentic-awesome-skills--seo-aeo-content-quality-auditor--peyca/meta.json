@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--seo-aeo-content-quality-auditor--peyca",
+  "name": "SEO-AEO content quality auditor",
+  "description": "Audits content for SEO and AEO performance with scored reports, severity-ranked fix lists, and projected scores after fixes. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/seo-aeo-content-quality-auditor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AEO content quality auditor"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--seo-aeo-content-quality-auditor--peyca"
+}

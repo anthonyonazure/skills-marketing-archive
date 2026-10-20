@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-amazon-skills--amazon-sales-estimator--jgdzm7",
+  "name": "Amazon sales estimator \ud83d\udcca",
+  "description": "Amazon sales volume estimator for sellers and product researchers. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/amazon-skills",
+  "source_file": "https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-sales-estimator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "amazon sales estimator \ud83d\udcca"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-amazon-skills--amazon-sales-estimator--jgdzm7"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--brand-messaging-and-positioning--1r2xcwy",
+  "name": "Brand messaging and positioning",
+  "description": "Comprehensive brand messaging, positioning, and value proposition development using proven frameworks including Peep Laja Message Layers, Osterwalder Value Proposition Canvas, Geoffrey. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/brand-messaging-and-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand messaging and positioning"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--brand-messaging-and-positioning--1r2xcwy"
+}

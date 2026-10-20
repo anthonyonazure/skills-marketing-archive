@@ -1,0 +1,14 @@
+{
+  "slug": "pmprompt-claude-plugin-product-management--positioning-canvas--1yrzm7r",
+  "name": "Positioning canvas",
+  "description": "This skill implements a proven product management framework. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pmprompt/claude-plugin-product-management",
+  "source_file": "https://github.com/pmprompt/claude-plugin-product-management/blob/HEAD/skills/positioning-canvas/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "positioning canvas"
+  ],
+  "page": "https://skills.marketing/skills/pmprompt-claude-plugin-product-management--positioning-canvas--1yrzm7r"
+}

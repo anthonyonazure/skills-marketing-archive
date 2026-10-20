@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--programmatic-seo--12ttoe1",
+  "name": "Programmatic SEO skill",
+  "description": "Create SEO-optimized pages at scale using programmatic/template-based approaches. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/programmatic-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO skill"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--programmatic-seo--12ttoe1"
+}

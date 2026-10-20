@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-google--iuiu1p",
+  "name": "Google ads deep analysis",
+  "description": "Google Ads deep analysis covering Search, Performance Max, AI Max, Display, YouTube, and Demand Gen campaigns. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-google/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Google ads deep analysis"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-google--iuiu1p"
+}

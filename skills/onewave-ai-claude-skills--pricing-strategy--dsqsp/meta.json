@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--pricing-strategy--dsqsp",
+  "name": "Pricing strategy designer",
+  "description": "Designs pricing strategies for products and services. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "pricing strategy designer"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--pricing-strategy--dsqsp"
+}

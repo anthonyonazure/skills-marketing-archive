@@ -1,0 +1,14 @@
+{
+  "slug": "daffy0208-ai-dev-standards--growth-experimenter--12fv7nh",
+  "name": "Growth experimenter",
+  "description": "Run systematic experiments to grow faster through data-driven optimization. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/daffy0208/ai-dev-standards",
+  "source_file": "https://github.com/daffy0208/ai-dev-standards/blob/HEAD/skills/growth-experimenter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth experimenter"
+  ],
+  "page": "https://skills.marketing/skills/daffy0208-ai-dev-standards--growth-experimenter--12fv7nh"
+}

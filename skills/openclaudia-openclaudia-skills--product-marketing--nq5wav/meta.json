@@ -1,0 +1,14 @@
+{
+  "slug": "openclaudia-openclaudia-skills--product-marketing--nq5wav",
+  "name": "Product marketing skill",
+  "description": "Build product marketing strategy including positioning, messaging, and go-to-market. It gives the agent a clearer input/output frame for product marketing skill: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/openclaudia/openclaudia-skills",
+  "source_file": "https://github.com/openclaudia/openclaudia-skills/blob/HEAD/skills/product-marketing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product marketing skill"
+  ],
+  "page": "https://skills.marketing/skills/openclaudia-openclaudia-skills--product-marketing--nq5wav"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "haskaomni-serenity-skill--bayesian-intrinsic-growth-valuation--r89zsg",
+  "name": "Bayesian intrinsic growth valuation",
+  "description": "Do not classify company news as simply bullish or bearish. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/haskaomni/serenity-skill",
+  "source_file": "https://github.com/haskaomni/serenity-skill/blob/HEAD/skills/bayesian-intrinsic-growth-valuation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "bayesian intrinsic growth valuation"
+  ],
+  "page": "https://skills.marketing/skills/haskaomni-serenity-skill--bayesian-intrinsic-growth-valuation--r89zsg"
+}

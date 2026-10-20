@@ -1,0 +1,14 @@
+{
+  "slug": "rshankras-claude-code-apple-skills--growth--k10xra",
+  "name": "Growth skills",
+  "description": "Growth skills for indie Apple developers \u2014 user acquisition, analytics interpretation, press/media outreach, community building, and indie business operations. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rshankras/claude-code-apple-skills",
+  "source_file": "https://github.com/rshankras/claude-code-apple-skills/blob/HEAD/skills/growth/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth skills"
+  ],
+  "page": "https://skills.marketing/skills/rshankras-claude-code-apple-skills--growth--k10xra"
+}

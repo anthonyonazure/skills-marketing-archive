@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--building-growth-team--17jewu",
+  "name": "Building a growth team",
+  "description": "Help users determine when to hire growth talent, which profiles to prioritize, and how to structure the team for maximum leverage across the user journey. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/building-growth-team/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "building a growth team"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--building-growth-team--17jewu"
+}

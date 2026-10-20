@@ -1,0 +1,14 @@
+{
+  "slug": "arnabbagxd-brand-building-skills--brand-guidelines--1sziuqo",
+  "name": "Brand guidelines",
+  "description": "Create a comprehensive brand standards document \u2014 covering logo usage, color, typography, voice, messaging, and application rules. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/arnabbagxd/brand-building-skills",
+  "source_file": "https://github.com/arnabbagxd/brand-building-skills/blob/HEAD/skills/brand-guidelines/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand guidelines"
+  ],
+  "page": "https://skills.marketing/skills/arnabbagxd-brand-building-skills--brand-guidelines--1sziuqo"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "ovachiever-droid-tings--marketing-strategy-pmm--rz0u1z",
+  "name": "Marketing strategy & product marketing",
+  "description": "Product marketing, positioning, GTM strategy, and competitive intelligence. It gives the agent a clearer input/output frame for marketing strategy & product marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ovachiever/droid-tings",
+  "source_file": "https://github.com/ovachiever/droid-tings/blob/HEAD/skills/marketing-strategy-pmm/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing strategy & product marketing"
+  ],
+  "page": "https://skills.marketing/skills/ovachiever-droid-tings--marketing-strategy-pmm--rz0u1z"
+}

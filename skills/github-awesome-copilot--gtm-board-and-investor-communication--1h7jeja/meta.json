@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--gtm-board-and-investor-communication--1h7jeja",
+  "name": "GTM board and investor communication",
+  "description": "Structure board meetings, investor updates, and executive communication that builds trust and drives decisions \u2014 not slide decks that nobody reads. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/gtm-board-and-investor-communication/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GTM board and investor communication"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--gtm-board-and-investor-communication--1h7jeja"
+}

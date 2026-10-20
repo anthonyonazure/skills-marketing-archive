@@ -1,0 +1,14 @@
+{
+  "slug": "ognjengt-founder-skills--competitor-intel--1mngmxn",
+  "name": "Competitor intel",
+  "description": "Analyzes competitors using web research to provide verified business metrics, actionable leverage strategies, and predicted next moves. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ognjengt/founder-skills",
+  "source_file": "https://github.com/ognjengt/founder-skills/blob/HEAD/skills/competitor-intel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor intel"
+  ],
+  "page": "https://skills.marketing/skills/ognjengt-founder-skills--competitor-intel--1mngmxn"
+}

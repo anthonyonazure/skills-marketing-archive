@@ -1,0 +1,14 @@
+{
+  "slug": "microsoft-power-platform-skills--add-datasource--m0jch7",
+  "name": "Add datasource",
+  "description": "\ud83d\udccb Shared Instructions: shared-instructions.md - Cross-cutting concerns. It gives the agent a clearer input/output frame for data and source management: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/microsoft/power-platform-skills",
+  "source_file": "https://github.com/microsoft/power-platform-skills/blob/HEAD/plugins/code-apps/skills/add-datasource/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "add datasource"
+  ],
+  "page": "https://skills.marketing/skills/microsoft-power-platform-skills--add-datasource--m0jch7"
+}

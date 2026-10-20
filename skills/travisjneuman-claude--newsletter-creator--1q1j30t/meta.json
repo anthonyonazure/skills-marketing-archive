@@ -1,0 +1,14 @@
+{
+  "slug": "travisjneuman-claude--newsletter-creator--1q1j30t",
+  "name": "Newsletter creator",
+  "description": "Structured frameworks for creating compelling internal and external newsletters with consistent quality, effective curation, and audience-appropriate tone. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/travisjneuman/.claude",
+  "source_file": "https://github.com/travisjneuman/.claude/blob/HEAD/skills/newsletter-creator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter creator"
+  ],
+  "page": "https://skills.marketing/skills/travisjneuman-claude--newsletter-creator--1q1j30t"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--app-store-optimization--iwav3d",
+  "name": "App store optimization (ASO)",
+  "description": "Use this skill when optimizing app store listings, researching keywords, or tracking mobile app performance on Apple App Store and Google Play Store. It gives the agent a clearer input/output frame for app store optimization (ASO): what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/app-store-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app store optimization (ASO)"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--app-store-optimization--iwav3d"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--custom-product-pages--9lu3of",
+  "name": "Custom product pages",
+  "description": "Provides Apple Custom Product Pages specialist. It gives the agent a clearer input/output frame for custom product pages: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/custom-product-pages/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "custom product pages"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--custom-product-pages--9lu3of"
+}

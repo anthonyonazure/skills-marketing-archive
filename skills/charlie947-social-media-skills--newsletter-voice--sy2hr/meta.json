@@ -1,0 +1,14 @@
+{
+  "slug": "charlie947-social-media-skills--newsletter-voice--sy2hr",
+  "name": "Newsletter voice",
+  "description": "The moment this skill is triggered, check the project root for voice.md and about-me.md. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/charlie947/social-media-skills",
+  "source_file": "https://github.com/charlie947/social-media-skills/blob/HEAD/skills/newsletter-voice/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter voice"
+  ],
+  "page": "https://skills.marketing/skills/charlie947-social-media-skills--newsletter-voice--sy2hr"
+}

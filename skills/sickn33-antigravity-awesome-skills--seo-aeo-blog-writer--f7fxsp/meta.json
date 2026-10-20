@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--seo-aeo-blog-writer--f7fxsp",
+  "name": "SEO AEO blog writer",
+  "description": "Writes structured long-form blog posts (800\u20133000 words) that satisfy both SEO ranking signals and AEO citation requirements. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/seo-aeo-blog-writer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO blog writer"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--seo-aeo-blog-writer--f7fxsp"
+}

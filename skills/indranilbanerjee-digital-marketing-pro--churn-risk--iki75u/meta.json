@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--churn-risk--iki75u",
+  "name": "Churn risk",
+  "description": "Assess churn risk across customer segments and generate intervention strategies. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/churn-risk/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn risk"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--churn-risk--iki75u"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "varnan-tech-opendirectory--linkedin-post-generator--fnet3x",
+  "name": "LinkedIn post generator",
+  "description": "Provides content strategist who specialises in technical and founder LinkedIn content. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/varnan-tech/opendirectory",
+  "source_file": "https://github.com/varnan-tech/opendirectory/blob/HEAD/skills/linkedin-post-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "LinkedIn post generator"
+  ],
+  "page": "https://skills.marketing/skills/varnan-tech-opendirectory--linkedin-post-generator--fnet3x"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "jezweb-claude-skills--seo-local-business--1kb5uz4",
+  "name": "SEO local business",
+  "description": "Generate a complete SEO package for local business websites. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jezweb/claude-skills",
+  "source_file": "https://github.com/jezweb/claude-skills/blob/HEAD/plugins/web-design/skills/seo-local-business/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO local business"
+  ],
+  "page": "https://skills.marketing/skills/jezweb-claude-skills--seo-local-business--1kb5uz4"
+}

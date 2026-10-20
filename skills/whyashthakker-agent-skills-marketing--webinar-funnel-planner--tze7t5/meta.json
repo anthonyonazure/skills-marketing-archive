@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--webinar-funnel-planner--tze7t5",
+  "name": "Webinar funnel planner",
+  "description": "Plans webinar funnels including registration pages, reminder emails, webinar structure, follow-up, and offer conversion. It gives the agent a clearer input/output frame for webinar funnel planner: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/webinar-funnel-planner/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "webinar funnel planner"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--webinar-funnel-planner--tze7t5"
+}

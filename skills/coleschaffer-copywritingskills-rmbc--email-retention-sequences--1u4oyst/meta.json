@@ -1,0 +1,14 @@
+{
+  "slug": "coleschaffer-copywritingskills-rmbc--email-retention-sequences--1u4oyst",
+  "name": "Email-retention-sequences",
+  "description": "Generate retention/nurture email sequences (5-7 emails) to reduce churn, reinforce purchase decisions, and increase customer lifetime value using RMBC principles. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coleschaffer/copywritingskills-rmbc",
+  "source_file": "https://github.com/coleschaffer/copywritingskills-rmbc/blob/HEAD/skills/email-retention-sequences/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email-retention-sequences"
+  ],
+  "page": "https://skills.marketing/skills/coleschaffer-copywritingskills-rmbc--email-retention-sequences--1u4oyst"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--android-aso--a8uvp6",
+  "name": "Android ASO",
+  "description": "Provides Google Play ASO expert. It gives the agent a clearer input/output frame for android ASO: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/android-aso/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "android ASO"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--android-aso--a8uvp6"
+}

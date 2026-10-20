@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--retention-ltv-playbook--1ranlie",
+  "name": "Retention ltv playbook",
+  "description": "When to Use Designing lifecycle journeys (onboarding, loyalty, win-back, VIP). It gives the agent a clearer input/output frame for retention ltv playbook: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/e-commerce/skills/retention-ltv-playbook/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention ltv playbook"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--retention-ltv-playbook--1ranlie"
+}

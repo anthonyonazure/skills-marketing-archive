@@ -1,0 +1,14 @@
+{
+  "slug": "daffy0208-ai-dev-standards--brand-designer--rvsnck",
+  "name": "Brand designer",
+  "description": "I help you create cohesive brand identities, logos, and visual brand systems. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/daffy0208/ai-dev-standards",
+  "source_file": "https://github.com/daffy0208/ai-dev-standards/blob/HEAD/skills/brand-designer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand designer"
+  ],
+  "page": "https://skills.marketing/skills/daffy0208-ai-dev-standards--brand-designer--rvsnck"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--social-calendar-system--1hzb3er",
+  "name": "Social calendar system",
+  "description": "When to Use Planning monthly/quarterly content cadences across multiple channels. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/social-media-marketing/skills/social-calendar-system/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social calendar system"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--social-calendar-system--1hzb3er"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "simota-agent-skills--funnel--1bcs2kj",
+  "name": "Funnel",
+  "description": "Constructing landing pages from a focused section to a premium multi-stage studio pipeline: structure, copy, conversion, responsive build, craft gates, and launch handoffs. It gives the agent a clearer input/output frame for funnel: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/simota/agent-skills",
+  "source_file": "https://github.com/simota/agent-skills/blob/HEAD/funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "funnel"
+  ],
+  "page": "https://skills.marketing/skills/simota-agent-skills--funnel--1bcs2kj"
+}

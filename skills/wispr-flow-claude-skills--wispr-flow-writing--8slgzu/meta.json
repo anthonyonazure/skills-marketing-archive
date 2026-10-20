@@ -1,0 +1,14 @@
+{
+  "slug": "wispr-flow-claude-skills--wispr-flow-writing--8slgzu",
+  "name": "Writing",
+  "description": "Edit AI-generated text to read like a human wrote it. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/wisprflow/writing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "writing"
+  ],
+  "page": "https://skills.marketing/skills/wispr-flow-claude-skills--wispr-flow-writing--8slgzu"
+}

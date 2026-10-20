@@ -1,0 +1,14 @@
+{
+  "slug": "twilio-ai--twilio-messaging-channel-advisor--fsv7xq",
+  "name": "Twilio messaging channel advisor",
+  "description": "Provides Messaging Channel Advisor. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/twilio/ai",
+  "source_file": "https://github.com/twilio/ai/blob/HEAD/skills/twilio/twilio-messaging-channel-advisor/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "twilio messaging channel advisor"
+  ],
+  "page": "https://skills.marketing/skills/twilio-ai--twilio-messaging-channel-advisor--fsv7xq"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--competitor-research--1xf9vfc",
+  "name": "Competitor research",
+  "description": "Guides competitor research for SEO, content, backlinks, and positioning. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/competitor-research/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor research"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--competitor-research--1xf9vfc"
+}

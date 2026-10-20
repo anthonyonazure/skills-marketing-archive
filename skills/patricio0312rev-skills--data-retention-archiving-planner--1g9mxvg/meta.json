@@ -1,0 +1,14 @@
+{
+  "slug": "patricio0312rev-skills--data-retention-archiving-planner--1g9mxvg",
+  "name": "Data retention archiving planner",
+  "description": "Manage data lifecycle with automated retention and archiving. It gives the agent a clearer input/output frame for data retention archiving planner: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/patricio0312rev/skills",
+  "source_file": "https://github.com/patricio0312rev/skills/blob/HEAD/db-management/data-retention-archiving-planner/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "data retention archiving planner"
+  ],
+  "page": "https://skills.marketing/skills/patricio0312rev-skills--data-retention-archiving-planner--1g9mxvg"
+}

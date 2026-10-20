@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--cross-border-ecommerce--q81je1",
+  "name": "Cross border ecommerce",
+  "description": "Your strategic advisor for international e-commerce expansion. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/cross-border-ecommerce/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cross border ecommerce"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--cross-border-ecommerce--q81je1"
+}

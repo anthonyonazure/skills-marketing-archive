@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--ctv-ads--ymurm0",
+  "name": "CTV ads",
+  "description": "Guides Connected TV (CTV) and OTT advertising: ads on streaming platforms (Hulu, Roku, YouTube TV, etc.). It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/ctv-ads/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "CTV ads"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--ctv-ads--ymurm0"
+}

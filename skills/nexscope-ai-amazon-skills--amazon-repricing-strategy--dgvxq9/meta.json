@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-amazon-skills--amazon-repricing-strategy--dgvxq9",
+  "name": "Amazon repricing strategy",
+  "description": "Strategic repricing and Buy Box optimization for Amazon sellers. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/amazon-skills",
+  "source_file": "https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-repricing-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "amazon repricing strategy"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-amazon-skills--amazon-repricing-strategy--dgvxq9"
+}

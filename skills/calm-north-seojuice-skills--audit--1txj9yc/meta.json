@@ -1,0 +1,14 @@
+{
+  "slug": "calm-north-seojuice-skills--audit--1txj9yc",
+  "name": "Audit",
+  "description": "Run a comprehensive SEO audit covering technical foundations, on-page optimization, content quality, link profile, and competitive positioning. It gives the agent a clearer input/output frame for audit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/calm-north/seojuice-skills",
+  "source_file": "https://github.com/calm-north/seojuice-skills/blob/HEAD/skills/audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "audit"
+  ],
+  "page": "https://skills.marketing/skills/calm-north-seojuice-skills--audit--1txj9yc"
+}

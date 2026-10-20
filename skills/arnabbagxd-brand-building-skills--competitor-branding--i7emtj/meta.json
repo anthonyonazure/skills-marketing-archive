@@ -1,0 +1,14 @@
+{
+  "slug": "arnabbagxd-brand-building-skills--competitor-branding--i7emtj",
+  "name": "Competitor branding",
+  "description": "Provides competitive brand intelligence analyst. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/arnabbagxd/brand-building-skills",
+  "source_file": "https://github.com/arnabbagxd/brand-building-skills/blob/HEAD/skills/competitor-branding/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor branding"
+  ],
+  "page": "https://skills.marketing/skills/arnabbagxd-brand-building-skills--competitor-branding--i7emtj"
+}

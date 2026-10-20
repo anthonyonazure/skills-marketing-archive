@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--launch--16n5chv",
+  "name": "Launch",
+  "description": "Provides expert guidance for guidance for SaaS product launches and feature announcements. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/launch/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "launch"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--launch--16n5chv"
+}

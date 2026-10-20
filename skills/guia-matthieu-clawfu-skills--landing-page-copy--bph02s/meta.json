@@ -1,0 +1,14 @@
+{
+  "slug": "guia-matthieu-clawfu-skills--landing-page-copy--bph02s",
+  "name": "Landing page copy",
+  "description": "Build high-converting landing pages with proven structure, persuasive sections, and best practices. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/guia-matthieu/clawfu-skills",
+  "source_file": "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/skills/content/landing-page-copy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page copy"
+  ],
+  "page": "https://skills.marketing/skills/guia-matthieu-clawfu-skills--landing-page-copy--bph02s"
+}

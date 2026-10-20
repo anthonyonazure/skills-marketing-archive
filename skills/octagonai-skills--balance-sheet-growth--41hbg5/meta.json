@@ -1,0 +1,14 @@
+{
+  "slug": "octagonai-skills--balance-sheet-growth--41hbg5",
+  "name": "Balance sheet growth",
+  "description": "Retrieve year-over-year growth in balance sheet items including Total Assets, Total Liabilities, Shareholders Equity, Cash, and Inventories. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/octagonai/skills",
+  "source_file": "https://github.com/octagonai/skills/blob/HEAD/skills/balance-sheet-growth/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "balance sheet growth"
+  ],
+  "page": "https://skills.marketing/skills/octagonai-skills--balance-sheet-growth--41hbg5"
+}

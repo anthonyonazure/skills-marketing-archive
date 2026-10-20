@@ -1,0 +1,14 @@
+{
+  "slug": "jeremylongshore-claude-code-plugins-plus-skills--churn-analysis-helper--11cbacq",
+  "name": "Churn analysis helper",
+  "description": "This skill provides automated assistance for churn analysis helper tasks within the Data Analytics domain. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+  "source_file": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/HEAD/skills/12-data-analytics/churn-analysis-helper/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn analysis helper"
+  ],
+  "page": "https://skills.marketing/skills/jeremylongshore-claude-code-plugins-plus-skills--churn-analysis-helper--11cbacq"
+}

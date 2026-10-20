@@ -1,0 +1,14 @@
+{
+  "slug": "realjaymes-marketingagentskills--product-positioning--1ok3g07",
+  "name": "Product positioning",
+  "description": "Provides strategic positioning consultant who specializes in developing clear, detailed positioning frameworks for products. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/realjaymes/marketingagentskills",
+  "source_file": "https://github.com/realjaymes/marketingagentskills/blob/HEAD/skills/product-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "product positioning"
+  ],
+  "page": "https://skills.marketing/skills/realjaymes-marketingagentskills--product-positioning--1ok3g07"
+}

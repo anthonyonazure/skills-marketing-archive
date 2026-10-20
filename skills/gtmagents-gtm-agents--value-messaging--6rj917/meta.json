@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--value-messaging--6rj917",
+  "name": "Value messaging",
+  "description": "When to Use Preparing sales/CS enablement for new pricing launches. It gives the agent a clearer input/output frame for value messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/pricing-strategy/skills/value-messaging/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "value messaging"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--value-messaging--6rj917"
+}

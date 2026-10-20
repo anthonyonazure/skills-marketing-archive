@@ -1,0 +1,14 @@
+{
+  "slug": "rudrankriyam-asc-skills--asc-aso-audit--1ais5sc",
+  "name": "Asc ASO audit",
+  "description": "Run a two-phase ASO audit: offline checks against local metadata files, then keyword gap analysis via Astro MCP. It gives the agent a clearer input/output frame for asc ASO audit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rudrankriyam/asc-skills",
+  "source_file": "https://github.com/rudrankriyam/asc-skills/blob/HEAD/skills/asc-aso-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "asc ASO audit"
+  ],
+  "page": "https://skills.marketing/skills/rudrankriyam-asc-skills--asc-aso-audit--1ais5sc"
+}

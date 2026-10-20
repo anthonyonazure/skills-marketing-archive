@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--seo-aeo-keyword-research--1q8nm8c",
+  "name": "SEO AEO keyword research",
+  "description": "Identifies high-value SEO keywords and AEO question-based queries for a topic. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/seo-aeo-keyword-research/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO AEO keyword research"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--seo-aeo-keyword-research--1q8nm8c"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "mikefluff-skills--cold-email--1bdghly",
+  "name": "Cold email",
+  "description": "Write or rewrite cold outreach emails to founders, VCs, recruiters, journalists, partners. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mikefluff/skills",
+  "source_file": "https://github.com/mikefluff/skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email"
+  ],
+  "page": "https://skills.marketing/skills/mikefluff-skills--cold-email--1bdghly"
+}

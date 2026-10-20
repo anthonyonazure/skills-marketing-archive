@@ -1,0 +1,14 @@
+{
+  "slug": "fearofsnakes-pmm-skillset--messaging-hierarchy--15m4su8",
+  "name": "Messaging hierarchy",
+  "description": "Provides expert guidance for product marketing strategist specializing in B2B SaaS messaging architecture. It gives the agent a clearer input/output frame for messaging hierarchy: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/fearofsnakes/pmm-skillset",
+  "source_file": "https://github.com/fearofsnakes/pmm-skillset/blob/HEAD/skills/tier-1/messaging-hierarchy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "messaging hierarchy"
+  ],
+  "page": "https://skills.marketing/skills/fearofsnakes-pmm-skillset--messaging-hierarchy--15m4su8"
+}

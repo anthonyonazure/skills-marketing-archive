@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--cold-email--19qpsqf",
+  "name": "Cold email",
+  "description": "Provides expert guidance for cold email writer. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--cold-email--19qpsqf"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "davila7-claude-code-templates--marketing-strategy-pmm--wyc3et",
+  "name": "Marketing strategy PMM",
+  "description": "Expert Product Marketing playbook for Series A+ startups expanding internationally with hybrid PLG/Sales-Led motion. It gives the agent a clearer input/output frame for marketing strategy PMM: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/davila7/claude-code-templates",
+  "source_file": "https://github.com/davila7/claude-code-templates/blob/HEAD/cli-tool/components/skills/business-marketing/marketing-strategy-pmm/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing strategy PMM"
+  ],
+  "page": "https://skills.marketing/skills/davila7-claude-code-templates--marketing-strategy-pmm--wyc3et"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "jonathimer-devmarketing-skills--usage-based-pricing--yy2xch",
+  "name": "Usage based pricing",
+  "description": "Design pricing models that developers understand, accept, and can predict\u2014without surprise bills or confusing metrics. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jonathimer/devmarketing-skills",
+  "source_file": "https://github.com/jonathimer/devmarketing-skills/blob/HEAD/skills/usage-based-pricing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "usage based pricing"
+  ],
+  "page": "https://skills.marketing/skills/jonathimer-devmarketing-skills--usage-based-pricing--yy2xch"
+}

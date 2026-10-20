@@ -1,0 +1,14 @@
+{
+  "slug": "affaan-m-everything-claude-code--brand-voice--pk5i7p",
+  "name": "Brand voice",
+  "description": "Build a durable voice profile from real source material, then use that profile everywhere instead of re-deriving style from scratch or defaulting to generic AI copy. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/affaan-m/everything-claude-code",
+  "source_file": "https://github.com/affaan-m/everything-claude-code/blob/HEAD/skills/brand-voice/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand voice"
+  ],
+  "page": "https://skills.marketing/skills/affaan-m-everything-claude-code--brand-voice--pk5i7p"
+}

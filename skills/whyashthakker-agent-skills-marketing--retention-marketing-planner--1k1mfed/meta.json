@@ -1,0 +1,14 @@
+{
+  "slug": "whyashthakker-agent-skills-marketing--retention-marketing-planner--1k1mfed",
+  "name": "Retention marketing planner",
+  "description": "Plans retention campaigns, activation nudges, churn prevention, and re-engagement flows. It gives the agent a clearer input/output frame for retention marketing planner: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/whyashthakker/agent-skills-marketing",
+  "source_file": "https://github.com/whyashthakker/agent-skills-marketing/blob/HEAD/.claude/skills/retention-marketing-planner/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "retention marketing planner"
+  ],
+  "page": "https://skills.marketing/skills/whyashthakker-agent-skills-marketing--retention-marketing-planner--1k1mfed"
+}

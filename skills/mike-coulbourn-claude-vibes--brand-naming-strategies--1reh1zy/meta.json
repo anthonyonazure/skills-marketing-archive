@@ -1,0 +1,14 @@
+{
+  "slug": "mike-coulbourn-claude-vibes--brand-naming-strategies--1reh1zy",
+  "name": "Brand naming strategies",
+  "description": "Quick reference for strategic brand naming using expert methodologies from Lexicon, Eat My Words, Catchword, and Igor. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/mike-coulbourn/claude-vibes",
+  "source_file": "https://github.com/mike-coulbourn/claude-vibes/blob/HEAD/plugins/vibes/skills/brand-naming-strategies/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand naming strategies"
+  ],
+  "page": "https://skills.marketing/skills/mike-coulbourn-claude-vibes--brand-naming-strategies--1reh1zy"
+}

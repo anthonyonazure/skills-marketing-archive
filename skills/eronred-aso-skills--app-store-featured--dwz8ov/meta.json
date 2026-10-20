@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--app-store-featured--dwz8ov",
+  "name": "App store featured",
+  "description": "Provides expert guidance for guidance for Apple's App Store editorial process and featuring strategy. It gives the agent a clearer input/output frame for app store featured: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/app-store-featured/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app store featured"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--app-store-featured--dwz8ov"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "gooseworks-ai-goose-skills--landing-page-intel--cns1v4",
+  "name": "Landing page intel",
+  "description": "Extract GTM-relevant intelligence from any company's landing page by scraping its HTML source. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gooseworks-ai/goose-skills",
+  "source_file": "https://github.com/gooseworks-ai/goose-skills/blob/HEAD/skills/competitive-intel/capabilities/landing-page-intel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page intel"
+  ],
+  "page": "https://skills.marketing/skills/gooseworks-ai-goose-skills--landing-page-intel--cns1v4"
+}

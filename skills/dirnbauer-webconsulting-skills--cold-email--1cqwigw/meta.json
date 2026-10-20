@@ -1,0 +1,14 @@
+{
+  "slug": "dirnbauer-webconsulting-skills--cold-email--1cqwigw",
+  "name": "Cold email writing",
+  "description": "Write B2B cold emails and follow-up sequences that get replies. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/dirnbauer/webconsulting-skills",
+  "source_file": "https://github.com/dirnbauer/webconsulting-skills/blob/HEAD/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email writing"
+  ],
+  "page": "https://skills.marketing/skills/dirnbauer-webconsulting-skills--cold-email--1cqwigw"
+}

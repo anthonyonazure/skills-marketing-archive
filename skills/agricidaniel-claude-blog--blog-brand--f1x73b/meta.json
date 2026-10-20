@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-blog--blog-brand--f1x73b",
+  "name": "Blog brand: durable editorial context",
+  "description": "Establish durable brand and voice context for cross-skill consumption. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-blog",
+  "source_file": "https://github.com/agricidaniel/claude-blog/blob/HEAD/skills/blog-brand/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "blog brand: durable editorial context"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-blog--blog-brand--f1x73b"
+}

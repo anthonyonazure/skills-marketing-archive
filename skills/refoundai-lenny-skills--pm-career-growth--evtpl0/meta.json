@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--pm-career-growth--evtpl0",
+  "name": "PM career growth",
+  "description": "Help users navigate the path from junior product manager to executive leadership by focusing on ownership, cross-functional influence, and intentional career design. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/pm-career-growth/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PM career growth"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--pm-career-growth--evtpl0"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "retieedra-profound-skills-marketing-library--ai-retrieval-fanout-mapper--1ly2jul",
+  "name": "AI retrieval fan-out mapper",
+  "description": "Maps the search queries and concrete fact needs that answer engines may generate behind a user prompt, then turns them into evidence-backed content requirements. It gives the agent a clearer input/output frame for AI retrieval fan-out mapper: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/profound/ai-retrieval-fanout-mapper/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI retrieval fan-out mapper"
+  ],
+  "page": "https://skills.marketing/skills/retieedra-profound-skills-marketing-library--ai-retrieval-fanout-mapper--1ly2jul"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "hyperfx-ai-marketing-skills--cold-email-outreach--1gbfvgp",
+  "name": "Cold email outreach",
+  "description": "Run end-to-end B2B cold-email outreach through the Hyper MCP \u2014 enrich prospects with Apollo, scrape per-prospect signals from company sites and LinkedIn, draft personalized emails using. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hyperfx-ai/marketing-skills",
+  "source_file": "https://github.com/hyperfx-ai/marketing-skills/blob/HEAD/skills/cold-email-outreach/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email outreach"
+  ],
+  "page": "https://skills.marketing/skills/hyperfx-ai-marketing-skills--cold-email-outreach--1gbfvgp"
+}

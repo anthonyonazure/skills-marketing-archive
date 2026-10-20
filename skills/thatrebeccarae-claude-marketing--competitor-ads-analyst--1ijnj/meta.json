@@ -1,0 +1,14 @@
+{
+  "slug": "thatrebeccarae-claude-marketing--competitor-ads-analyst--1ijnj",
+  "name": "Competitor ads analyst",
+  "description": "Analyze competitor advertising from public ad libraries to understand what messaging, creative formats, and positioning strategies are working. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/thatrebeccarae/claude-marketing",
+  "source_file": "https://github.com/thatrebeccarae/claude-marketing/blob/HEAD/skills/competitor-ads-analyst/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor ads analyst"
+  ],
+  "page": "https://skills.marketing/skills/thatrebeccarae-claude-marketing--competitor-ads-analyst--1ijnj"
+}

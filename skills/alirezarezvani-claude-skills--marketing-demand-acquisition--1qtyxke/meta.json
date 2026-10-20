@@ -1,0 +1,14 @@
+{
+  "slug": "alirezarezvani-claude-skills--marketing-demand-acquisition--1qtyxke",
+  "name": "Marketing demand acquisition",
+  "description": "Acquisition playbook for Series A+ startups scaling internationally (EU/US/Canada) with hybrid PLG/Sales-Led motion. It gives the agent a clearer input/output frame for marketing demand acquisition: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/alirezarezvani/claude-skills",
+  "source_file": "https://github.com/alirezarezvani/claude-skills/blob/HEAD/marketing-skill/skills/marketing-demand-acquisition/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing demand acquisition"
+  ],
+  "page": "https://skills.marketing/skills/alirezarezvani-claude-skills--marketing-demand-acquisition--1qtyxke"
+}

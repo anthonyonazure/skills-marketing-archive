@@ -1,0 +1,14 @@
+{
+  "slug": "rampstackco-claude-skills--funnel-flow-architecture--yqm6ye",
+  "name": "Funnel flow architecture",
+  "description": "A senior growth practitioner's playbook for architecting cross-tool conversion flows that match audience and stage. It gives the agent a clearer input/output frame for funnel flow architecture: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/rampstackco/claude-skills",
+  "source_file": "https://github.com/rampstackco/claude-skills/blob/HEAD/skills/funnel-flow-architecture/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "funnel flow architecture"
+  ],
+  "page": "https://skills.marketing/skills/rampstackco-claude-skills--funnel-flow-architecture--yqm6ye"
+}

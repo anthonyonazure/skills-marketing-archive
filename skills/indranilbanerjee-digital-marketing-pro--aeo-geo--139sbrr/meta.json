@@ -1,0 +1,14 @@
+{
+  "slug": "indranilbanerjee-digital-marketing-pro--aeo-geo--139sbrr",
+  "name": "AEO/GEO intelligence",
+  "description": "Strategy module for Answer Engine / Generative Engine Optimization \u2014 audits AI visibility, restructures content for citation, runs entity-consistency checks across Knowledge Graph. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/indranilbanerjee/digital-marketing-pro",
+  "source_file": "https://github.com/indranilbanerjee/digital-marketing-pro/blob/HEAD/skills/aeo-geo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AEO/GEO intelligence"
+  ],
+  "page": "https://skills.marketing/skills/indranilbanerjee-digital-marketing-pro--aeo-geo--139sbrr"
+}

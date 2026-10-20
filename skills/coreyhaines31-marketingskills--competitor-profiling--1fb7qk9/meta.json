@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--competitor-profiling--1fb7qk9",
+  "name": "Competitor profiling",
+  "description": "Provides expert guidance for competitive intelligence analyst. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/competitor-profiling/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor profiling"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--competitor-profiling--1fb7qk9"
+}

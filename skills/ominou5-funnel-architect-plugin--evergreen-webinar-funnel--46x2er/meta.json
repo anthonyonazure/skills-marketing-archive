@@ -1,0 +1,14 @@
+{
+  "slug": "ominou5-funnel-architect-plugin--evergreen-webinar-funnel--46x2er",
+  "name": "Evergreen webinar funnel",
+  "description": "Automated evergreen webinar funnel. It gives the agent a clearer input/output frame for evergreen webinar funnel: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ominou5/funnel-architect-plugin",
+  "source_file": "https://github.com/ominou5/funnel-architect-plugin/blob/HEAD/skills/evergreen-webinar-funnel/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "evergreen webinar funnel"
+  ],
+  "page": "https://skills.marketing/skills/ominou5-funnel-architect-plugin--evergreen-webinar-funnel--46x2er"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-meta--f9a6az",
+  "name": "Meta ads deep analysis",
+  "description": "Meta Ads deep analysis covering Facebook, Instagram, and Threads advertising in the Andromeda + GEM + Lattice era. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-meta/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "meta ads deep analysis"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-meta--f9a6az"
+}

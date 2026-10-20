@@ -1,0 +1,14 @@
+{
+  "slug": "anthropics-knowledge-work-plugins--brand-voice-enforcement--1lfw453",
+  "name": "Brand voice enforcement",
+  "description": "Apply existing brand guidelines to all sales and marketing content generation. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/anthropics/knowledge-work-plugins",
+  "source_file": "https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/brand-voice/skills/brand-voice-enforcement/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand voice enforcement"
+  ],
+  "page": "https://skills.marketing/skills/anthropics-knowledge-work-plugins--brand-voice-enforcement--1lfw453"
+}

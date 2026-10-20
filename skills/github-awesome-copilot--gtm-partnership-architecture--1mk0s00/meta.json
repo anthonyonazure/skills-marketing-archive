@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--gtm-partnership-architecture--1mk0s00",
+  "name": "GTM partnership architecture",
+  "description": "Build and scale partner ecosystems that drive revenue and platform adoption. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/gtm-partnership-architecture/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GTM partnership architecture"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--gtm-partnership-architecture--1mk0s00"
+}

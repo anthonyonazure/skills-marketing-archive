@@ -1,0 +1,14 @@
+{
+  "slug": "catalystbyzoho-agent-skills--catalyst-pricing--qtseu8",
+  "name": "Catalyst pricing",
+  "description": "Catalyst pricing \u2014 free tier limits, pay-as-you-go rates, GB-seconds calculation, and cost estimation for functions, storage, and other services. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/catalystbyzoho/agent-skills",
+  "source_file": "https://github.com/catalystbyzoho/agent-skills/blob/HEAD/skills/catalyst-pricing/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "catalyst pricing"
+  ],
+  "page": "https://skills.marketing/skills/catalystbyzoho-agent-skills--catalyst-pricing--qtseu8"
+}

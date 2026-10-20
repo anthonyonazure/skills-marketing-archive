@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-attribution--1hp0207",
+  "name": "Cross-platform attribution health audit",
+  "description": "Cross-platform attribution health audit covering AdAttributionKit (iOS view-through 24h post-impression, WWDC 2025 configurable windows), GA4 attribution models (data-driven vs. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-attribution/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cross-platform attribution health audit"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-attribution--1hp0207"
+}

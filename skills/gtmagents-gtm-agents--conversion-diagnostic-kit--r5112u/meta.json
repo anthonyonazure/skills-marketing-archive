@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--conversion-diagnostic-kit--r5112u",
+  "name": "Conversion diagnostic kit",
+  "description": "When to Use Sudden drops in conversion, AOV, or checkout completion. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/e-commerce/skills/conversion-diagnostic-kit/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "conversion diagnostic kit"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--conversion-diagnostic-kit--r5112u"
+}

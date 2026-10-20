@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--messaging-framework--lz2d6e",
+  "name": "Messaging framework",
+  "description": "When to Use Creating new sales plays, launch content, or talk tracks. It gives the agent a clearer input/output frame for messaging framework: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/sales-enablement/skills/messaging-framework/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "messaging framework"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--messaging-framework--lz2d6e"
+}

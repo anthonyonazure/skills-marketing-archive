@@ -1,0 +1,14 @@
+{
+  "slug": "andymccutcheon-skills--boot-up--sa27j7",
+  "name": "Boot up",
+  "description": "Session startup and context rehydration skill. It gives the agent a clearer input/output frame for boot up: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/andymccutcheon/skills",
+  "source_file": "https://github.com/andymccutcheon/skills/blob/HEAD/boot-up/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "boot up"
+  ],
+  "page": "https://skills.marketing/skills/andymccutcheon-skills--boot-up--sa27j7"
+}

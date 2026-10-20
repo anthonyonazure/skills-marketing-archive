@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--free-tool-strategy--1ar4a3p",
+  "name": "Free tool strategy skill",
+  "description": "Use this skill when designing free tools and calculators for lead generation and SEO It gives the agent a clearer input/output frame for free tool strategy skill: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/free-tool-strategy/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "free tool strategy skill"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--free-tool-strategy--1ar4a3p"
+}

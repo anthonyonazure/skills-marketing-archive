@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--marketing-loops--1cjbpx6",
+  "name": "Marketing loops",
+  "description": "When the user wants to set up a recurring, self-running marketing workflow \u2014 a repeatable loop an AI agent runs on a cadence (weekly, daily, on a trigger) rather than a one-off task. It gives the agent a clearer input/output frame for marketing loops: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-loops/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "marketing loops"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--marketing-loops--1cjbpx6"
+}

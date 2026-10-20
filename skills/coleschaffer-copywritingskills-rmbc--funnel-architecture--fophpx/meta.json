@@ -1,0 +1,14 @@
+{
+  "slug": "coleschaffer-copywritingskills-rmbc--funnel-architecture--fophpx",
+  "name": "Funnel-architecture",
+  "description": "Design complete DTC sales funnel architecture \u2014 maps the full customer journey from ad to email follow-up with RMBC-aligned copy approach, conversion goals, and KPI targets per step. It gives the agent a clearer input/output frame for funnel-architecture: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coleschaffer/copywritingskills-rmbc",
+  "source_file": "https://github.com/coleschaffer/copywritingskills-rmbc/blob/HEAD/skills/funnel-architecture/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "funnel-architecture"
+  ],
+  "page": "https://skills.marketing/skills/coleschaffer-copywritingskills-rmbc--funnel-architecture--fophpx"
+}

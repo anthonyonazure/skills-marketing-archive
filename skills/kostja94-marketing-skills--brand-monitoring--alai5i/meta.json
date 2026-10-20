@@ -1,0 +1,14 @@
+{
+  "slug": "kostja94-marketing-skills--brand-monitoring--alai5i",
+  "name": "Brand monitoring",
+  "description": "Guides ongoing brand monitoring\u2014detecting impersonation, trademark infringement, counterfeit products, and brand abuse before they cause harm. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/kostja94/marketing-skills",
+  "source_file": "https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/brand-monitoring/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand monitoring"
+  ],
+  "page": "https://skills.marketing/skills/kostja94-marketing-skills--brand-monitoring--alai5i"
+}

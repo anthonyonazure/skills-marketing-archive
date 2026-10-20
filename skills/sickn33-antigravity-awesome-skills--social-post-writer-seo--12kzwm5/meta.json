@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-antigravity-awesome-skills--social-post-writer-seo--12kzwm5",
+  "name": "Social post writer SEO",
+  "description": "Overview This skill is designed to help users create high-quality, engaging, and platform-optimized social media content. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/antigravity-awesome-skills",
+  "source_file": "https://github.com/sickn33/antigravity-awesome-skills/blob/HEAD/skills/social-post-writer-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "social post writer SEO"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-antigravity-awesome-skills--social-post-writer-seo--12kzwm5"
+}

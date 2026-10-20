@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--landing-page-copywriter--1phm7tp",
+  "name": "Landing page copywriter",
+  "description": "Write high-converting landing page copy using proven frameworks like PAS (Problem-Agitate-Solution), AIDA, and StoryBrand. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/landing-page-copywriter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "landing page copywriter"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--landing-page-copywriter--1phm7tp"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--ecommerce-landing-page--jm221n",
+  "name": "E-commerce landing page \ud83d\udda5\ufe0f",
+  "description": "Audit and optimize e-commerce landing pages for conversion. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-landing-page/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "e-commerce landing page \ud83d\udda5\ufe0f"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--ecommerce-landing-page--jm221n"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "dataslayer-ai-marketing-skills--ds-churn-signals--1nmcjzi",
+  "name": "Churn signals analysis (ds-churn-signals)",
+  "description": "Use this skill when the user wants to identify accounts at risk of churning, understand why users are cancelling, or find early warning signals before churn happens. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/dataslayer-ai/marketing-skills",
+  "source_file": "https://github.com/dataslayer-ai/marketing-skills/blob/HEAD/skills/ds-churn-signals/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "churn signals analysis (ds-churn-signals)"
+  ],
+  "page": "https://skills.marketing/skills/dataslayer-ai-marketing-skills--ds-churn-signals--1nmcjzi"
+}

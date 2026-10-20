@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--post-launch-learning--1l93w6w",
+  "name": "Post-launch learning engine",
+  "description": "Turns launches into structured learning by comparing expected vs actual outcomes and extracting key learnings. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/post-launch-learning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "post-launch learning engine"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--post-launch-learning--1l93w6w"
+}

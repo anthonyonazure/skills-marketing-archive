@@ -1,0 +1,14 @@
+{
+  "slug": "dembrandt-dembrandt-skills--brand-visual-language--1vlo784",
+  "name": "Brand visual language",
+  "description": "Visual shape communicates personality. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/dembrandt/dembrandt-skills",
+  "source_file": "https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/brand-visual-language/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "brand visual language"
+  ],
+  "page": "https://skills.marketing/skills/dembrandt-dembrandt-skills--brand-visual-language--1vlo784"
+}

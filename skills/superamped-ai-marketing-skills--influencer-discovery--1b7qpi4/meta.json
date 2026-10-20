@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--influencer-discovery--1b7qpi4",
+  "name": "Influencer discovery",
+  "description": "Use when finding influencers to partner with for sponsorships, affiliate deals, or co-marketing. It gives the agent a clearer input/output frame for influencer discovery: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/influencer-discovery/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "influencer discovery"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--influencer-discovery--1b7qpi4"
+}

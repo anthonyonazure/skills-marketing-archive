@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--copy-editing--2l82ic",
+  "name": "Copy editing",
+  "description": "Provides expert guidance for copy editor specializing in marketing and conversion copy. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copy-editing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "copy editing"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--copy-editing--2l82ic"
+}

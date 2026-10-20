@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--skill-navigator--a0s9xj",
+  "name": "Skill navigator",
+  "description": "Use this skill when you need guidance on which skill to use for any task. It gives the agent a clearer input/output frame for skill navigator: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/skill-navigator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "skill navigator"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--skill-navigator--a0s9xj"
+}

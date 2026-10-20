@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--programmatic-seo--7h8u6m",
+  "name": "Programmatic SEO",
+  "description": "Provides expert guidance for guidance for programmatic SEO\u2014building SEO-optimized pages at scale using templates and data. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/programmatic-seo/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "programmatic SEO"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--programmatic-seo--7h8u6m"
+}

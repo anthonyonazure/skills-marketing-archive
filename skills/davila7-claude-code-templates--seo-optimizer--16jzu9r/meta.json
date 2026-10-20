@@ -1,0 +1,14 @@
+{
+  "slug": "davila7-claude-code-templates--seo-optimizer--16jzu9r",
+  "name": "SEO optimizer",
+  "description": "Comprehensive guidance for search engine optimization across content, technical implementation, and strategic planning to improve organic search visibility and rankings. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/davila7/claude-code-templates",
+  "source_file": "https://github.com/davila7/claude-code-templates/blob/HEAD/cli-tool/components/skills/business-marketing/seo-optimizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO optimizer"
+  ],
+  "page": "https://skills.marketing/skills/davila7-claude-code-templates--seo-optimizer--16jzu9r"
+}

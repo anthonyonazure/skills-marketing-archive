@@ -1,0 +1,14 @@
+{
+  "slug": "aj-geddes-useful-ai-prompts--competitor-analysis--1uz2la8",
+  "name": "Competitor analysis",
+  "description": "Analyze competitive landscape to identify strengths, weaknesses, opportunities, and threats. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+  "source_file": "https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/aj-geddes-useful-ai-prompts--competitor-analysis--1uz2la8"
+}

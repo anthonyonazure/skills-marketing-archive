@@ -1,0 +1,14 @@
+{
+  "slug": "ericrisco-rsc-harness--newsletter--wn7mbj",
+  "name": "Newsletter",
+  "description": "Use when running an email newsletter as a recurring publication \u2014 subject + preview pair, issues that turn opens into clicks, the welcome sequence, cadence and engagement tiering, growth. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/ericrisco/rsc-harness",
+  "source_file": "https://github.com/ericrisco/rsc-harness/blob/HEAD/skills/newsletter/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "newsletter"
+  ],
+  "page": "https://skills.marketing/skills/ericrisco-rsc-harness--newsletter--wn7mbj"
+}

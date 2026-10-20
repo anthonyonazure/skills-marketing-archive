@@ -1,0 +1,14 @@
+{
+  "slug": "alinaqi-claude-bootstrap--aeo-optimization--1hr1ign",
+  "name": "AEO optimization",
+  "description": "Optimize content for AI engines (ChatGPT, Claude, Perplexity, Google AI Overviews) so your brand gets cited in AI-generated answers. It gives the agent a clearer input/output frame for AEO optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/alinaqi/claude-bootstrap",
+  "source_file": "https://github.com/alinaqi/claude-bootstrap/blob/HEAD/skills/aeo-optimization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AEO optimization"
+  ],
+  "page": "https://skills.marketing/skills/alinaqi-claude-bootstrap--aeo-optimization--1hr1ign"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "superamped-ai-marketing-skills--competitor-content-analysis--1bzzx9j",
+  "name": "Competitor content analysis",
+  "description": "Use before building or refreshing your content strategy \u2014 map the competitive content landscape first. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/superamped/ai-marketing-skills",
+  "source_file": "https://github.com/superamped/ai-marketing-skills/blob/HEAD/skills/research/competitor-content-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor content analysis"
+  ],
+  "page": "https://skills.marketing/skills/superamped-ai-marketing-skills--competitor-content-analysis--1bzzx9j"
+}

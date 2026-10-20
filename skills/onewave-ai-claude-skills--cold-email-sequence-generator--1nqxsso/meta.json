@@ -1,0 +1,14 @@
+{
+  "slug": "onewave-ai-claude-skills--cold-email-sequence-generator--1nqxsso",
+  "name": "Cold email sequence generator",
+  "description": "Generate personalized cold email sequences (7-14 emails) with A/B test subject lines, follow-up timing recommendations, and integrated social proof. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/onewave-ai/claude-skills",
+  "source_file": "https://github.com/onewave-ai/claude-skills/blob/HEAD/cold-email-sequence-generator/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "cold email sequence generator"
+  ],
+  "page": "https://skills.marketing/skills/onewave-ai-claude-skills--cold-email-sequence-generator--1nqxsso"
+}

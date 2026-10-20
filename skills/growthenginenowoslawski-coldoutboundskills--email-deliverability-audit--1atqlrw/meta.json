@@ -1,0 +1,14 @@
+{
+  "slug": "growthenginenowoslawski-coldoutboundskills--email-deliverability-audit--1atqlrw",
+  "name": "Email deliverability audit",
+  "description": "Diagnostic audit for a running cold email program. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/growthenginenowoslawski/coldoutboundskills",
+  "source_file": "https://github.com/growthenginenowoslawski/coldoutboundskills/blob/HEAD/skills/email-deliverability-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "email deliverability audit"
+  ],
+  "page": "https://skills.marketing/skills/growthenginenowoslawski-coldoutboundskills--email-deliverability-audit--1atqlrw"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "yoanbernabeu-producthunt-skills--ph-newsletter-pitch--n1oe5n",
+  "name": "PH newsletter pitch",
+  "description": "This skill helps you get featured in Product Hunt's newsletters, extending your launch visibility beyond launch day. It gives the agent a clearer input/output frame for email marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/yoanbernabeu/producthunt-skills",
+  "source_file": "https://github.com/yoanbernabeu/producthunt-skills/blob/HEAD/skills/awards/ph-newsletter-pitch/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "PH newsletter pitch"
+  ],
+  "page": "https://skills.marketing/skills/yoanbernabeu-producthunt-skills--ph-newsletter-pitch--n1oe5n"
+}

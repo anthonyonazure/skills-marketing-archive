@@ -1,0 +1,14 @@
+{
+  "slug": "nimbleway-agent-skills--competitor-positioning--1x8wb7w",
+  "name": "Competitor positioning",
+  "description": "Marketing-focused competitive positioning analysis powered by Nimble's web data APIs. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nimbleway/agent-skills",
+  "source_file": "https://github.com/nimbleway/agent-skills/blob/HEAD/skills/competitor-positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor positioning"
+  ],
+  "page": "https://skills.marketing/skills/nimbleway-agent-skills--competitor-positioning--1x8wb7w"
+}

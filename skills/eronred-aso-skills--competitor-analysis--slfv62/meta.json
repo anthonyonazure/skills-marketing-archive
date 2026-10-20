@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--competitor-analysis--slfv62",
+  "name": "Competitor analysis",
+  "description": "When the user wants to analyze competitors' App Store strategy, find keyword gaps, or understand competitive positioning. It gives the agent a clearer input/output frame for competitive research: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "competitor analysis"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--competitor-analysis--slfv62"
+}

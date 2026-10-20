@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--sales-enablement--1kia130",
+  "name": "Sales enablement",
+  "description": "Provides expert guidance for guidance for B2B sales enablement. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sales-enablement/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "sales enablement"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--sales-enablement--1kia130"
+}

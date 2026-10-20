@@ -1,0 +1,14 @@
+{
+  "slug": "coleschaffer-copywritingskills-rmbc--funnel-audit--1hcg111",
+  "name": "Funnel-audit",
+  "description": "Audit existing sales funnels against RMBC and CRO best practices \u2014 score each step, identify conversion leaks, and output a prioritized fix matrix. It gives the agent a clearer input/output frame for funnel-audit: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coleschaffer/copywritingskills-rmbc",
+  "source_file": "https://github.com/coleschaffer/copywritingskills-rmbc/blob/HEAD/skills/funnel-audit/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "funnel-audit"
+  ],
+  "page": "https://skills.marketing/skills/coleschaffer-copywritingskills-rmbc--funnel-audit--1hcg111"
+}

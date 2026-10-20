@@ -1,0 +1,14 @@
+{
+  "slug": "claude-office-skills-skills--lead-routing--2qopyv",
+  "name": "Lead routing",
+  "description": "Intelligent lead assignment and routing - AI-powered scoring, territory mapping, round-robin distribution, and workload balancing It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/claude-office-skills/skills",
+  "source_file": "https://github.com/claude-office-skills/skills/blob/HEAD/lead-routing/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "lead routing"
+  ],
+  "page": "https://skills.marketing/skills/claude-office-skills-skills--lead-routing--2qopyv"
+}

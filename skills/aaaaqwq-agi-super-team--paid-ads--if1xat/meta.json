@@ -1,0 +1,14 @@
+{
+  "slug": "aaaaqwq-agi-super-team--paid-ads--if1xat",
+  "name": "Paid ads",
+  "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/aaaaqwq/agi-super-team",
+  "source_file": "https://github.com/aaaaqwq/agi-super-team/blob/HEAD/skills/paid-ads/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "paid ads"
+  ],
+  "page": "https://skills.marketing/skills/aaaaqwq-agi-super-team--paid-ads--if1xat"
+}

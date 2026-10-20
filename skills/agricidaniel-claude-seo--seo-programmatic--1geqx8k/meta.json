@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-seo--seo-programmatic--1geqx8k",
+  "name": "SEO programmatic",
+  "description": "Build and audit SEO pages generated at scale from structured data sources. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-seo",
+  "source_file": "https://github.com/agricidaniel/claude-seo/blob/HEAD/skills/seo-programmatic/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO programmatic"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-seo--seo-programmatic--1geqx8k"
+}

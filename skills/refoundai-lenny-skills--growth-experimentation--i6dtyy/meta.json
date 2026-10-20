@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--growth-experimentation--i6dtyy",
+  "name": "Growth experimentation velocity",
+  "description": "Help users build and scale a high-velocity growth experimentation engine that prioritizes impact and fosters a culture of rapid learning. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/growth-experimentation/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "growth experimentation velocity"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--growth-experimentation--i6dtyy"
+}

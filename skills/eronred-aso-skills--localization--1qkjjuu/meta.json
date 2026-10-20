@@ -1,0 +1,14 @@
+{
+  "slug": "eronred-aso-skills--localization--1qkjjuu",
+  "name": "App store localization",
+  "description": "When the user wants to localize their App Store listing for international markets. It gives the agent a clearer input/output frame for app store localization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/eronred/aso-skills",
+  "source_file": "https://github.com/eronred/aso-skills/blob/HEAD/skills/localization/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "app store localization"
+  ],
+  "page": "https://skills.marketing/skills/eronred-aso-skills--localization--1qkjjuu"
+}

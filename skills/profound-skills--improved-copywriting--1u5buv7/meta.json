@@ -1,0 +1,14 @@
+{
+  "slug": "profound-skills--improved-copywriting--1u5buv7",
+  "name": "Improved copywriting",
+  "description": "When the user wants to write, rewrite, sharpen, or diagnose marketing copy for any page: homepage, landing, pricing, feature, about, or product. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/retieedra-profound/skills-marketing-library",
+  "source_file": "https://github.com/retieedra-profound/skills-marketing-library/blob/HEAD/profound/improved-copywriting/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "improved copywriting"
+  ],
+  "page": "https://skills.marketing/skills/profound-skills--improved-copywriting--1u5buv7"
+}

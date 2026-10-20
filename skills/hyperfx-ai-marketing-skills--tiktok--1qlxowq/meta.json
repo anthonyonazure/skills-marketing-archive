@@ -1,0 +1,14 @@
+{
+  "slug": "hyperfx-ai-marketing-skills--tiktok--1qlxowq",
+  "name": "TikTok",
+  "description": "End-to-end skill for publishing organic content to TikTok through the TikTok Content Sharing Guidelines-compliant interactive posting form. It gives the agent a clearer input/output frame for social content: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/hyperfx-ai/marketing-skills",
+  "source_file": "https://github.com/hyperfx-ai/marketing-skills/blob/HEAD/skills/tiktok/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "TikTok"
+  ],
+  "page": "https://skills.marketing/skills/hyperfx-ai-marketing-skills--tiktok--1qlxowq"
+}

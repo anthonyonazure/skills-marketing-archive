@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--ad-campaign-management--24vupo",
+  "name": "Ad campaign management",
+  "description": "Use when creating, managing, or optimizing paid advertising campaigns across any platform. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/ad-campaign-management/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "ad campaign management"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--ad-campaign-management--24vupo"
+}

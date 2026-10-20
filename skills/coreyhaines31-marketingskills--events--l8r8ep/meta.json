@@ -1,0 +1,14 @@
+{
+  "slug": "coreyhaines31-marketingskills--events--l8r8ep",
+  "name": "Event marketing",
+  "description": "When the user wants to plan, run, sponsor, speak at, or get pipeline from events \u2014 webinars, conferences, trade shows, meetups, dinners, workshops, virtual summits, or user conferences. It gives the agent a clearer input/output frame for event marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/coreyhaines31/marketingskills",
+  "source_file": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/events/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "event marketing"
+  ],
+  "page": "https://skills.marketing/skills/coreyhaines31-marketingskills--events--l8r8ep"
+}

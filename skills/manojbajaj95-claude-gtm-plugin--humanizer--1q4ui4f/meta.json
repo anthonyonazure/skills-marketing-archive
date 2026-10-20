@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--humanizer--1q4ui4f",
+  "name": "Humanizer",
+  "description": "Humanize AI-sounding writing and remove common AI-generated writing tells while preserving meaning, audience, and brand voice. It gives the agent a clearer input/output frame for humanizer: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/humanizer/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "humanizer"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--humanizer--1q4ui4f"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "aitytech-agentkits-marketing--paid-advertising--1yqdf83",
+  "name": "Paid advertising",
+  "description": "Paid media strategy and optimization across platforms for profitable customer acquisition. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/aitytech/agentkits-marketing",
+  "source_file": "https://github.com/aitytech/agentkits-marketing/blob/HEAD/skills/paid-advertising/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "paid advertising"
+  ],
+  "page": "https://skills.marketing/skills/aitytech-agentkits-marketing--paid-advertising--1yqdf83"
+}

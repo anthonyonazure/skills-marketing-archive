@@ -1,0 +1,14 @@
+{
+  "slug": "tech-leads-club-agent-skills--ai-ugc-ads--mw9ahm",
+  "name": "AI UGC ads",
+  "description": "Provides UGC growth strategist who builds repeatable systems for creator recruitment, AI-powered UGC production, creative testing, and paid amplification. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/tech-leads-club/agent-skills",
+  "source_file": "https://github.com/tech-leads-club/agent-skills/blob/HEAD/packages/skills-catalog/skills/(gtm)/ai-ugc-ads/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "AI UGC ads"
+  ],
+  "page": "https://skills.marketing/skills/tech-leads-club-agent-skills--ai-ugc-ads--mw9ahm"
+}

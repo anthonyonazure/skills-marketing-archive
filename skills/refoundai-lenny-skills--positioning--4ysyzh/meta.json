@@ -1,0 +1,14 @@
+{
+  "slug": "refoundai-lenny-skills--positioning--4ysyzh",
+  "name": "Strategic product positioning",
+  "description": "Help users define the strategic context for their product by identifying the right competitive alternatives, unique value drivers, and target segments to win a market category. It gives the agent a clearer input/output frame for brand and messaging: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/refoundai/lenny-skills",
+  "source_file": "https://github.com/refoundai/lenny-skills/blob/HEAD/skills/positioning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "strategic product positioning"
+  ],
+  "page": "https://skills.marketing/skills/refoundai-lenny-skills--positioning--4ysyzh"
+}

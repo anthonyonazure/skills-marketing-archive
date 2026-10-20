@@ -1,0 +1,14 @@
+{
+  "slug": "sickn33-agentic-awesome-skills--seo-aeo-internal-linking--9xybz8",
+  "name": "SEO-AEO internal linking",
+  "description": "Maps internal link opportunities between pages with anchor text, placement instructions, orphan page detection, and cannibalization checks. It gives the agent a clearer input/output frame for search and SEO workflows: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/sickn33/agentic-awesome-skills",
+  "source_file": "https://github.com/sickn33/agentic-awesome-skills/blob/HEAD/skills/seo-aeo-internal-linking/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "SEO-AEO internal linking"
+  ],
+  "page": "https://skills.marketing/skills/sickn33-agentic-awesome-skills--seo-aeo-internal-linking--9xybz8"
+}

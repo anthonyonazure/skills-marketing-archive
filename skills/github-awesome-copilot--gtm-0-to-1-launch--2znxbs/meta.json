@@ -1,0 +1,14 @@
+{
+  "slug": "github-awesome-copilot--gtm-0-to-1-launch--2znxbs",
+  "name": "GTM 0 to 1 launch",
+  "description": "Launch new products from idea to first customers. It gives the agent a clearer input/output frame for growth marketing: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/github/awesome-copilot",
+  "source_file": "https://github.com/github/awesome-copilot/blob/HEAD/skills/gtm-0-to-1-launch/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "GTM 0 to 1 launch"
+  ],
+  "page": "https://skills.marketing/skills/github-awesome-copilot--gtm-0-to-1-launch--2znxbs"
+}

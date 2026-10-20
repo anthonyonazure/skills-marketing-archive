@@ -1,0 +1,14 @@
+{
+  "slug": "agricidaniel-claude-ads--ads-microsoft--1p8lty",
+  "name": "Microsoft ads deep analysis",
+  "description": "Microsoft/Bing Ads deep analysis covering search, Performance Max, Audience Network, and Copilot integration. It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/agricidaniel/claude-ads",
+  "source_file": "https://github.com/agricidaniel/claude-ads/blob/HEAD/skills/ads-microsoft/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "microsoft ads deep analysis"
+  ],
+  "page": "https://skills.marketing/skills/agricidaniel-claude-ads--ads-microsoft--1p8lty"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "manojbajaj95-claude-gtm-plugin--content-strategy-and-planning--9dyihz",
+  "name": "Content strategy & planning",
+  "description": "Unified skill for content strategy and marketing content strategy: content pillars, editorial calendars, keyword research by buyer stage, positioning, messaging hierarchy, trust-building. It gives the agent a clearer input/output frame for content production: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/manojbajaj95/claude-gtm-plugin",
+  "source_file": "https://github.com/manojbajaj95/claude-gtm-plugin/blob/HEAD/skills/content-strategy-and-planning/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "content strategy & planning"
+  ],
+  "page": "https://skills.marketing/skills/manojbajaj95-claude-gtm-plugin--content-strategy-and-planning--9dyihz"
+}

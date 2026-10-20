@@ -1,0 +1,14 @@
+{
+  "slug": "pratikshadake-claude-product-management-skills--assumption-mapper--1yacagi",
+  "name": "Assumption mapper",
+  "description": "Exposes hidden risks by identifying and ranking assumptions across desirability, feasibility, and viability categories. It gives the agent a clearer input/output frame for assumption mapper: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/pratikshadake/claude-product-management-skills",
+  "source_file": "https://github.com/pratikshadake/claude-product-management-skills/blob/HEAD/skills/assumption-mapper/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "assumption mapper"
+  ],
+  "page": "https://skills.marketing/skills/pratikshadake-claude-product-management-skills--assumption-mapper--1yacagi"
+}

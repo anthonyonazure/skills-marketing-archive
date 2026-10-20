@@ -1,0 +1,14 @@
+{
+  "slug": "jonathimer-devmarketing-skills--developer-churn--9ridtq",
+  "name": "Developer churn",
+  "description": "This skill helps you understand why developers leave, identify at-risk users before they churn, and win back those who've already left. It gives the agent a clearer input/output frame for go-to-market work: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/jonathimer/devmarketing-skills",
+  "source_file": "https://github.com/jonathimer/devmarketing-skills/blob/HEAD/skills/developer-churn/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "developer churn"
+  ],
+  "page": "https://skills.marketing/skills/jonathimer-devmarketing-skills--developer-churn--9ridtq"
+}

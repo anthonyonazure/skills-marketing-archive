@@ -1,0 +1,14 @@
+{
+  "slug": "nexscope-ai-ecommerce-skills--shopify-landing-page-builder--1j9b1dz",
+  "name": "Shopify landing page builder",
+  "description": "High-converting landing pages \u2014 campaign pages, collection pages, seasonal promos, A/B testing It gives the agent a clearer input/output frame for conversion optimization: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/nexscope-ai/ecommerce-skills",
+  "source_file": "https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-landing-page-builder/SKILL.md",
+  "license": "MIT",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "Shopify landing page builder"
+  ],
+  "page": "https://skills.marketing/skills/nexscope-ai-ecommerce-skills--shopify-landing-page-builder--1j9b1dz"
+}

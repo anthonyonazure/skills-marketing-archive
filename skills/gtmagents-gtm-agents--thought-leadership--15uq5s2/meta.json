@@ -1,0 +1,14 @@
+{
+  "slug": "gtmagents-gtm-agents--thought-leadership--15uq5s2",
+  "name": "Thought leadership",
+  "description": "When to Use CEO/CMO needs a compelling POV on industry trends. It gives the agent a clearer input/output frame for paid media: what context to ask for, what decisions to make, and what usable artifact to return.",
+  "repo": "https://github.com/gtmagents/gtm-agents",
+  "source_file": "https://github.com/gtmagents/gtm-agents/blob/HEAD/plugins/content-marketing/skills/thought-leadership/SKILL.md",
+  "license": "Apache-2.0",
+  "topics": [
+    "AI agents",
+    "Marketing automation",
+    "thought leadership"
+  ],
+  "page": "https://skills.marketing/skills/gtmagents-gtm-agents--thought-leadership--15uq5s2"
+}
